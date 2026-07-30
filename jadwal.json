@@ -1,0 +1,150 @@
+{
+  "version": "2.0",
+  "date": "2026-07-31",
+  "title": "Jadwal Olahraga",
+  "events": [
+    {
+      "id": 1,
+      "time": "00:00",
+      "category": "Football",
+      "icon": "⚽",
+      "league": "Women's Africa Cup of Nations",
+      "match": "Senegal vs Kenya",
+      "channels": ["beIN Sports 3"],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 2,
+      "time": "03:00",
+      "category": "Football",
+      "icon": "⚽",
+      "league": "Women's Africa Cup of Nations",
+      "match": "Maroko vs Aljazair",
+      "channels": ["beIN Sports 3"],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 3,
+      "time": "10:30",
+      "category": "Golf",
+      "icon": "⛳",
+      "league": "ISPS Handa Senior Open",
+      "match": "Round 2",
+      "channels": ["SPOTV"],
+      "status": "LIVE"
+    },
+    {
+      "id": 4,
+      "time": "15:30",
+      "category": "Football",
+      "icon": "⚽",
+      "league": "Piala Presiden 2026",
+      "match": "Arema FC vs DPMM FC",
+      "channels": [
+        "Indosiar",
+        "Vidio"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 5,
+      "time": "17:00",
+      "category": "Football",
+      "icon": "⚽",
+      "league": "ASEAN Championship 2026",
+      "match": "Timor Leste vs Indonesia",
+      "channels": [
+        "RCTI",
+        "GTV",
+        "Vision+"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 6,
+      "time": "19:30",
+      "category": "Football",
+      "icon": "⚽",
+      "league": "Piala Presiden 2026",
+      "match": "Persib Bandung vs Tampines Rovers",
+      "channels": [
+        "Indosiar",
+        "Vidio"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 7,
+      "time": "20:00",
+      "category": "Football",
+      "icon": "⚽",
+      "league": "ASEAN Championship 2026",
+      "match": "Vietnam vs Singapura",
+      "channels": [
+        "Mewatch 5",
+        "Mewatch 6"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 8,
+      "time": "--:--",
+      "category": "MotoGP",
+      "icon": "🏍",
+      "league": "MotoGP World Championship",
+      "match": "Tidak ada sesi hari ini",
+      "channels": [
+        "SPOTV 2"
+      ],
+      "status": "OFF"
+    },
+    {
+      "id": 9,
+      "time": "--:--",
+      "category": "Formula 1",
+      "icon": "🏎",
+      "league": "FIA Formula One",
+      "match": "Tidak ada sesi hari ini",
+      "channels": [
+        "beIN Sports 1"
+      ],
+      "status": "OFF"
+    },
+    {
+      "id": 10,
+      "time": "--:--",
+      "category": "Volleyball",
+      "icon": "🏐",
+      "league": "International Volleyball",
+      "match": "Tidak ada siaran langsung hari ini",
+      "channels": [
+        "Champions TV 2"
+      ],
+      "status": "OFF"
+    },
+    {
+      "id": 11,
+      "time": "--:--",
+      "category": "Badminton",
+      "icon": "🏸",
+      "league": "International Badminton",
+      "match": "Tidak ada siaran langsung hari ini",
+      "channels": [
+        "SPOTV"
+      ],
+      "status": "OFF"
+    },
+    {
+      "id": 12,
+      "time": "--:--",
+      "category": "Basketball",
+      "icon": "🏀",
+      "league": "International Basketball",
+      "match": "Tidak ada siaran langsung hari ini",
+      "channels": [
+        "Sportstars 2"
+      ],
+      "status": "OFF"
+    }
+  ]
+}

@@ -1,2 +1,0 @@
-# hanma-schedule
-hanma-schedule
