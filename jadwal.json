@@ -1,133 +1,205 @@
 {
-  "version": "4.0",
+  "version": "2.1",
   "date": "2026-08-01",
   "title": "Jadwal Olahraga",
-  "timezone": "Asia/Jakarta",
   "events": [
     {
       "id": 1,
+      "time": "00:00",
       "category": "Football",
       "icon": "⚽",
       "league": "Women's Africa Cup of Nations",
       "match": "Afrika Selatan vs Pantai Gading",
-      "start": "2026-08-01T00:00:00+07:00",
-      "end": "2026-08-01T01:50:00+07:00",
       "channels": [
         "beIN Sports 1"
-      ]
+      ],
+      "status": "UPCOMING"
     },
     {
       "id": 2,
+      "time": "03:00",
       "category": "Football",
       "icon": "⚽",
       "league": "Women's Africa Cup of Nations",
       "match": "Burkina Faso vs Tanzania",
-      "start": "2026-08-01T03:00:00+07:00",
-      "end": "2026-08-01T04:50:00+07:00",
       "channels": [
         "beIN Sports 1"
-      ]
+      ],
+      "status": "UPCOMING"
     },
     {
       "id": 3,
+      "time": "10:30",
+      "category": "Golf",
+      "icon": "⛳",
+      "league": "ISPS Handa Senior Open",
+      "match": "Round 3",
+      "channels": [
+        "SPOTV"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 4,
+      "time": "13:30",
+      "category": "Golf",
+      "icon": "⛳",
+      "league": "AIG Women's Open",
+      "match": "Round 3",
+      "channels": [
+        "SPOTV"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 5,
+      "time": "15:30",
       "category": "Football",
       "icon": "⚽",
       "league": "Piala Presiden 2026",
       "match": "Persija Jakarta vs PSMS Medan",
-      "start": "2026-08-01T15:30:00+07:00",
-      "end": "2026-08-01T17:30:00+07:00",
       "channels": [
         "Indosiar",
         "Vidio"
-      ]
+      ],
+      "status": "UPCOMING"
     },
     {
-      "id": 4,
+      "id": 6,
+      "time": "17:00",
       "category": "Football",
       "icon": "⚽",
       "league": "ASEAN Championship 2026",
       "match": "Laos vs Filipina",
-      "start": "2026-08-01T17:00:00+07:00",
-      "end": "2026-08-01T18:50:00+07:00",
       "channels": [
         "Sportstars 2",
         "Vision+"
-      ]
+      ],
+      "status": "UPCOMING"
     },
     {
-      "id": 5,
+      "id": 7,
+      "time": "19:00",
       "category": "Football",
       "icon": "⚽",
-      "league": "Indonesia All Stars Friendly Match",
+      "league": "International Friendly",
       "match": "Indonesia All Stars vs Aston Villa",
-      "venue": "Stadion Utama Gelora Bung Karno",
-      "start": "2026-08-01T19:00:00+07:00",
-      "end": "2026-08-01T21:00:00+07:00",
       "channels": [
         "ANTV"
-      ]
+      ],
+      "status": "UPCOMING"
     },
     {
-      "id": 6,
+      "id": 8,
+      "time": "19:30",
       "category": "Football",
       "icon": "⚽",
       "league": "Piala Presiden 2026",
       "match": "Persebaya Surabaya vs Port FC",
-      "start": "2026-08-01T19:30:00+07:00",
-      "end": "2026-08-01T21:30:00+07:00",
       "channels": [
         "Indosiar",
         "Vidio"
-      ]
+      ],
+      "status": "UPCOMING"
     },
     {
-      "id": 7,
+      "id": 9,
+      "time": "20:00",
       "category": "Football",
       "icon": "⚽",
       "league": "ASEAN Championship 2026",
       "match": "Thailand vs Malaysia",
-      "start": "2026-08-01T20:00:00+07:00",
-      "end": "2026-08-01T21:50:00+07:00",
       "channels": [
         "Sportstars 2",
         "Vision+"
-      ]
+      ],
+      "status": "UPCOMING"
     },
     {
-      "id": 8,
+      "id": 10,
+      "time": "20:00",
       "category": "Football",
       "icon": "⚽",
       "league": "Club Friendly",
       "match": "Manchester United vs Atlético Madrid",
-      "start": "2026-08-01T20:00:00+07:00",
-      "end": "2026-08-01T22:00:00+07:00",
       "channels": [
         "MUTV"
-      ]
+      ],
+      "status": "UPCOMING"
     },
     {
-      "id": 9,
+      "id": 11,
+      "time": "21:00",
       "category": "Football",
       "icon": "⚽",
       "league": "Club Friendly",
       "match": "Cardiff City vs AS Roma",
-      "start": "2026-08-01T21:00:00+07:00",
-      "end": "2026-08-01T23:00:00+07:00",
       "channels": [
         "beIN Sports 1"
-      ]
+      ],
+      "status": "UPCOMING"
     },
     {
-      "id": 10,
+      "id": 12,
+      "time": "22:00",
       "category": "Football",
       "icon": "⚽",
       "league": "Club Friendly",
       "match": "Hamburger SV vs Everton",
-      "start": "2026-08-01T22:00:00+07:00",
-      "end": "2026-08-02T00:00:00+07:00",
       "channels": [
         "beIN Sports 2"
-      ]
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 13,
+      "time": "--:--",
+      "category": "MotoGP",
+      "icon": "🏍",
+      "league": "MotoGP World Championship",
+      "match": "Tidak ada sesi hari ini",
+      "channels": [],
+      "status": "OFF"
+    },
+    {
+      "id": 14,
+      "time": "--:--",
+      "category": "Formula 1",
+      "icon": "🏎",
+      "league": "FIA Formula One World Championship",
+      "match": "Tidak ada sesi hari ini",
+      "channels": [],
+      "status": "OFF"
+    },
+    {
+      "id": 15,
+      "time": "--:--",
+      "category": "Volleyball",
+      "icon": "🏐",
+      "league": "Volleyball",
+      "match": "Tidak ada siaran langsung hari ini",
+      "channels": [],
+      "status": "OFF"
+    },
+    {
+      "id": 16,
+      "time": "--:--",
+      "category": "Badminton",
+      "icon": "🏸",
+      "league": "Badminton",
+      "match": "Tidak ada siaran langsung hari ini",
+      "channels": [],
+      "status": "OFF"
+    },
+    {
+      "id": 17,
+      "time": "--:--",
+      "category": "Basketball",
+      "icon": "🏀",
+      "league": "Basketball",
+      "match": "Tidak ada siaran langsung hari ini",
+      "channels": [],
+      "status": "OFF"
     }
   ]
 }
