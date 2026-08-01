@@ -1,6 +1,6 @@
 {
   "version": "2.1",
-  "date": "2026-08-01",
+  "date": "2026-08-02",
   "title": "Jadwal Olahraga",
   "events": [
     {
@@ -8,8 +8,8 @@
       "time": "00:00",
       "category": "Football",
       "icon": "⚽",
-      "league": "Women's Africa Cup of Nations",
-      "match": "Afrika Selatan vs Pantai Gading",
+      "league": "Club Friendly",
+      "match": "Benfica vs Newcastle United",
       "channels": [
         "beIN Sports 1"
       ],
@@ -17,23 +17,23 @@
     },
     {
       "id": 2,
-      "time": "03:00",
+      "time": "02:00",
       "category": "Football",
       "icon": "⚽",
-      "league": "Women's Africa Cup of Nations",
-      "match": "Burkina Faso vs Tanzania",
+      "league": "Club Friendly",
+      "match": "Real Betis vs Como",
       "channels": [
-        "beIN Sports 1"
+        "beIN Sports 2"
       ],
       "status": "UPCOMING"
     },
     {
       "id": 3,
-      "time": "10:30",
+      "time": "08:00",
       "category": "Golf",
       "icon": "⛳",
-      "league": "ISPS Handa Senior Open",
-      "match": "Round 3",
+      "league": "AIG Women's Open",
+      "match": "Final Round",
       "channels": [
         "SPOTV"
       ],
@@ -41,128 +41,48 @@
     },
     {
       "id": 4,
-      "time": "13:30",
+      "time": "13:00",
       "category": "Golf",
       "icon": "⛳",
-      "league": "AIG Women's Open",
-      "match": "Round 3",
+      "league": "LIV Golf",
+      "match": "Final Round",
       "channels": [
-        "SPOTV"
+        "SPOTV 2"
       ],
       "status": "UPCOMING"
     },
     {
       "id": 5,
-      "time": "15:30",
-      "category": "Football",
-      "icon": "⚽",
-      "league": "Piala Presiden 2026",
-      "match": "Persija Jakarta vs PSMS Medan",
-      "channels": [
-        "Indosiar",
-        "Vidio"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 6,
-      "time": "17:00",
-      "category": "Football",
-      "icon": "⚽",
-      "league": "ASEAN Championship 2026",
-      "match": "Laos vs Filipina",
-      "channels": [
-        "Sportstars 2",
-        "Vision+"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 7,
-      "time": "19:00",
-      "category": "Football",
-      "icon": "⚽",
-      "league": "International Friendly",
-      "match": "Indonesia All Stars vs Aston Villa",
-      "channels": [
-        "ANTV"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 8,
-      "time": "19:30",
-      "category": "Football",
-      "icon": "⚽",
-      "league": "Piala Presiden 2026",
-      "match": "Persebaya Surabaya vs Port FC",
-      "channels": [
-        "Indosiar",
-        "Vidio"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 9,
-      "time": "20:00",
-      "category": "Football",
-      "icon": "⚽",
-      "league": "ASEAN Championship 2026",
-      "match": "Thailand vs Malaysia",
-      "channels": [
-        "Sportstars 2",
-        "Vision+"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 10,
-      "time": "20:00",
-      "category": "Football",
-      "icon": "⚽",
-      "league": "Club Friendly",
-      "match": "Manchester United vs Atlético Madrid",
-      "channels": [
-        "MUTV"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 11,
-      "time": "21:00",
-      "category": "Football",
-      "icon": "⚽",
-      "league": "Club Friendly",
-      "match": "Cardiff City vs AS Roma",
-      "channels": [
-        "beIN Sports 1"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 12,
-      "time": "22:00",
-      "category": "Football",
-      "icon": "⚽",
-      "league": "Club Friendly",
-      "match": "Hamburger SV vs Everton",
-      "channels": [
-        "beIN Sports 2"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 13,
       "time": "--:--",
-      "category": "MotoGP",
-      "icon": "🏍",
-      "league": "MotoGP World Championship",
-      "match": "Tidak ada sesi hari ini",
+      "category": "Badminton",
+      "icon": "🏸",
+      "league": "BWF World Tour",
+      "match": "Tidak ada siaran langsung hari ini",
       "channels": [],
       "status": "OFF"
     },
     {
-      "id": 14,
+      "id": 6,
+      "time": "--:--",
+      "category": "Volleyball",
+      "icon": "🏐",
+      "league": "International Volleyball",
+      "match": "Tidak ada siaran langsung hari ini",
+      "channels": [],
+      "status": "OFF"
+    },
+    {
+      "id": 7,
+      "time": "--:--",
+      "category": "Basketball",
+      "icon": "🏀",
+      "league": "International Basketball",
+      "match": "Tidak ada siaran langsung hari ini",
+      "channels": [],
+      "status": "OFF"
+    },
+    {
+      "id": 8,
       "time": "--:--",
       "category": "Formula 1",
       "icon": "🏎",
@@ -172,31 +92,41 @@
       "status": "OFF"
     },
     {
-      "id": 15,
+      "id": 9,
       "time": "--:--",
-      "category": "Volleyball",
-      "icon": "🏐",
-      "league": "Volleyball",
+      "category": "MotoGP",
+      "icon": "🏍",
+      "league": "MotoGP World Championship",
+      "match": "Tidak ada sesi hari ini",
+      "channels": [],
+      "status": "OFF"
+    },
+    {
+      "id": 10,
+      "time": "--:--",
+      "category": "Cycling",
+      "icon": "🚴",
+      "league": "UCI World Tour",
       "match": "Tidak ada siaran langsung hari ini",
       "channels": [],
       "status": "OFF"
     },
     {
-      "id": 16,
+      "id": 11,
       "time": "--:--",
-      "category": "Badminton",
-      "icon": "🏸",
-      "league": "Badminton",
+      "category": "Boxing",
+      "icon": "🥊",
+      "league": "UFC / Boxing",
       "match": "Tidak ada siaran langsung hari ini",
       "channels": [],
       "status": "OFF"
     },
     {
-      "id": 17,
+      "id": 12,
       "time": "--:--",
-      "category": "Basketball",
-      "icon": "🏀",
-      "league": "Basketball",
+      "category": "Tennis",
+      "icon": "🎾",
+      "league": "ATP / WTA Tour",
       "match": "Tidak ada siaran langsung hari ini",
       "channels": [],
       "status": "OFF"
