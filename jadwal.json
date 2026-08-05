@@ -1,15 +1,15 @@
 {
   "version": "2.1",
-  "date": "2026-08-04",
+  "date": "2026-08-05",
   "title": "Jadwal Olahraga",
   "events": [
     {
       "id": 1,
-      "time": "03:00",
+      "time": "00:00",
       "category": "Football",
       "icon": "⚽",
-      "league": "Women's Africa Cup of Nations",
-      "match": "Senegal vs Maroko",
+      "league": "Club Friendly",
+      "match": "Olympique Marseille vs Sevilla",
       "channels": [
         "beIN Sports 1"
       ],
@@ -17,11 +17,11 @@
     },
     {
       "id": 2,
-      "time": "03:00",
+      "time": "02:30",
       "category": "Football",
       "icon": "⚽",
-      "league": "Women's Africa Cup of Nations",
-      "match": "Kenya vs Aljazair",
+      "league": "Club Friendly",
+      "match": "Sporting CP vs Villarreal",
       "channels": [
         "beIN Sports 2"
       ],
@@ -29,143 +29,95 @@
     },
     {
       "id": 3,
-      "time": "15:30",
-      "category": "Football",
-      "icon": "⚽",
-      "league": "Piala Presiden 2026",
-      "match": "Persib Bandung vs Persija Jakarta",
+      "time": "09:00",
+      "category": "Golf",
+      "icon": "⛳",
+      "league": "Golf Highlights",
+      "match": "Best of AIG Women's Open",
       "channels": [
-        "Indosiar",
-        "Vidio"
+        "SPOTV"
       ],
       "status": "UPCOMING"
     },
     {
       "id": 4,
-      "time": "17:00",
-      "category": "Football",
-      "icon": "⚽",
-      "league": "ASEAN Championship 2026",
-      "match": "Myanmar vs Laos",
+      "time": "11:00",
+      "category": "Cycling",
+      "icon": "🚴",
+      "league": "UCI World Tour Highlights",
+      "match": "Race Highlights",
       "channels": [
-        "Sportstars 2",
-        "Vision+"
+        "SPOTV 2"
       ],
       "status": "UPCOMING"
     },
     {
       "id": 5,
-      "time": "19:30",
-      "category": "Football",
-      "icon": "⚽",
-      "league": "Piala Presiden 2026",
-      "match": "Persebaya Surabaya vs Arema FC",
-      "channels": [
-        "Indosiar",
-        "Vidio"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 6,
-      "time": "20:00",
-      "category": "Football",
-      "icon": "⚽",
-      "league": "ASEAN Championship 2026",
-      "match": "Filipina vs Thailand",
-      "channels": [
-        "Sportstars 2",
-        "Vision+"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 7,
       "time": "--:--",
       "category": "Badminton",
       "icon": "🏸",
       "league": "BWF World Tour",
-      "match": "Tidak ada siaran langsung hari ini",
+      "match": "Tidak ada siaran langsung",
+      "channels": [],
+      "status": "OFF"
+    },
+    {
+      "id": 6,
+      "time": "--:--",
+      "category": "Volleyball",
+      "icon": "🏐",
+      "league": "Volleyball",
+      "match": "Tidak ada siaran langsung",
+      "channels": [],
+      "status": "OFF"
+    },
+    {
+      "id": 7,
+      "time": "--:--",
+      "category": "Basketball",
+      "icon": "🏀",
+      "league": "Basketball",
+      "match": "Tidak ada siaran langsung",
       "channels": [],
       "status": "OFF"
     },
     {
       "id": 8,
       "time": "--:--",
-      "category": "Volleyball",
-      "icon": "🏐",
-      "league": "International Volleyball",
-      "match": "Tidak ada siaran langsung hari ini",
+      "category": "Formula 1",
+      "icon": "🏎",
+      "league": "Formula 1",
+      "match": "Tidak ada sesi",
       "channels": [],
       "status": "OFF"
     },
     {
       "id": 9,
       "time": "--:--",
-      "category": "Basketball",
-      "icon": "🏀",
-      "league": "International Basketball",
-      "match": "Tidak ada siaran langsung hari ini",
+      "category": "MotoGP",
+      "icon": "🏍",
+      "league": "MotoGP",
+      "match": "Tidak ada sesi",
       "channels": [],
       "status": "OFF"
     },
     {
       "id": 10,
       "time": "--:--",
-      "category": "Formula 1",
-      "icon": "🏎",
-      "league": "FIA Formula One World Championship",
-      "match": "Tidak ada sesi hari ini",
+      "category": "Boxing",
+      "icon": "🥊",
+      "league": "UFC / Boxing",
+      "match": "Tidak ada siaran langsung",
       "channels": [],
       "status": "OFF"
     },
     {
       "id": 11,
       "time": "--:--",
-      "category": "MotoGP",
-      "icon": "🏍",
-      "league": "MotoGP World Championship",
-      "match": "Tidak ada sesi hari ini",
-      "channels": [],
-      "status": "OFF"
-    },
-    {
-      "id": 12,
-      "time": "--:--",
-      "category": "Golf",
-      "icon": "⛳",
-      "league": "International Golf",
-      "match": "Tidak ada siaran langsung hari ini",
-      "channels": [],
-      "status": "OFF"
-    },
-    {
-      "id": 13,
-      "time": "--:--",
-      "category": "Cycling",
-      "icon": "🚴",
-      "league": "UCI World Tour",
-      "match": "Tidak ada siaran langsung hari ini",
-      "channels": [],
-      "status": "OFF"
-    },
-    {
-      "id": 14,
-      "time": "--:--",
-      "category": "Boxing",
-      "icon": "🥊",
-      "league": "UFC / Boxing",
-      "match": "Tidak ada siaran langsung hari ini",
-      "channels": [],
-      "status": "OFF"
-    },
-    {
-      "id": 15,
-      "time": "--:--",
       "category": "Tennis",
       "icon": "🎾",
       "league": "ATP / WTA Tour",
-      "match": "Tidak ada siaran langsung hari ini",
+      "match": "Tidak ada siaran langsung",
       "channels": [],
       "status": "OFF"
     }
