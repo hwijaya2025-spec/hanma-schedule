@@ -36,7 +36,8 @@
       "league": "EFL Championship",
       "match": "Wolverhampton Wanderers vs Blackburn Rovers",
       "channels": [
-        "IEG"
+        "Astro Premier League",
+        "TNT Sports 1 🇬🇧"
       ],
       "status": "UPCOMING"
     },
@@ -72,7 +73,8 @@
       "league": "Trendyol Süper Lig",
       "match": "Gençlerbirliği vs Fenerbahçe",
       "channels": [
-        "beIN Sports"
+        "beIN Sports",
+        "beIN Sports 1 🇮🇩"
       ],
       "status": "UPCOMING"
     },
@@ -84,6 +86,7 @@
       "league": "Primeira Liga",
       "match": "Sporting CP vs Vitória Guimarães",
       "channels": [
+        "Prima Sport",
         "Sport TV"
       ],
       "status": "UPCOMING"
@@ -132,7 +135,8 @@
       "league": "ATP / WTA Cincinnati Open",
       "match": "Cincinnati Open - Day Session",
       "channels": [
-        "SPOTV"
+        "SPOTV",
+        "SPOTV 🇮🇩"
       ],
       "status": "UPCOMING"
     },
@@ -144,7 +148,8 @@
       "league": "ATP / WTA Cincinnati Open",
       "match": "Cincinnati Open - Night Session",
       "channels": [
-        "SPOTV"
+        "SPOTV",
+        "SPOTV 🇮🇩"
       ],
       "status": "UPCOMING"
     },
@@ -192,7 +197,8 @@
       "league": "European Aquatics Championships",
       "match": "Semi-finals & Finals",
       "channels": [
-        "beIN Sports"
+        "beIN Sports",
+        "beIN Sports 3 🇮🇩"
       ],
       "status": "UPCOMING"
     },
@@ -248,3 +254,4 @@
     }
   ]
     }
+      
