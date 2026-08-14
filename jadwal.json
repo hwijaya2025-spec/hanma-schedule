@@ -1,125 +1,250 @@
 {
   "version": "2.1",
-  "date": "2026-08-05",
+  "date": "2026-08-14",
   "title": "Jadwal Olahraga",
+  "timezone": "Asia/Jakarta",
   "events": [
     {
       "id": 1,
-      "time": "00:00",
+      "time": "02:15",
       "category": "Football",
       "icon": "⚽",
-      "league": "Club Friendly",
-      "match": "Olympique Marseille vs Sevilla",
+      "league": "Trendyol Süper Lig",
+      "match": "Gaziantep FK vs Alanyaspor",
       "channels": [
-        "beIN Sports 1"
+        "beIN Sports"
       ],
       "status": "UPCOMING"
     },
     {
       "id": 2,
-      "time": "02:30",
+      "time": "02:15",
       "category": "Football",
       "icon": "⚽",
-      "league": "Club Friendly",
-      "match": "Sporting CP vs Villarreal",
+      "league": "Trendyol Süper Lig",
+      "match": "Kasımpaşa vs Trabzonspor",
       "channels": [
-        "beIN Sports 2"
+        "beIN Sports"
       ],
       "status": "UPCOMING"
     },
     {
       "id": 3,
-      "time": "09:00",
+      "time": "02:30",
+      "category": "Football",
+      "icon": "⚽",
+      "league": "EFL Championship",
+      "match": "Wolverhampton Wanderers vs Blackburn Rovers",
+      "channels": [
+        "IEG"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 4,
+      "time": "02:30",
+      "category": "Football",
+      "icon": "⚽",
+      "league": "Trendyol Süper Lig",
+      "match": "Başakşehir vs Kocaelispor",
+      "channels": [
+        "beIN Sports"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 5,
+      "time": "02:30",
+      "category": "Football",
+      "icon": "⚽",
+      "league": "Trendyol Süper Lig",
+      "match": "Amedspor vs Erzurumspor FK",
+      "channels": [
+        "beIN Sports"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 6,
+      "time": "02:30",
+      "category": "Football",
+      "icon": "⚽",
+      "league": "Trendyol Süper Lig",
+      "match": "Gençlerbirliği vs Fenerbahçe",
+      "channels": [
+        "beIN Sports"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 7,
+      "time": "02:15",
+      "category": "Football",
+      "icon": "⚽",
+      "league": "Primeira Liga",
+      "match": "Sporting CP vs Vitória Guimarães",
+      "channels": [
+        "Sport TV"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 8,
+      "time": "08:00",
       "category": "Golf",
       "icon": "⛳",
-      "league": "Golf Highlights",
-      "match": "Best of AIG Women's Open",
+      "league": "PGA Tour",
+      "match": "FedEx St. Jude Championship",
+      "channels": [
+        "TBA"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 9,
+      "time": "07:00",
+      "category": "Golf",
+      "icon": "⛳",
+      "league": "LPGA Tour",
+      "match": "Portland Classic",
+      "channels": [
+        "TBA"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 10,
+      "time": "08:00",
+      "category": "Golf",
+      "icon": "⛳",
+      "league": "DP World Tour",
+      "match": "Danish Golf Championship",
+      "channels": [
+        "TBA"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 11,
+      "time": "22:00",
+      "category": "Tennis",
+      "icon": "🎾",
+      "league": "ATP / WTA Cincinnati Open",
+      "match": "Cincinnati Open - Day Session",
       "channels": [
         "SPOTV"
       ],
       "status": "UPCOMING"
     },
     {
-      "id": 4,
-      "time": "11:00",
-      "category": "Cycling",
-      "icon": "🚴",
-      "league": "UCI World Tour Highlights",
-      "match": "Race Highlights",
+      "id": 12,
+      "time": "08:00",
+      "category": "Tennis",
+      "icon": "🎾",
+      "league": "ATP / WTA Cincinnati Open",
+      "match": "Cincinnati Open - Night Session",
       "channels": [
-        "SPOTV 2"
+        "SPOTV"
       ],
       "status": "UPCOMING"
     },
     {
-      "id": 5,
+      "id": 13,
+      "time": "19:00",
+      "category": "Basketball",
+      "icon": "🏀",
+      "league": "FIBA 3x3 World Tour",
+      "match": "FIBA 3x3 World Tour",
+      "channels": [
+        "TBA"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 14,
+      "time": "07:00",
+      "category": "Motorsport",
+      "icon": "🏎",
+      "league": "NASCAR",
+      "match": "NASCAR Practice / Qualifying",
+      "channels": [
+        "TBA"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 15,
+      "time": "08:00",
+      "category": "Motorsport",
+      "icon": "🏎",
+      "league": "IndyCar",
+      "match": "IndyCar Practice",
+      "channels": [
+        "TBA"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 16,
+      "time": "15:00",
+      "category": "Swimming",
+      "icon": "🏊",
+      "league": "European Aquatics Championships",
+      "match": "Semi-finals & Finals",
+      "channels": [
+        "beIN Sports"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 17,
       "time": "--:--",
       "category": "Badminton",
       "icon": "🏸",
-      "league": "BWF World Tour",
-      "match": "Tidak ada siaran langsung",
+      "league": "BWF World Championships",
+      "match": "Tidak ada pertandingan - turnamen dimulai 17 Agustus",
       "channels": [],
       "status": "OFF"
     },
     {
-      "id": 6,
+      "id": 18,
       "time": "--:--",
       "category": "Volleyball",
       "icon": "🏐",
       "league": "Volleyball",
-      "match": "Tidak ada siaran langsung",
+      "match": "Tidak ada siaran langsung utama yang terverifikasi",
       "channels": [],
       "status": "OFF"
     },
     {
-      "id": 7,
-      "time": "--:--",
-      "category": "Basketball",
-      "icon": "🏀",
-      "league": "Basketball",
-      "match": "Tidak ada siaran langsung",
-      "channels": [],
-      "status": "OFF"
-    },
-    {
-      "id": 8,
+      "id": 19,
       "time": "--:--",
       "category": "Formula 1",
       "icon": "🏎",
       "league": "Formula 1",
-      "match": "Tidak ada sesi",
+      "match": "Tidak ada sesi Formula 1",
       "channels": [],
       "status": "OFF"
     },
     {
-      "id": 9,
+      "id": 20,
       "time": "--:--",
       "category": "MotoGP",
       "icon": "🏍",
       "league": "MotoGP",
-      "match": "Tidak ada sesi",
+      "match": "Tidak ada sesi MotoGP",
       "channels": [],
       "status": "OFF"
     },
     {
-      "id": 10,
+      "id": 21,
       "time": "--:--",
       "category": "Boxing",
       "icon": "🥊",
       "league": "UFC / Boxing",
-      "match": "Tidak ada siaran langsung",
-      "channels": [],
-      "status": "OFF"
-    },
-    {
-      "id": 11,
-      "time": "--:--",
-      "category": "Tennis",
-      "icon": "🎾",
-      "league": "ATP / WTA Tour",
-      "match": "Tidak ada siaran langsung",
+      "match": "Tidak ada pertandingan utama yang terverifikasi",
       "channels": [],
       "status": "OFF"
     }
   ]
-}
+    }
