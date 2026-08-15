@@ -1,6 +1,6 @@
 {
   "version": "2.1",
-  "date": "2026-08-14",
+  "date": "2026-08-16",
   "title": "Jadwal Olahraga",
   "timezone": "Asia/Jakarta",
   "events": [
@@ -12,7 +12,7 @@
       "league": "Trendyol Süper Lig",
       "match": "Gaziantep FK vs Alanyaspor",
       "channels": [
-        "beIN Sports"
+        "beIN Sports 1 🇮🇩"
       ],
       "status": "UPCOMING"
     },
@@ -24,7 +24,7 @@
       "league": "Trendyol Süper Lig",
       "match": "Kasımpaşa vs Trabzonspor",
       "channels": [
-        "beIN Sports"
+        "beIN Sports 2 🇮🇩"
       ],
       "status": "UPCOMING"
     },
@@ -49,7 +49,7 @@
       "league": "Trendyol Süper Lig",
       "match": "Başakşehir vs Kocaelispor",
       "channels": [
-        "beIN Sports"
+        "beIN Sports 3 🇮🇩"
       ],
       "status": "UPCOMING"
     },
@@ -61,7 +61,7 @@
       "league": "Trendyol Süper Lig",
       "match": "Amedspor vs Erzurumspor FK",
       "channels": [
-        "beIN Sports"
+        "beIN Sports 4 🇮🇩"
       ],
       "status": "UPCOMING"
     },
@@ -73,7 +73,7 @@
       "league": "Trendyol Süper Lig",
       "match": "Gençlerbirliği vs Fenerbahçe",
       "channels": [
-        "beIN Sports",
+        "beIN Sports 5 🇮🇩",
         "beIN Sports 1 🇮🇩"
       ],
       "status": "UPCOMING"
@@ -86,49 +86,62 @@
       "league": "Primeira Liga",
       "match": "Sporting CP vs Vitória Guimarães",
       "channels": [
-        "Prima Sport",
-        "Sport TV"
+        "Prima Sport 2",
+        "Sport1"
       ],
       "status": "UPCOMING"
     },
     {
       "id": 8,
+      "time": "20:30",
+      "category": "Football",
+      "icon": "⚽",
+      "league": "Club Friendly",
+      "match": "Laga Persahabatan Klub",
+      "channels": [
+        "Sportdigital Fussball",
+        "Super Sports 2"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 9,
       "time": "08:00",
       "category": "Golf",
       "icon": "⛳",
       "league": "PGA Tour",
       "match": "FedEx St. Jude Championship",
       "channels": [
-        "TBA"
+        "Sportstars"
       ],
       "status": "UPCOMING"
     },
     {
-      "id": 9,
+      "id": 10,
       "time": "07:00",
       "category": "Golf",
       "icon": "⛳",
       "league": "LPGA Tour",
       "match": "Portland Classic",
       "channels": [
-        "TBA"
+        "Sportstars 2"
       ],
       "status": "UPCOMING"
     },
     {
-      "id": 10,
+      "id": 11,
       "time": "08:00",
       "category": "Golf",
       "icon": "⛳",
       "league": "DP World Tour",
       "match": "Danish Golf Championship",
       "channels": [
-        "TBA"
+        "Sportstars 3"
       ],
       "status": "UPCOMING"
     },
     {
-      "id": 11,
+      "id": 12,
       "time": "22:00",
       "category": "Tennis",
       "icon": "🎾",
@@ -141,69 +154,69 @@
       "status": "UPCOMING"
     },
     {
-      "id": 12,
+      "id": 13,
       "time": "08:00",
       "category": "Tennis",
       "icon": "🎾",
       "league": "ATP / WTA Cincinnati Open",
       "match": "Cincinnati Open - Night Session",
       "channels": [
-        "SPOTV",
-        "SPOTV 🇮🇩"
+        "SPOTV 2",
+        "SPOTV 2 🇮🇩"
       ],
       "status": "UPCOMING"
     },
     {
-      "id": 13,
+      "id": 14,
       "time": "19:00",
       "category": "Basketball",
       "icon": "🏀",
       "league": "FIBA 3x3 World Tour",
       "match": "FIBA 3x3 World Tour",
       "channels": [
-        "TBA"
+        "Sportstars 4"
       ],
       "status": "UPCOMING"
     },
     {
-      "id": 14,
+      "id": 15,
       "time": "07:00",
       "category": "Motorsport",
       "icon": "🏎",
       "league": "NASCAR",
       "match": "NASCAR Practice / Qualifying",
       "channels": [
-        "TBA"
+        "Sky Sport MotoGP"
       ],
       "status": "UPCOMING"
     },
     {
-      "id": 15,
+      "id": 16,
       "time": "08:00",
       "category": "Motorsport",
       "icon": "🏎",
       "league": "IndyCar",
       "match": "IndyCar Practice",
       "channels": [
-        "TBA"
+        "Sky Sport MotoGP"
       ],
       "status": "UPCOMING"
     },
     {
-      "id": 16,
+      "id": 17,
       "time": "15:00",
       "category": "Swimming",
       "icon": "🏊",
       "league": "European Aquatics Championships",
       "match": "Semi-finals & Finals",
       "channels": [
-        "beIN Sports",
-        "beIN Sports 3 🇮🇩"
+        "beIN Sports 3 🇮🇩",
+        "TVRI Sport"
       ],
       "status": "UPCOMING"
     },
     {
-      "id": 17,
+      "id": 18,
       "time": "--:--",
       "category": "Badminton",
       "icon": "🏸",
@@ -213,7 +226,7 @@
       "status": "OFF"
     },
     {
-      "id": 18,
+      "id": 19,
       "time": "--:--",
       "category": "Volleyball",
       "icon": "🏐",
@@ -223,7 +236,7 @@
       "status": "OFF"
     },
     {
-      "id": 19,
+      "id": 20,
       "time": "--:--",
       "category": "Formula 1",
       "icon": "🏎",
@@ -233,7 +246,7 @@
       "status": "OFF"
     },
     {
-      "id": 20,
+      "id": 21,
       "time": "--:--",
       "category": "MotoGP",
       "icon": "🏍",
@@ -243,7 +256,7 @@
       "status": "OFF"
     },
     {
-      "id": 21,
+      "id": 22,
       "time": "--:--",
       "category": "Boxing",
       "icon": "🥊",
@@ -254,4 +267,3 @@
     }
   ]
     }
-      
