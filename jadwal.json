@@ -1,7 +1,7 @@
 {
   "version": "2.1",
-  "date": "2026-08-17",
-  "title": "Jadwal Olahraga Komprehensif 17 Agustus 2026 (Urutan Waktu)",
+  "date": "2026-08-19",
+  "title": "Jadwal Olahraga",
   "timezone": "Asia/Jakarta",
   "events": [
     {
@@ -9,109 +9,258 @@
       "time": "02:00",
       "category": "Football",
       "icon": "⚽",
-      "league": "Coppa Italia",
-      "match": "Cremonese vs Sampdoria",
-      "channels": ["Sky Sport Calcio", "Prima Sport 4"],
+      "league": "UEFA Champions League",
+      "match": "Celtic vs LASK (Play-offs - Leg 1)",
+      "channels": [
+        "beIN Sports 1 🇮🇩",
+        "TNT Sports 1 🇬🇧",
+        "Sky Sport"
+      ],
       "status": "UPCOMING"
     },
     {
       "id": 2,
-      "time": "08:00",
-      "category": "Basketball",
-      "icon": "🏀",
-      "league": "WNBA / International Basketball",
-      "match": "WNBA Regular Season / Friendly Match",
-      "channels": ["Sportstars 4", "Fubo Sports 1 🇨🇦"],
+      "time": "02:00",
+      "category": "Football",
+      "icon": "⚽",
+      "league": "UEFA Champions League",
+      "match": "Slovan Bratislava vs NK Celje (Play-offs - Leg 1)",
+      "channels": [
+        "beIN Sports 2 🇮🇩",
+        "TNT Sports 2"
+      ],
       "status": "UPCOMING"
     },
     {
       "id": 3,
-      "time": "14:00",
-      "category": "Volleyball",
-      "icon": "🏐",
-      "league": "International Volleyball",
-      "match": "International Volleyball Match",
-      "channels": ["Sportstars 2", "Super Sports 3"],
+      "time": "02:00",
+      "category": "Football",
+      "icon": "⚽",
+      "league": "UEFA Champions League",
+      "match": "NEC Nijmegen vs Bodø/Glimt (Play-offs - Leg 1)",
+      "channels": [
+        "beIN Sports 3 🇮🇩",
+        "Sport 1"
+      ],
       "status": "UPCOMING"
     },
     {
       "id": 4,
-      "time": "15:00",
-      "category": "Badminton",
-      "icon": "🏸",
-      "league": "BWF World Championships",
-      "match": "BWF World Championships - Round of 64",
-      "channels": ["SPOTV", "SPOTV 2", "TVRI Sport"],
+      "time": "02:00",
+      "category": "Football",
+      "icon": "⚽",
+      "league": "UEFA Champions League",
+      "match": "Hapoel Be'er Sheva vs Sabah FK (Play-offs - Leg 1)",
+      "channels": [
+        "beIN Sports 4 🇮🇩",
+        "Sport 2"
+      ],
       "status": "UPCOMING"
     },
     {
       "id": 5,
-      "time": "19:30",
+      "time": "01:00",
       "category": "Football",
       "icon": "⚽",
-      "league": "Turkish Super Lig",
-      "match": "Samsunspor vs Göztepe",
-      "channels": ["beIN Sports 2 🇮🇩"],
+      "league": "Spanish La Liga",
+      "match": "Atlético Madrid vs Málaga",
+      "channels": [
+        "beIN Sports 1 🇦🇺",
+        "Prima Sport 1",
+        "Sky Sport Calcio"
+      ],
       "status": "UPCOMING"
     },
     {
       "id": 6,
-      "time": "20:00",
+      "time": "02:30",
       "category": "Football",
       "icon": "⚽",
-      "league": "Sky Bet Championship",
-      "match": "Cardiff City vs Wrexham",
-      "channels": ["Astro Premier League", "TNT Sports 1 🇬🇧"],
+      "league": "English Football League Trophy",
+      "match": "Mansfield Town vs Manchester City U21",
+      "channels": [
+        "Astro Premier League",
+        "Sky Sport"
+      ],
       "status": "UPCOMING"
     },
     {
       "id": 7,
-      "time": "20:00",
+      "time": "06:00",
       "category": "Football",
       "icon": "⚽",
-      "league": "La Liga",
-      "match": "Deportivo vs Elche",
-      "channels": ["beIN Sports 1 🇮🇩", "Prima Sport 1"],
+      "league": "ASEAN Championship",
+      "match": "Vietnam vs Malaysia (SF Leg 2)",
+      "channels": [
+        "Soccer Channel",
+        "Monomax Sports 🇹🇭"
+      ],
       "status": "UPCOMING"
     },
     {
       "id": 8,
-      "time": "20:15",
+      "time": "15:00",
       "category": "Football",
       "icon": "⚽",
-      "league": "Primeira Liga",
-      "match": "Casa Pia vs Benfica",
-      "channels": ["Sport1", "Sportdigital Fussball"],
+      "league": "Copa Libertadores",
+      "match": "Coquimbo Unido vs Club Atletico Platense",
+      "channels": [
+        "ESPN",
+        "Channel lainnya"
+      ],
       "status": "UPCOMING"
     },
     {
       "id": 9,
+      "time": "15:00",
+      "category": "Football",
+      "icon": "⚽",
+      "league": "Copa Libertadores",
+      "match": "Cerro Porteño vs Palmeiras",
+      "channels": [
+        "beIN Sports",
+        "Sportstars"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 10,
+      "time": "17:30",
+      "category": "Football",
+      "icon": "⚽",
+      "league": "Copa Libertadores",
+      "match": "Flamengo vs Cruzeiro",
+      "channels": [
+        "beIN Sports 1 🇮🇩",
+        "Sportstars 2"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 11,
+      "time": "17:30",
+      "category": "Football",
+      "icon": "⚽",
+      "league": "Copa Libertadores",
+      "match": "Santa Fe vs River Plate",
+      "channels": [
+        "beIN Sports 2 🇮🇩",
+        "Sportstars 3"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 12,
+      "time": "07:30",
+      "category": "Football",
+      "icon": "⚽",
+      "league": "MLS Regular Season",
+      "match": "D.C. United vs New England Revolution",
+      "channels": [
+        "Fubo Sports 1 🇨🇦",
+        "CBS Sports Golazo"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 13,
+      "time": "07:30",
+      "category": "Football",
+      "icon": "⚽",
+      "league": "MLS Regular Season",
+      "match": "Minnesota United vs Atlanta United FC",
+      "channels": [
+        "Fubo Sports 2 🇨🇦"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 14,
+      "time": "09:30",
+      "category": "Football",
+      "icon": "⚽",
+      "league": "MLS Regular Season",
+      "match": "LA Galaxy vs San Jose Earthquakes",
+      "channels": [
+        "Astro Football",
+        "Sportstars 4"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 15,
+      "time": "10:00",
+      "category": "Tennis",
+      "icon": "🎾",
+      "league": "ATP / WTA Cincinnati Open",
+      "match": "Babak Utama / Lanjutan Sesi",
+      "channels": [
+        "SPOTV",
+        "SPOTV 🇮🇩",
+        "SPOTV 2 🇮🇩"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 16,
+      "time": "15:00",
+      "category": "Badminton",
+      "icon": "🏸",
+      "league": "BWF World Championships",
+      "match": "Babak Awal & Penyisihan",
+      "channels": [
+        "SPOTV 🇹🇭",
+        "TVRI Sport",
+        "SPOTV 2 🇹🇭"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 17,
+      "time": "08:00",
+      "category": "Golf",
+      "icon": "⛳",
+      "league": "PGA / DP World Tour",
+      "match": "Turnamen Pekan Ini - Sesi Latihan & Pembukaan",
+      "channels": [
+        "TBA"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 18,
       "time": "--:--",
       "category": "Formula 1",
       "icon": "🏎",
       "league": "Formula 1",
-      "match": "Tidak ada sesi (Summer Break)",
-      "channels": [],
+      "match": "Tidak ada sesi (Libur Akhir Pekan)",
+      "channels": [
+        "Sky Sport MotoGP"
+      ],
       "status": "OFF"
     },
     {
-      "id": 10,
+      "id": 19,
       "time": "--:--",
-      "category": "Motorsport",
-      "icon": "🏎",
+      "category": "MotoGP",
+      "icon": "🏍",
       "league": "MotoGP",
-      "match": "Tidak ada balapan",
-      "channels": [],
+      "match": "Tidak ada sesi (Libur Akhir Pekan)",
+      "channels": [
+        "Sky Sport Legend"
+      ],
       "status": "OFF"
     },
     {
-      "id": 11,
+      "id": 20,
       "time": "--:--",
-      "category": "Combat Sports",
-      "icon": "🥊",
-      "league": "UFC / Boxing",
-      "match": "Tidak ada event utama",
-      "channels": [],
+      "category": "Football",
+      "icon": "⚽",
+      "league": "Real Madrid Club",
+      "match": "Program Klub Eksklusif & Berita Harian",
+      "channels": [
+        "Real Madrid TV"
+      ],
       "status": "OFF"
     }
   ]
