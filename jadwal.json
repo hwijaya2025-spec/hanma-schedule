@@ -1,11 +1,25 @@
 {
   "version": "2.1",
-  "date": "2026-08-20",
+  "date": "22/08/26",
+  "day": "Sabtu",
   "title": "Jadwal Olahraga",
   "timezone": "Asia/Jakarta",
   "events": [
     {
       "id": 1,
+      "time": "02:00",
+      "category": "Football",
+      "icon": "⚽",
+      "league": "Premier League",
+      "match": "Arsenal vs Coventry City",
+      "channels": [
+        "Sky Sports 🇬🇧",
+        "Premier League+ 🇸🇬"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 2,
       "time": "12:00",
       "category": "Football",
       "icon": "⚽",
@@ -17,7 +31,7 @@
       "status": "UPCOMING"
     },
     {
-      "id": 2,
+      "id": 3,
       "time": "16:20",
       "category": "Formula 1",
       "icon": "🏎",
@@ -30,7 +44,7 @@
       "status": "UPCOMING"
     },
     {
-      "id": 3,
+      "id": 4,
       "time": "17:00",
       "category": "Formula 1",
       "icon": "🏎",
@@ -46,7 +60,7 @@
       "status": "UPCOMING"
     },
     {
-      "id": 4,
+      "id": 5,
       "time": "17:00",
       "category": "Football",
       "icon": "⚽",
@@ -60,7 +74,7 @@
       "status": "UPCOMING"
     },
     {
-      "id": 5,
+      "id": 6,
       "time": "17:00",
       "category": "Football",
       "icon": "⚽",
@@ -74,7 +88,7 @@
       "status": "UPCOMING"
     },
     {
-      "id": 6,
+      "id": 7,
       "time": "18:30",
       "category": "Football",
       "icon": "⚽",
@@ -93,7 +107,7 @@
       "status": "UPCOMING"
     },
     {
-      "id": 7,
+      "id": 8,
       "time": "18:30",
       "category": "Football",
       "icon": "⚽",
@@ -107,7 +121,7 @@
       "status": "UPCOMING"
     },
     {
-      "id": 8,
+      "id": 9,
       "time": "20:00",
       "category": "Tennis",
       "icon": "🎾",
@@ -116,14 +130,12 @@
       "channels": [
         "SPOTV 🇮🇩",
         "SPOTV 2 🇮🇩",
-        "SPOTV 🇹🇭",
-        "SPOTV 2 🇹🇭",
         "Ziggo Sport 4 🇳🇱"
       ],
       "status": "UPCOMING"
     },
     {
-      "id": 9,
+      "id": 10,
       "time": "20:00",
       "category": "Golf",
       "icon": "⛳",
@@ -136,7 +148,7 @@
       "status": "UPCOMING"
     },
     {
-      "id": 10,
+      "id": 11,
       "time": "21:00",
       "category": "Football",
       "icon": "⚽",
@@ -153,7 +165,7 @@
       "status": "UPCOMING"
     },
     {
-      "id": 11,
+      "id": 12,
       "time": "21:00",
       "category": "Football",
       "icon": "⚽",
@@ -170,7 +182,7 @@
       "status": "UPCOMING"
     },
     {
-      "id": 12,
+      "id": 13,
       "time": "21:00",
       "category": "Football",
       "icon": "⚽",
@@ -187,7 +199,7 @@
       "status": "UPCOMING"
     },
     {
-      "id": 13,
+      "id": 14,
       "time": "21:00",
       "category": "Formula 1",
       "icon": "🏎",
@@ -203,7 +215,7 @@
       "status": "UPCOMING"
     },
     {
-      "id": 14,
+      "id": 15,
       "time": "22:00",
       "category": "Football",
       "icon": "⚽",
@@ -217,7 +229,7 @@
       "status": "UPCOMING"
     },
     {
-      "id": 15,
+      "id": 16,
       "time": "22:00",
       "category": "Football",
       "icon": "⚽",
@@ -231,7 +243,7 @@
       "status": "UPCOMING"
     },
     {
-      "id": 16,
+      "id": 17,
       "time": "22:00",
       "category": "Football",
       "icon": "⚽",
@@ -244,7 +256,7 @@
       "status": "UPCOMING"
     },
     {
-      "id": 17,
+      "id": 18,
       "time": "23:00",
       "category": "Football",
       "icon": "⚽",
@@ -256,7 +268,7 @@
       "status": "UPCOMING"
     },
     {
-      "id": 18,
+      "id": 19,
       "time": "23:30",
       "category": "Football",
       "icon": "⚽",
@@ -277,7 +289,7 @@
       "status": "UPCOMING"
     },
     {
-      "id": 19,
+      "id": 20,
       "time": "23:30",
       "category": "Football",
       "icon": "⚽",
@@ -293,7 +305,7 @@
       "status": "UPCOMING"
     },
     {
-      "id": 20,
+      "id": 21,
       "time": "23:30",
       "category": "Football",
       "icon": "⚽",
@@ -308,7 +320,7 @@
       "status": "UPCOMING"
     },
     {
-      "id": 21,
+      "id": 22,
       "time": "23:30",
       "category": "Football",
       "icon": "⚽",
@@ -320,7 +332,7 @@
       "status": "UPCOMING"
     },
     {
-      "id": 22,
+      "id": 23,
       "time": "--:--",
       "category": "MotoGP",
       "icon": "🏍",
@@ -329,14 +341,12 @@
       "channels": [
         "SPOTV 🇮🇩",
         "SPOTV 2 🇮🇩",
-        "SPOTV 🇹🇭",
-        "SPOTV 2 🇹🇭",
         "Sky Sport MotoGP 🇮🇹"
       ],
       "status": "OFF"
     },
     {
-      "id": 23,
+      "id": 24,
       "time": "--:--",
       "category": "Football",
       "icon": "⚽",
