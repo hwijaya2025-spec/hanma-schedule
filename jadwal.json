@@ -1,202 +1,237 @@
 {
   "version": "2.1",
-  "date": "22/08/2026",
-  "day": "Sabtu",
+  "date": "2026-08-23",
   "title": "Jadwal Olahraga",
   "timezone": "Asia/Jakarta",
   "events": [
     {
       "id": 1,
-      "time": "02:00",
+      "time": "00:00",
       "category": "Football",
       "icon": "⚽",
-      "league": "Premier League",
-      "match": "Arsenal vs Coventry City",
+      "league": "Serie A",
+      "match": "Frosinone vs Juventus",
       "channels": [
-        "Sky Sports Premier League 🇬🇧",
-        "Sky Sports Main Event 🇬🇧",
-        "Hub Premier 1 🇸🇬"
+        "beIN Sports Indonesia 🇮🇩",
+        "beIN Sports Australia 🇦🇺",
+        "Sky Sport Calcio 🇮🇹",
+        "SuperSport 1 🇿🇦"
       ],
       "status": "UPCOMING"
     },
     {
       "id": 2,
-      "time": "14:20",
-      "category": "Formula 1",
-      "icon": "🏎️",
-      "league": "F1 Academy",
-      "match": "Dutch Grand Prix - Qualifying",
+      "time": "00:00",
+      "category": "Football",
+      "icon": "⚽",
+      "league": "Serie A",
+      "match": "Venezia vs Lecce",
       "channels": [
-        "Sky Sports F1 🇬🇧"
+        "beIN Sports Indonesia 🇮🇩",
+        "beIN Sports Australia 🇦🇺",
+        "Sky Sport Calcio 🇮🇹",
+        "SuperSport 2 🇿🇦"
       ],
       "status": "UPCOMING"
     },
     {
       "id": 3,
-      "time": "17:00",
-      "category": "Formula 1",
-      "icon": "🏎️",
-      "league": "Formula 1",
-      "match": "Dutch Grand Prix - Sprint",
+      "time": "00:30",
+      "category": "Football",
+      "icon": "⚽",
+      "league": "LaLiga",
+      "match": "Valencia vs Celta Vigo",
       "channels": [
-        "Sky Sports F1 🇬🇧"
+        "beIN Sports Indonesia 🇮🇩",
+        "beIN Sports Australia 🇦🇺"
       ],
       "status": "UPCOMING"
     },
     {
       "id": 4,
-      "time": "17:00",
+      "time": "02:30",
       "category": "Football",
       "icon": "⚽",
-      "league": "DFB-Pokal",
-      "match": "Energie Cottbus vs FC Augsburg",
+      "league": "LaLiga",
+      "match": "Espanyol vs Real Madrid",
       "channels": [
-        "Sky Sport 🇩🇪"
+        "beIN Sports Indonesia 🇮🇩",
+        "beIN Sports Australia 🇦🇺"
       ],
       "status": "UPCOMING"
     },
     {
       "id": 5,
-      "time": "17:00",
+      "time": "02:45",
       "category": "Football",
       "icon": "⚽",
-      "league": "DFB-Pokal",
-      "match": "SV Wehen Wiesbaden vs Bayer Leverkusen",
+      "league": "Serie A",
+      "match": "Atalanta vs Sassuolo",
       "channels": [
-        "Sky Sport 🇩🇪"
+        "beIN Sports Indonesia 🇮🇩",
+        "beIN Sports Australia 🇦🇺",
+        "Sky Sport Calcio 🇮🇹",
+        "SuperSport 3 🇿🇦"
       ],
       "status": "UPCOMING"
     },
     {
       "id": 6,
-      "time": "18:30",
+      "time": "02:45",
       "category": "Football",
       "icon": "⚽",
-      "league": "Premier League",
-      "match": "Hull City vs Manchester United",
+      "league": "Serie A",
+      "match": "Torino vs AC Milan",
       "channels": [
-        "TNT Sports 1 🇬🇧"
+        "beIN Sports Indonesia 🇮🇩",
+        "beIN Sports Australia 🇦🇺",
+        "Sky Sport Calcio 🇮🇹",
+        "SuperSport 4 🇿🇦"
       ],
       "status": "UPCOMING"
     },
     {
       "id": 7,
-      "time": "19:20",
-      "category": "Formula 1",
-      "icon": "🏎️",
-      "league": "F1 Academy",
-      "match": "Dutch Grand Prix - Reverse Grid Race",
+      "time": "04:45",
+      "category": "Football",
+      "icon": "⚽",
+      "league": "Ligue 1",
+      "match": "Rennes vs Paris Saint-Germain",
       "channels": [
-        "Sky Sports F1 🇬🇧"
+        "beIN Sports Indonesia 🇮🇩",
+        "beIN Sports Australia 🇦🇺",
+        "SuperSport 1 🇿🇦"
       ],
       "status": "UPCOMING"
     },
     {
       "id": 8,
-      "time": "19:30",
+      "time": "06:00",
       "category": "Football",
       "icon": "⚽",
-      "league": "DFB-Pokal",
-      "match": "1. FC Saarbrücken vs Hertha BSC",
+      "league": "MLS",
+      "match": "Charlotte FC vs Atlanta United",
       "channels": [
-        "Sky Sport 🇩🇪"
+        "Fubo Sports 1 🇨🇦",
+        "CBS Sports Golazo"
       ],
       "status": "UPCOMING"
     },
     {
       "id": 9,
-      "time": "19:30",
-      "category": "Football",
-      "icon": "⚽",
-      "league": "DFB-Pokal",
-      "match": "Erzgebirge Aue vs TSG Hoffenheim",
-      "channels": [
-        "Sky Sport 🇩🇪"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 10,
-      "time": "19:30",
-      "category": "Football",
-      "icon": "⚽",
-      "league": "DFB-Pokal",
-      "match": "Hemelingen vs Hannover 96",
-      "channels": [
-        "Sky Sport 🇩🇪"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 11,
-      "time": "19:30",
-      "category": "Football",
-      "icon": "⚽",
-      "league": "DFB-Pokal",
-      "match": "Lüneburger SK Hansa vs Werder Bremen",
-      "channels": [
-        "Sky Sport 🇩🇪"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 12,
-      "time": "19:30",
-      "category": "Football",
-      "icon": "⚽",
-      "league": "DFB-Pokal",
-      "match": "MSV Duisburg vs SV Elversberg",
-      "channels": [
-        "Sky Sport 🇩🇪"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 13,
-      "time": "19:30",
-      "category": "Football",
-      "icon": "⚽",
-      "league": "DFB-Pokal",
-      "match": "Viktoria Köln vs 1. FC Nürnberg",
-      "channels": [
-        "Sky Sport 🇩🇪"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 14,
-      "time": "20:30",
+      "time": "06:15",
       "category": "Football",
       "icon": "⚽",
       "league": "Eredivisie",
-      "match": "Fortuna Sittard vs AZ Alkmaar",
+      "match": "Go Ahead Eagles vs ADO Den Haag",
       "channels": [
         "Ziggo Sport 🇳🇱"
       ],
       "status": "UPCOMING"
     },
     {
-      "id": 15,
-      "time": "22:00",
+      "id": 10,
+      "time": "08:30",
+      "category": "Football",
+      "icon": "⚽",
+      "league": "Eredivisie",
+      "match": "PSV Eindhoven vs FC Groningen",
+      "channels": [
+        "Ziggo Sport 1 🇳🇱",
+        "Ziggo Sport 2 🇳🇱"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 11,
+      "time": "10:15",
+      "category": "Football",
+      "icon": "⚽",
+      "league": "Eredivisie",
+      "match": "SC Cambuur vs Feyenoord",
+      "channels": [
+        "Ziggo Sport 3 🇳🇱",
+        "Ziggo Sport 4 🇳🇱"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 12,
+      "time": "19:00",
+      "category": "Football",
+      "icon": "⚽",
+      "league": "EFL Championship",
+      "match": "West Bromwich Albion vs Burnley",
+      "channels": [
+        "Sky Sports Football 🇬🇧",
+        "Sky Sports+ 🇬🇧"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 13,
+      "time": "20:00",
       "category": "Football",
       "icon": "⚽",
       "league": "Premier League",
-      "match": "Everton vs Crystal Palace",
+      "match": "Brighton & Hove Albion vs Aston Villa",
       "channels": [
-        "Hub Premier 2 🇸🇬"
+        "Sky Sports Premier League 🇬🇧",
+        "Sky Sports Main Event 🇬🇧",
+        "Sky Sports+ 🇬🇧",
+        "SuperSport 1 🇿🇦",
+        "Hub Premier 1 🇸🇬",
+        "Alwan Sport 1 🇾🇪",
+        "Sportstars Select 1 🇮🇳",
+        "Sportstars Select 2 🇮🇳"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 14,
+      "time": "20:00",
+      "category": "Football",
+      "icon": "⚽",
+      "league": "Premier League",
+      "match": "Manchester City vs Bournemouth",
+      "channels": [
+        "Sky Sports Main Event 🇬🇧",
+        "Sky Sports Premier League 🇬🇧",
+        "Sky Sports+ 🇬🇧",
+        "SuperSport 2 🇿🇦",
+        "Hub Premier 2 🇸🇬",
+        "Alwan Sport 2 🇾🇪",
+        "Sportstars Select 1 🇮🇳",
+        "Sportstars Select 2 🇮🇳"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 15,
+      "time": "20:00",
+      "category": "Football",
+      "icon": "⚽",
+      "league": "Ligue 1",
+      "match": "Angers vs Lille",
+      "channels": [
+        "beIN Sports Indonesia 🇮🇩",
+        "beIN Sports Australia 🇦🇺",
+        "SuperSport 3 🇿🇦",
+        "Alwan Sport 3 🇾🇪"
       ],
       "status": "UPCOMING"
     },
     {
       "id": 16,
-      "time": "22:00",
-      "category": "Football",
-      "icon": "⚽",
-      "league": "Premier League",
-      "match": "Ipswich Town vs Sunderland",
+      "time": "20:00",
+      "category": "Formula 1",
+      "icon": "🏎",
+      "league": "Formula 1",
+      "match": "Dutch Grand Prix - Race",
       "channels": [
-        "Hub Premier 1 🇸🇬",
-        "Hub Premier 4 🇸🇬"
+        "Sky Sports F1 🇬🇧",
+        "Ziggo Sport 🇳🇱",
+        "beIN Sports Australia 🇦🇺"
       ],
       "status": "UPCOMING"
     },
@@ -205,135 +240,128 @@
       "time": "22:00",
       "category": "Football",
       "icon": "⚽",
-      "league": "Premier League",
-      "match": "Nottingham Forest vs Leeds United",
-      "channels": [],
-      "status": "CHANNEL_UNCONFIRMED"
+      "league": "LaLiga",
+      "match": "Atlético Madrid vs Villarreal",
+      "channels": [
+        "beIN Sports Indonesia 🇮🇩",
+        "beIN Sports Australia 🇦🇺"
+      ],
+      "status": "UPCOMING"
     },
     {
       "id": 18,
-      "time": "22:00",
+      "time": "22:15",
       "category": "Football",
       "icon": "⚽",
-      "league": "LaLiga",
-      "match": "Athletic Club vs Sevilla",
+      "league": "Ligue 1",
+      "match": "Le Havre vs Monaco",
       "channels": [
-        "beIN Sports 1 🇮🇩"
+        "beIN Sports Indonesia 🇮🇩",
+        "beIN Sports Australia 🇦🇺",
+        "SuperSport 4 🇿🇦",
+        "Alwan Sport 4 🇾🇪"
       ],
       "status": "UPCOMING"
     },
     {
       "id": 19,
-      "time": "22:15",
+      "time": "22:30",
       "category": "Football",
       "icon": "⚽",
-      "league": "Ligue 1",
-      "match": "Lens vs Auxerre",
+      "league": "Premier League",
+      "match": "Newcastle United vs Liverpool",
       "channels": [
-        "beIN Sports 🇮🇩"
+        "Sky Sports Main Event 🇬🇧",
+        "Sky Sports Premier League 🇬🇧",
+        "Sky Sports+ 🇬🇧",
+        "SuperSport 1 🇿🇦",
+        "Hub Premier 1 🇸🇬",
+        "Alwan Sport 1 🇾🇪",
+        "Sportstars Select 1 🇮🇳",
+        "Sportstars Select 2 🇮🇳"
       ],
       "status": "UPCOMING"
     },
     {
       "id": 20,
-      "time": "22:45",
+      "time": "00:30",
       "category": "Football",
       "icon": "⚽",
-      "league": "Eredivisie",
-      "match": "Sparta Rotterdam vs FC Utrecht",
+      "league": "LaLiga",
+      "match": "Getafe vs Racing Santander",
       "channels": [
-        "Ziggo Sport 🇳🇱"
+        "beIN Sports Indonesia 🇮🇩",
+        "beIN Sports Australia 🇦🇺"
       ],
       "status": "UPCOMING"
     },
     {
       "id": 21,
-      "time": "23:30",
+      "time": "01:45",
       "category": "Football",
       "icon": "⚽",
-      "league": "Serie A",
-      "match": "Inter Milan vs Monza",
+      "league": "Ligue 1",
+      "match": "Rennes vs Paris Saint-Germain",
       "channels": [
-        "beIN Sports 1 🇮🇩"
+        "beIN Sports Indonesia 🇮🇩",
+        "beIN Sports Australia 🇦🇺",
+        "SuperSport 1 🇿🇦"
       ],
       "status": "UPCOMING"
     },
     {
       "id": 22,
-      "time": "23:30",
+      "time": "02:30",
       "category": "Football",
       "icon": "⚽",
-      "league": "Serie A",
-      "match": "Udinese vs Como",
+      "league": "LaLiga",
+      "match": "Elche vs Barcelona",
       "channels": [
-        "beIN Sports 2 🇮🇩"
+        "beIN Sports Indonesia 🇮🇩",
+        "beIN Sports Australia 🇦🇺"
       ],
       "status": "UPCOMING"
     },
     {
       "id": 23,
-      "time": "23:00",
-      "category": "Golf",
-      "icon": "⛳",
-      "league": "PGA Tour",
-      "match": "BMW Championship - Round 3",
+      "time": "--:--",
+      "category": "Tennis",
+      "icon": "🎾",
+      "league": "Cincinnati Open",
+      "match": "Final ATP / WTA",
       "channels": [
-        "Sky Sports Golf 🇬🇧"
+        "SPOTV 🇮🇩",
+        "SPOTV 2 🇮🇩",
+        "SPOTV 🇹🇭",
+        "SPOTV 2 🇹🇭"
       ],
       "status": "UPCOMING"
     },
     {
       "id": 24,
-      "time": "23:00",
-      "category": "Golf",
-      "icon": "⛳",
-      "league": "DP World Tour",
-      "match": "Nexo Championship - Round 3",
+      "time": "--:--",
+      "category": "MotoGP",
+      "icon": "🏍",
+      "league": "MotoGP",
+      "match": "Tidak ada sesi",
       "channels": [
-        "Sky Sports Golf 🇬🇧"
+        "SPOTV 🇮🇩",
+        "SPOTV 2 🇮🇩",
+        "SPOTV 🇹🇭",
+        "SPOTV 2 🇹🇭"
       ],
-      "status": "UPCOMING"
+      "status": "OFF"
     },
     {
       "id": 25,
-      "time": "23:30",
-      "category": "Formula 1",
-      "icon": "🏎️",
-      "league": "Formula 1",
-      "match": "Dutch Grand Prix - Qualifying",
+      "time": "--:--",
+      "category": "Football",
+      "icon": "⚽",
+      "league": "Real Madrid TV",
+      "match": "Program Klub & Berita",
       "channels": [
-        "Sky Sports F1 🇬🇧"
+        "Real Madrid TV"
       ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 26,
-      "time": "--:--",
-      "category": "Badminton",
-      "icon": "🏸",
-      "league": "BWF World Championships 2026",
-      "match": "Semifinal",
-      "channels": [],
-      "status": "CHANNEL_UNCONFIRMED"
-    },
-    {
-      "id": 27,
-      "time": "--:--",
-      "category": "Volleyball",
-      "icon": "🏐",
-      "league": "Asian Women's Volleyball Championship 2026",
-      "match": "Pertandingan 22 Agustus",
-      "channels": [],
-      "status": "CHANNEL_UNCONFIRMED"
-    },
-    {
-      "id": 28,
-      "time": "--:--",
-      "category": "MotoGP",
-      "icon": "🏍️",
-      "league": "MotoGP",
-      "match": "Tidak ada Grand Prix MotoGP",
-      "channels": [],
       "status": "OFF"
     }
   ]
