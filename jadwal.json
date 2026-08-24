@@ -1,68 +1,25 @@
 {
   "version": "2.1",
-  "date": "2026-08-23",
+  "date": "Senin/Monday, 24 Agustus 2026",
   "title": "Jadwal Olahraga",
   "timezone": "Asia/Jakarta",
   "events": [
     {
       "id": 1,
-      "time": "00:00",
+      "time": "Senin/Monday, 00:30",
       "category": "Football",
       "icon": "⚽",
-      "league": "Serie A",
-      "match": "Frosinone vs Juventus",
+      "league": "LaLiga",
+      "match": "Getafe vs Racing Santander",
       "channels": [
         "beIN Sports Indonesia 🇮🇩",
-        "beIN Sports Australia 🇦🇺",
-        "Sky Sport Calcio 🇮🇹",
-        "SuperSport 1 🇿🇦"
+        "beIN Sports Australia 🇦🇺"
       ],
       "status": "UPCOMING"
     },
     {
       "id": 2,
-      "time": "00:00",
-      "category": "Football",
-      "icon": "⚽",
-      "league": "Serie A",
-      "match": "Venezia vs Lecce",
-      "channels": [
-        "beIN Sports Indonesia 🇮🇩",
-        "beIN Sports Australia 🇦🇺",
-        "Sky Sport Calcio 🇮🇹",
-        "SuperSport 2 🇿🇦"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 3,
-      "time": "00:30",
-      "category": "Football",
-      "icon": "⚽",
-      "league": "LaLiga",
-      "match": "Valencia vs Celta Vigo",
-      "channels": [
-        "beIN Sports Indonesia 🇮🇩",
-        "beIN Sports Australia 🇦🇺"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 4,
-      "time": "02:30",
-      "category": "Football",
-      "icon": "⚽",
-      "league": "LaLiga",
-      "match": "Espanyol vs Real Madrid",
-      "channels": [
-        "beIN Sports Indonesia 🇮🇩",
-        "beIN Sports Australia 🇦🇺"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 5,
-      "time": "02:45",
+      "time": "Senin/Monday, 01:45",
       "category": "Football",
       "icon": "⚽",
       "league": "Serie A",
@@ -76,8 +33,8 @@
       "status": "UPCOMING"
     },
     {
-      "id": 6,
-      "time": "02:45",
+      "id": 3,
+      "time": "Senin/Monday, 01:45",
       "category": "Football",
       "icon": "⚽",
       "league": "Serie A",
@@ -91,12 +48,12 @@
       "status": "UPCOMING"
     },
     {
-      "id": 7,
-      "time": "04:45",
+      "id": 4,
+      "time": "Senin/Monday, 01:45",
       "category": "Football",
       "icon": "⚽",
       "league": "Ligue 1",
-      "match": "Rennes vs Paris Saint-Germain",
+      "match": "Paris Saint-Germain vs Rennes",
       "channels": [
         "beIN Sports Indonesia 🇮🇩",
         "beIN Sports Australia 🇦🇺",
@@ -105,213 +62,8 @@
       "status": "UPCOMING"
     },
     {
-      "id": 8,
-      "time": "06:00",
-      "category": "Football",
-      "icon": "⚽",
-      "league": "MLS",
-      "match": "Charlotte FC vs Atlanta United",
-      "channels": [
-        "Fubo Sports 1 🇨🇦",
-        "CBS Sports Golazo"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 9,
-      "time": "06:15",
-      "category": "Football",
-      "icon": "⚽",
-      "league": "Eredivisie",
-      "match": "Go Ahead Eagles vs ADO Den Haag",
-      "channels": [
-        "Ziggo Sport 🇳🇱"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 10,
-      "time": "08:30",
-      "category": "Football",
-      "icon": "⚽",
-      "league": "Eredivisie",
-      "match": "PSV Eindhoven vs FC Groningen",
-      "channels": [
-        "Ziggo Sport 1 🇳🇱",
-        "Ziggo Sport 2 🇳🇱"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 11,
-      "time": "10:15",
-      "category": "Football",
-      "icon": "⚽",
-      "league": "Eredivisie",
-      "match": "SC Cambuur vs Feyenoord",
-      "channels": [
-        "Ziggo Sport 3 🇳🇱",
-        "Ziggo Sport 4 🇳🇱"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 12,
-      "time": "19:00",
-      "category": "Football",
-      "icon": "⚽",
-      "league": "EFL Championship",
-      "match": "West Bromwich Albion vs Burnley",
-      "channels": [
-        "Sky Sports Football 🇬🇧",
-        "Sky Sports+ 🇬🇧"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 13,
-      "time": "20:00",
-      "category": "Football",
-      "icon": "⚽",
-      "league": "Premier League",
-      "match": "Brighton & Hove Albion vs Aston Villa",
-      "channels": [
-        "Sky Sports Premier League 🇬🇧",
-        "Sky Sports Main Event 🇬🇧",
-        "Sky Sports+ 🇬🇧",
-        "SuperSport 1 🇿🇦",
-        "Hub Premier 1 🇸🇬",
-        "Alwan Sport 1 🇾🇪",
-        "Sportstars Select 1 🇮🇳",
-        "Sportstars Select 2 🇮🇳"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 14,
-      "time": "20:00",
-      "category": "Football",
-      "icon": "⚽",
-      "league": "Premier League",
-      "match": "Manchester City vs Bournemouth",
-      "channels": [
-        "Sky Sports Main Event 🇬🇧",
-        "Sky Sports Premier League 🇬🇧",
-        "Sky Sports+ 🇬🇧",
-        "SuperSport 2 🇿🇦",
-        "Hub Premier 2 🇸🇬",
-        "Alwan Sport 2 🇾🇪",
-        "Sportstars Select 1 🇮🇳",
-        "Sportstars Select 2 🇮🇳"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 15,
-      "time": "20:00",
-      "category": "Football",
-      "icon": "⚽",
-      "league": "Ligue 1",
-      "match": "Angers vs Lille",
-      "channels": [
-        "beIN Sports Indonesia 🇮🇩",
-        "beIN Sports Australia 🇦🇺",
-        "SuperSport 3 🇿🇦",
-        "Alwan Sport 3 🇾🇪"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 16,
-      "time": "20:00",
-      "category": "Formula 1",
-      "icon": "🏎",
-      "league": "Formula 1",
-      "match": "Dutch Grand Prix - Race",
-      "channels": [
-        "Sky Sports F1 🇬🇧",
-        "Ziggo Sport 🇳🇱",
-        "beIN Sports Australia 🇦🇺"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 17,
-      "time": "22:00",
-      "category": "Football",
-      "icon": "⚽",
-      "league": "LaLiga",
-      "match": "Atlético Madrid vs Villarreal",
-      "channels": [
-        "beIN Sports Indonesia 🇮🇩",
-        "beIN Sports Australia 🇦🇺"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 18,
-      "time": "22:15",
-      "category": "Football",
-      "icon": "⚽",
-      "league": "Ligue 1",
-      "match": "Le Havre vs Monaco",
-      "channels": [
-        "beIN Sports Indonesia 🇮🇩",
-        "beIN Sports Australia 🇦🇺",
-        "SuperSport 4 🇿🇦",
-        "Alwan Sport 4 🇾🇪"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 19,
-      "time": "22:30",
-      "category": "Football",
-      "icon": "⚽",
-      "league": "Premier League",
-      "match": "Newcastle United vs Liverpool",
-      "channels": [
-        "Sky Sports Main Event 🇬🇧",
-        "Sky Sports Premier League 🇬🇧",
-        "Sky Sports+ 🇬🇧",
-        "SuperSport 1 🇿🇦",
-        "Hub Premier 1 🇸🇬",
-        "Alwan Sport 1 🇾🇪",
-        "Sportstars Select 1 🇮🇳",
-        "Sportstars Select 2 🇮🇳"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 20,
-      "time": "00:30",
-      "category": "Football",
-      "icon": "⚽",
-      "league": "LaLiga",
-      "match": "Getafe vs Racing Santander",
-      "channels": [
-        "beIN Sports Indonesia 🇮🇩",
-        "beIN Sports Australia 🇦🇺"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 21,
-      "time": "01:45",
-      "category": "Football",
-      "icon": "⚽",
-      "league": "Ligue 1",
-      "match": "Rennes vs Paris Saint-Germain",
-      "channels": [
-        "beIN Sports Indonesia 🇮🇩",
-        "beIN Sports Australia 🇦🇺",
-        "SuperSport 1 🇿🇦"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 22,
-      "time": "02:30",
+      "id": 5,
+      "time": "Senin/Monday, 02:30",
       "category": "Football",
       "icon": "⚽",
       "league": "LaLiga",
@@ -323,46 +75,79 @@
       "status": "UPCOMING"
     },
     {
-      "id": 23,
-      "time": "--:--",
-      "category": "Tennis",
-      "icon": "🎾",
-      "league": "Cincinnati Open",
-      "match": "Final ATP / WTA",
+      "id": 6,
+      "time": "Senin/Monday, 18:30",
+      "category": "Football",
+      "icon": "⚽",
+      "league": "LaLiga",
+      "match": "Osasuna vs Levante",
       "channels": [
-        "SPOTV 🇮🇩",
-        "SPOTV 2 🇮🇩",
-        "SPOTV 🇹🇭",
-        "SPOTV 2 🇹🇭"
+        "beIN Sports Indonesia 🇮🇩",
+        "beIN Sports Australia 🇦🇺"
       ],
       "status": "UPCOMING"
     },
     {
-      "id": 24,
-      "time": "--:--",
-      "category": "MotoGP",
-      "icon": "🏍",
-      "league": "MotoGP",
-      "match": "Tidak ada sesi",
-      "channels": [
-        "SPOTV 🇮🇩",
-        "SPOTV 2 🇮🇩",
-        "SPOTV 🇹🇭",
-        "SPOTV 2 🇹🇭"
-      ],
-      "status": "OFF"
-    },
-    {
-      "id": 25,
-      "time": "--:--",
+      "id": 7,
+      "time": "Senin/Monday, 20:00",
       "category": "Football",
       "icon": "⚽",
-      "league": "Real Madrid TV",
-      "match": "Program Klub & Berita",
+      "league": "Premier League",
+      "match": "Fulham vs Chelsea",
       "channels": [
-        "Real Madrid TV"
+        "Sky Sports Main Event 🇬🇧",
+        "Sky Sports Premier League 🇬🇧",
+        "Sky Sports+ 🇬🇧",
+        "SuperSport 1 🇿🇦",
+        "Hub Premier 1 🇸🇬",
+        "Alwan Sport 1 🇾🇪",
+        "Sportstars Select 1 🇮🇳",
+        "Sportstars Select 2 🇮🇳"
       ],
-      "status": "OFF"
+      "status": "UPCOMING"
+    },
+    {
+      "id": 8,
+      "time": "Senin/Monday, 20:30",
+      "category": "Football",
+      "icon": "⚽",
+      "league": "LaLiga",
+      "match": "Málaga vs Deportivo La Coruña",
+      "channels": [
+        "beIN Sports Indonesia 🇮🇩",
+        "beIN Sports Australia 🇦🇺"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 9,
+      "time": "Senin/Monday, 23:30",
+      "category": "Football",
+      "icon": "⚽",
+      "league": "Serie A",
+      "match": "Bologna vs Lazio",
+      "channels": [
+        "beIN Sports Indonesia 🇮🇩",
+        "beIN Sports Australia 🇦🇺",
+        "Sky Sport Calcio 🇮🇹",
+        "SuperSport 2 🇿🇦"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 10,
+      "time": "Selasa/Tuesday, 01:45",
+      "category": "Football",
+      "icon": "⚽",
+      "league": "Serie A",
+      "match": "Roma vs Fiorentina",
+      "channels": [
+        "beIN Sports Indonesia 🇮🇩",
+        "beIN Sports Australia 🇦🇺",
+        "Sky Sport Calcio 🇮🇹",
+        "SuperSport 4 🇿🇦"
+      ],
+      "status": "UPCOMING"
     }
   ]
-    }
+}
