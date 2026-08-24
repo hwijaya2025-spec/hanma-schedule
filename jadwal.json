@@ -22,13 +22,12 @@
       "time": "01:45",
       "category": "Football",
       "icon": "⚽",
-      "league": "Serie A",
+      "league": "Serie A (Senin/Monday)",
       "match": "Atalanta vs Sassuolo",
       "channels": [
         "beIN Sports Indonesia 🇮🇩",
         "beIN Sports Australia 🇦🇺",
-        "Sky Sport Calcio 🇮🇹",
-        "SuperSport 3 🇿🇦"
+        "Sky Sport Calcio 🇮🇹"
       ],
       "status": "UPCOMING"
     },
@@ -37,13 +36,12 @@
       "time": "01:45",
       "category": "Football",
       "icon": "⚽",
-      "league": "Serie A",
+      "league": "Serie A (Senin/Monday)",
       "match": "Torino vs AC Milan",
       "channels": [
         "beIN Sports Indonesia 🇮🇩",
         "beIN Sports Australia 🇦🇺",
-        "Sky Sport Calcio 🇮🇹",
-        "SuperSport 4 🇿🇦"
+        "Sky Sport Calcio 🇮🇹"
       ],
       "status": "UPCOMING"
     },
@@ -52,12 +50,11 @@
       "time": "01:45",
       "category": "Football",
       "icon": "⚽",
-      "league": "Ligue 1",
+      "league": "Ligue 1 (Senin/Monday)",
       "match": "Paris Saint-Germain vs Rennes",
       "channels": [
         "beIN Sports Indonesia 🇮🇩",
-        "beIN Sports Australia 🇦🇺",
-        "SuperSport 1 🇿🇦"
+        "beIN Sports Australia 🇦🇺"
       ],
       "status": "UPCOMING"
     },
@@ -66,7 +63,7 @@
       "time": "02:30",
       "category": "Football",
       "icon": "⚽",
-      "league": "LaLiga",
+      "league": "LaLiga (Senin/Monday)",
       "match": "Elche vs Barcelona",
       "channels": [
         "beIN Sports Indonesia 🇮🇩",
@@ -79,11 +76,12 @@
       "time": "18:30",
       "category": "Football",
       "icon": "⚽",
-      "league": "LaLiga",
+      "league": "LaLiga (Senin/Monday)",
       "match": "Osasuna vs Levante",
       "channels": [
         "beIN Sports Indonesia 🇮🇩",
-        "beIN Sports Australia 🇦🇺"
+        "beIN Sports Australia 🇦🇺",
+        "SuperSport 1 🇦🇱"
       ],
       "status": "UPCOMING"
     },
@@ -92,17 +90,17 @@
       "time": "20:00",
       "category": "Football",
       "icon": "⚽",
-      "league": "Premier League",
+      "league": "Premier League (Senin/Monday)",
       "match": "Fulham vs Chelsea",
       "channels": [
         "Sky Sports Main Event 🇬🇧",
         "Sky Sports Premier League 🇬🇧",
         "Sky Sports+ 🇬🇧",
-        "SuperSport 1 🇿🇦",
         "Hub Premier 1 🇸🇬",
         "Alwan Sport 1 🇾🇪",
         "Sportstars Select 1 🇮🇳",
-        "Sportstars Select 2 🇮🇳"
+        "Sportstars Select 2 🇮🇳",
+        "SuperSport 2 🇦🇱"
       ],
       "status": "UPCOMING"
     },
@@ -111,11 +109,12 @@
       "time": "20:30",
       "category": "Football",
       "icon": "⚽",
-      "league": "LaLiga",
+      "league": "LaLiga (Senin/Monday)",
       "match": "Málaga vs Deportivo La Coruña",
       "channels": [
         "beIN Sports Indonesia 🇮🇩",
-        "beIN Sports Australia 🇦🇺"
+        "beIN Sports Australia 🇦🇺",
+        "SuperSport 2 🇦🇱"
       ],
       "status": "UPCOMING"
     },
@@ -124,13 +123,12 @@
       "time": "23:30",
       "category": "Football",
       "icon": "⚽",
-      "league": "Serie A",
+      "league": "Serie A (Senin/Monday)",
       "match": "Bologna vs Lazio",
       "channels": [
         "beIN Sports Indonesia 🇮🇩",
         "beIN Sports Australia 🇦🇺",
-        "Sky Sport Calcio 🇮🇹",
-        "SuperSport 2 🇿🇦"
+        "Sky Sport Calcio 🇮🇹"
       ],
       "status": "UPCOMING"
     },
@@ -144,8 +142,7 @@
       "channels": [
         "beIN Sports Indonesia 🇮🇩",
         "beIN Sports Australia 🇦🇺",
-        "Sky Sport Calcio 🇮🇹",
-        "SuperSport 4 🇿🇦"
+        "Sky Sport Calcio 🇮🇹"
       ],
       "status": "UPCOMING"
     }
