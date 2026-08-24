@@ -6,10 +6,10 @@
   "events": [
     {
       "id": 1,
-      "time": "Senin/Monday, 00:30",
+      "time": "00:30",
       "category": "Football",
       "icon": "⚽",
-      "league": "LaLiga",
+      "league": "LaLiga (Senin/Monday)",
       "match": "Getafe vs Racing Santander",
       "channels": [
         "beIN Sports Indonesia 🇮🇩",
@@ -19,7 +19,7 @@
     },
     {
       "id": 2,
-      "time": "Senin/Monday, 01:45",
+      "time": "01:45",
       "category": "Football",
       "icon": "⚽",
       "league": "Serie A",
@@ -34,7 +34,7 @@
     },
     {
       "id": 3,
-      "time": "Senin/Monday, 01:45",
+      "time": "01:45",
       "category": "Football",
       "icon": "⚽",
       "league": "Serie A",
@@ -49,7 +49,7 @@
     },
     {
       "id": 4,
-      "time": "Senin/Monday, 01:45",
+      "time": "01:45",
       "category": "Football",
       "icon": "⚽",
       "league": "Ligue 1",
@@ -63,7 +63,7 @@
     },
     {
       "id": 5,
-      "time": "Senin/Monday, 02:30",
+      "time": "02:30",
       "category": "Football",
       "icon": "⚽",
       "league": "LaLiga",
@@ -76,7 +76,7 @@
     },
     {
       "id": 6,
-      "time": "Senin/Monday, 18:30",
+      "time": "18:30",
       "category": "Football",
       "icon": "⚽",
       "league": "LaLiga",
@@ -89,7 +89,7 @@
     },
     {
       "id": 7,
-      "time": "Senin/Monday, 20:00",
+      "time": "20:00",
       "category": "Football",
       "icon": "⚽",
       "league": "Premier League",
@@ -108,7 +108,7 @@
     },
     {
       "id": 8,
-      "time": "Senin/Monday, 20:30",
+      "time": "20:30",
       "category": "Football",
       "icon": "⚽",
       "league": "LaLiga",
@@ -121,7 +121,7 @@
     },
     {
       "id": 9,
-      "time": "Senin/Monday, 23:30",
+      "time": "23:30",
       "category": "Football",
       "icon": "⚽",
       "league": "Serie A",
@@ -136,10 +136,10 @@
     },
     {
       "id": 10,
-      "time": "Selasa/Tuesday, 01:45",
+      "time": "01:45",
       "category": "Football",
       "icon": "⚽",
-      "league": "Serie A",
+      "league": "Serie A (Selasa/Tuesday)",
       "match": "Roma vs Fiorentina",
       "channels": [
         "beIN Sports Indonesia 🇮🇩",
