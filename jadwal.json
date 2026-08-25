@@ -1,6 +1,6 @@
 {
   "version": "2.1",
-  "date": "Senin/Monday, 24 Agustus 2026",
+  "date": "Selasa/Tuesday, 25 Agustus 2026",
   "title": "Jadwal Olahraga",
   "timezone": "Asia/Jakarta",
   "events": [
@@ -9,11 +9,12 @@
       "time": "00:30",
       "category": "Football",
       "icon": "⚽",
-      "league": "LaLiga (Senin/Monday)",
-      "match": "Getafe vs Racing Santander",
+      "league": "LaLiga (Selasa/Tuesday)",
+      "match": "Osasuna vs Levante",
       "channels": [
         "beIN Sports Indonesia 🇮🇩",
-        "beIN Sports Australia 🇦🇺"
+        "beIN Sports Australia 🇦🇺",
+        "SuperSport 1 🇦🇱"
       ],
       "status": "FINISHED"
     },
@@ -22,8 +23,8 @@
       "time": "01:45",
       "category": "Football",
       "icon": "⚽",
-      "league": "Serie A (Senin/Monday)",
-      "match": "Atalanta vs Sassuolo",
+      "league": "Serie A (Selasa/Tuesday)",
+      "match": "Roma vs Fiorentina",
       "channels": [
         "beIN Sports Indonesia 🇮🇩",
         "beIN Sports Australia 🇦🇺",
@@ -33,64 +34,10 @@
     },
     {
       "id": 3,
-      "time": "01:45",
+      "time": "02:00",
       "category": "Football",
       "icon": "⚽",
-      "league": "Serie A (Senin/Monday)",
-      "match": "Torino vs AC Milan",
-      "channels": [
-        "beIN Sports Indonesia 🇮🇩",
-        "beIN Sports Australia 🇦🇺",
-        "Sky Sport Calcio 🇮🇹"
-      ],
-      "status": "FINISHED"
-    },
-    {
-      "id": 4,
-      "time": "01:45",
-      "category": "Football",
-      "icon": "⚽",
-      "league": "Ligue 1 (Senin/Monday)",
-      "match": "Paris Saint-Germain vs Rennes",
-      "channels": [
-        "beIN Sports Indonesia 🇮🇩",
-        "beIN Sports Australia 🇦🇺"
-      ],
-      "status": "FINISHED"
-    },
-    {
-      "id": 5,
-      "time": "02:30",
-      "category": "Football",
-      "icon": "⚽",
-      "league": "LaLiga (Senin/Monday)",
-      "match": "Elche vs Barcelona",
-      "channels": [
-        "beIN Sports Indonesia 🇮🇩",
-        "beIN Sports Australia 🇦🇺"
-      ],
-      "status": "FINISHED"
-    },
-    {
-      "id": 6,
-      "time": "18:30",
-      "category": "Football",
-      "icon": "⚽",
-      "league": "LaLiga (Senin/Monday)",
-      "match": "Osasuna vs Levante",
-      "channels": [
-        "beIN Sports Indonesia 🇮🇩",
-        "beIN Sports Australia 🇦🇺",
-        "SuperSport 1 🇦🇱"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 7,
-      "time": "20:00",
-      "category": "Football",
-      "icon": "⚽",
-      "league": "Premier League (Senin/Monday)",
+      "league": "Premier League (Selasa/Tuesday)",
       "match": "Fulham vs Chelsea",
       "channels": [
         "Sky Sports Main Event 🇬🇧",
@@ -102,48 +49,63 @@
         "Sportstars Select 2 🇮🇳",
         "SuperSport 2 🇦🇱"
       ],
-      "status": "UPCOMING"
+      "status": "FINISHED"
     },
     {
-      "id": 8,
-      "time": "20:30",
+      "id": 4,
+      "time": "02:30",
       "category": "Football",
       "icon": "⚽",
-      "league": "LaLiga (Senin/Monday)",
+      "league": "LaLiga (Selasa/Tuesday)",
       "match": "Málaga vs Deportivo La Coruña",
       "channels": [
         "beIN Sports Indonesia 🇮🇩",
         "beIN Sports Australia 🇦🇺",
         "SuperSport 2 🇦🇱"
       ],
-      "status": "UPCOMING"
+      "status": "FINISHED"
     },
     {
-      "id": 9,
-      "time": "23:30",
+      "id": 5,
+      "time": "02:00",
       "category": "Football",
       "icon": "⚽",
-      "league": "Serie A (Senin/Monday)",
-      "match": "Bologna vs Lazio",
+      "league": "UEFA Champions League",
+      "match": "LASK vs Celtic",
+      "channels": [],
+      "status": "FINISHED"
+    },
+    {
+      "id": 6,
+      "time": "02:00",
+      "category": "Football",
+      "icon": "⚽",
+      "league": "UEFA Champions League",
+      "match": "Bodø/Glimt vs NEC Nijmegen",
+      "channels": [],
+      "status": "FINISHED"
+    },
+    {
+      "id": 7,
+      "time": "19:00",
+      "category": "Badminton",
+      "icon": "🏸",
+      "league": "Indonesia International I",
+      "match": "Babak kualifikasi / babak awal",
       "channels": [
-        "beIN Sports Indonesia 🇮🇩",
-        "beIN Sports Australia 🇦🇺",
-        "Sky Sport Calcio 🇮🇹"
+        "SPOTV 🇮🇩",
+        "SPOTV 2 🇮🇩"
       ],
       "status": "UPCOMING"
     },
     {
-      "id": 10,
-      "time": "01:45",
+      "id": 8,
+      "time": "23:00",
       "category": "Football",
       "icon": "⚽",
-      "league": "Serie A (Selasa/Tuesday)",
-      "match": "Roma vs Fiorentina",
-      "channels": [
-        "beIN Sports Indonesia 🇮🇩",
-        "beIN Sports Australia 🇦🇺",
-        "Sky Sport Calcio 🇮🇹"
-      ],
+      "league": "UEFA Champions League",
+      "match": "Fenerbahçe vs Benfica",
+      "channels": [],
       "status": "UPCOMING"
     }
   ]
