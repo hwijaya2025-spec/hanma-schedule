@@ -7,74 +7,64 @@
     {
       "id": 1,
       "date": "2026-08-26",
-      "time": "00:45",
-      "duration": 120,
+      "time": "01:00",
       "category": "Football",
       "icon": "⚽",
-      "league": "UEFA Champions League (Rabu/Wednesday)",
-      "match": "Sabah FK vs Hapoel Be'er Sheva",
+      "league": "EFL Cup (Rabu/Wednesday)",
+      "match": "Cardiff City vs Norwich City",
       "channels": [
-        "beIN Sports Indonesia 🇮🇩",
-        "beIN Sports Australia 🇦🇺"
+        "Sky Sports+ 🇬🇧"
       ],
       "status": "FINISHED"
     },
     {
       "id": 2,
       "date": "2026-08-26",
-      "time": "03:00",
-      "duration": 120,
+      "time": "01:30",
       "category": "Football",
       "icon": "⚽",
-      "league": "UEFA Champions League (Rabu/Wednesday)",
-      "match": "Bodø/Glimt vs NEC Nijmegen",
+      "league": "EFL Cup (Rabu/Wednesday)",
+      "match": "Doncaster Rovers vs Middlesbrough",
       "channels": [
-        "beIN Sports Indonesia 🇮🇩",
-        "beIN Sports Australia 🇦🇺"
+        "Sky Sports+ 🇬🇧"
       ],
       "status": "FINISHED"
     },
     {
       "id": 3,
       "date": "2026-08-26",
-      "time": "03:00",
-      "duration": 120,
+      "time": "01:45",
       "category": "Football",
       "icon": "⚽",
-      "league": "UEFA Champions League (Rabu/Wednesday)",
-      "match": "LASK vs Celtic",
+      "league": "EFL Cup (Rabu/Wednesday)",
+      "match": "Barnsley vs Crewe Alexandra",
       "channels": [
-        "beIN Sports Indonesia 🇮🇩",
-        "beIN Sports Australia 🇦🇺"
+        "Sky Sports+ 🇬🇧"
       ],
       "status": "FINISHED"
     },
     {
       "id": 4,
       "date": "2026-08-26",
-      "time": "03:00",
-      "duration": 120,
+      "time": "01:45",
       "category": "Football",
       "icon": "⚽",
-      "league": "LaLiga (Rabu/Wednesday)",
-      "match": "Valencia vs Real Betis",
+      "league": "EFL Cup (Rabu/Wednesday)",
+      "match": "Blackburn Rovers vs Sheffield United",
       "channels": [
-        "beIN Sports Indonesia 🇮🇩",
-        "beIN Sports Australia 🇦🇺"
+        "Sky Sports+ 🇬🇧"
       ],
       "status": "FINISHED"
     },
     {
       "id": 5,
       "date": "2026-08-26",
-      "time": "02:00",
-      "duration": 150,
+      "time": "01:45",
       "category": "Football",
       "icon": "⚽",
       "league": "EFL Cup (Rabu/Wednesday)",
-      "match": "Cardiff City vs Norwich City",
+      "match": "Southampton vs West Ham United",
       "channels": [
-        "Sky Sports Main Event 🇬🇧",
         "Sky Sports+ 🇬🇧"
       ],
       "status": "FINISHED"
@@ -82,14 +72,12 @@
     {
       "id": 6,
       "date": "2026-08-26",
-      "time": "02:30",
-      "duration": 150,
+      "time": "02:00",
       "category": "Football",
       "icon": "⚽",
       "league": "EFL Cup (Rabu/Wednesday)",
-      "match": "Doncaster Rovers vs Middlesbrough",
+      "match": "Birmingham City vs Brentford",
       "channels": [
-        "Sky Sports Football 🇬🇧",
         "Sky Sports+ 🇬🇧"
       ],
       "status": "FINISHED"
@@ -97,75 +85,66 @@
     {
       "id": 7,
       "date": "2026-08-26",
-      "time": "02:45",
-      "duration": 150,
-      "category": "Football",
-      "icon": "⚽",
-      "league": "EFL Cup (Rabu/Wednesday)",
-      "match": "Barnsley vs Crewe Alexandra",
-      "channels": [
-        "Sky Sports Football 🇬🇧",
-        "Sky Sports+ 🇬🇧"
-      ],
-      "status": "FINISHED"
-    },
-    {
-      "id": 8,
-      "date": "2026-08-26",
-      "time": "02:45",
-      "duration": 150,
-      "category": "Football",
-      "icon": "⚽",
-      "league": "EFL Cup (Rabu/Wednesday)",
-      "match": "Blackburn Rovers vs Sheffield United",
-      "channels": [
-        "Sky Sports Football 🇬🇧",
-        "Sky Sports+ 🇬🇧"
-      ],
-      "status": "FINISHED"
-    },
-    {
-      "id": 9,
-      "date": "2026-08-26",
-      "time": "02:45",
-      "duration": 150,
-      "category": "Football",
-      "icon": "⚽",
-      "league": "EFL Cup (Rabu/Wednesday)",
-      "match": "Southampton vs West Ham United",
-      "channels": [
-        "Sky Sports Football 🇬🇧",
-        "Sky Sports+ 🇬🇧"
-      ],
-      "status": "FINISHED"
-    },
-    {
-      "id": 10,
-      "date": "2026-08-26",
-      "time": "03:00",
-      "duration": 150,
-      "category": "Football",
-      "icon": "⚽",
-      "league": "EFL Cup (Rabu/Wednesday)",
-      "match": "Birmingham City vs Brentford",
-      "channels": [
-        "Sky Sports Main Event 🇬🇧",
-        "Sky Sports+ 🇬🇧"
-      ],
-      "status": "FINISHED"
-    },
-    {
-      "id": 11,
-      "date": "2026-08-26",
-      "time": "03:00",
-      "duration": 150,
+      "time": "02:00",
       "category": "Football",
       "icon": "⚽",
       "league": "EFL Cup (Rabu/Wednesday)",
       "match": "Nottingham Forest vs Leeds United",
       "channels": [
         "Sky Sports Main Event 🇬🇧",
-        "Sky Sports+ 🇬🇧"
+        "Sky Sports Football 🇬🇧"
+      ],
+      "status": "FINISHED"
+    },
+    {
+      "id": 8,
+      "date": "2026-08-26",
+      "time": "02:00",
+      "category": "Football",
+      "icon": "⚽",
+      "league": "UEFA Champions League (Rabu/Wednesday)",
+      "match": "Bodø/Glimt vs NEC Nijmegen",
+      "channels": [
+        "beIN Sports 3 🇮🇩"
+      ],
+      "status": "FINISHED"
+    },
+    {
+      "id": 9,
+      "date": "2026-08-26",
+      "time": "02:00",
+      "category": "Football",
+      "icon": "⚽",
+      "league": "UEFA Champions League (Rabu/Wednesday)",
+      "match": "LASK vs Celtic",
+      "channels": [
+        "beIN Sports 1 🇮🇩"
+      ],
+      "status": "FINISHED"
+    },
+    {
+      "id": 10,
+      "date": "2026-08-26",
+      "time": "02:00",
+      "category": "Football",
+      "icon": "⚽",
+      "league": "LaLiga (Rabu/Wednesday)",
+      "match": "Valencia vs Real Betis",
+      "channels": [
+        "beIN Sports 2 🇮🇩"
+      ],
+      "status": "FINISHED"
+    },
+    {
+      "id": 11,
+      "date": "2026-08-26",
+      "time": "23:45",
+      "category": "Football",
+      "icon": "⚽",
+      "league": "UEFA Champions League (Rabu/Wednesday)",
+      "match": "Sabah FK vs Hapoel Be'er Sheva",
+      "channels": [
+        "beIN Sports 2 🇮🇩"
       ],
       "status": "FINISHED"
     },
@@ -173,13 +152,11 @@
       "id": 12,
       "date": "2026-08-27",
       "time": "01:45",
-      "duration": 150,
       "category": "Football",
       "icon": "⚽",
       "league": "EFL Cup (Kamis/Thursday)",
       "match": "Bradford City vs Burnley",
       "channels": [
-        "Sky Sports Football 🇬🇧",
         "Sky Sports+ 🇬🇧"
       ],
       "status": "UPCOMING"
@@ -188,13 +165,11 @@
       "id": 13,
       "date": "2026-08-27",
       "time": "01:45",
-      "duration": 150,
       "category": "Football",
       "icon": "⚽",
       "league": "EFL Cup (Kamis/Thursday)",
       "match": "Newcastle United vs West Bromwich Albion",
       "channels": [
-        "Sky Sports Football 🇬🇧",
         "Sky Sports+ 🇬🇧"
       ],
       "status": "UPCOMING"
@@ -203,13 +178,11 @@
       "id": 14,
       "date": "2026-08-27",
       "time": "01:45",
-      "duration": 150,
       "category": "Football",
       "icon": "⚽",
       "league": "EFL Cup (Kamis/Thursday)",
       "match": "Tottenham Hotspur vs Charlton Athletic",
       "channels": [
-        "Sky Sports Football 🇬🇧",
         "Sky Sports+ 🇬🇧"
       ],
       "status": "UPCOMING"
@@ -218,13 +191,12 @@
       "id": 15,
       "date": "2026-08-27",
       "time": "02:00",
-      "duration": 120,
       "category": "Football",
       "icon": "⚽",
       "league": "LaLiga (Kamis/Thursday)",
       "match": "Real Madrid vs Real Sociedad",
       "channels": [
-        "beIN Sports Indonesia 🇮🇩"
+        "beIN Sports 2 🇮🇩"
       ],
       "status": "UPCOMING"
     },
@@ -232,13 +204,12 @@
       "id": 16,
       "date": "2026-08-27",
       "time": "02:00",
-      "duration": 120,
       "category": "Football",
       "icon": "⚽",
       "league": "UEFA Champions League (Kamis/Thursday)",
       "match": "AEK Athens vs Levski Sofia",
       "channels": [
-        "beIN Sports Indonesia 🇮🇩"
+        "beIN Sports Xtra 🇮🇩"
       ],
       "status": "UPCOMING"
     },
@@ -246,13 +217,12 @@
       "id": 17,
       "date": "2026-08-27",
       "time": "02:00",
-      "duration": 120,
       "category": "Football",
       "icon": "⚽",
       "league": "UEFA Champions League (Kamis/Thursday)",
       "match": "Celje vs Slovan Bratislava",
       "channels": [
-        "beIN Sports Indonesia 🇮🇩"
+        "beIN Sports 1 🇮🇩"
       ],
       "status": "UPCOMING"
     },
@@ -260,13 +230,12 @@
       "id": 18,
       "date": "2026-08-27",
       "time": "02:00",
-      "duration": 120,
       "category": "Football",
       "icon": "⚽",
       "league": "UEFA Champions League (Kamis/Thursday)",
       "match": "Viking FK vs Dinamo Zagreb",
       "channels": [
-        "beIN Sports Indonesia 🇮🇩"
+        "beIN Sports 3 🇮🇩"
       ],
       "status": "UPCOMING"
     },
@@ -274,15 +243,14 @@
       "id": 19,
       "date": "2026-08-27",
       "time": "02:00",
-      "duration": 120,
       "category": "Football",
       "icon": "⚽",
       "league": "UEFA Champions League (Kamis/Thursday)",
       "match": "Lyon vs Fenerbahçe",
       "channels": [
-        "beIN Sports Indonesia 🇮🇩"
+        "beIN Sports Xtra 🇮🇩"
       ],
       "status": "UPCOMING"
     }
   ]
-    }
+}
