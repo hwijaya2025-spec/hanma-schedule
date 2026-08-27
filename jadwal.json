@@ -1,80 +1,187 @@
 {
   "version": "2.1",
-  "app": "Hanma TV",
-  "language": "auto",
+  "language": {
+    "auto": true
+  },
+  "date": "Kamis, 27 Agustus 2026 - Jumat, 28 Agustus 2026",
+  "title": "Jadwal Olahraga",
   "timezone": "Asia/Jakarta",
-  "timezone_label": "WIB",
-  "date_range": {
-    "start": "2026-08-27T06:00:00+07:00",
-    "end": "2026-08-28T06:00:00+07:00"
-  },
-  "title": {
-    "key": "sports_schedule"
-  },
   "events": [
     {
       "id": 1,
-      "date": "2026-08-28",
-      "time": "01:30",
-      "category": "Football",
+      "date": "2026-08-27",
+      "time": "23:00",
+      "category": "Sepak Bola",
       "icon": "⚽",
-      "league": "EFL Cup",
-      "match": "Chelsea vs Luton Town",
-      "channels": [
-        {
-          "name": "Sky Sports+",
-          "country": "🇬🇧"
-        }
-      ],
-      "status": "UPCOMING"
+      "league": "Liga Europa UEFA",
+      "match": "Ararat-Armenia vs Universitatea Craiova",
+      "channels": ["Saluran belum terkonfirmasi"],
+      "status": "AKAN DATANG"
     },
     {
       "id": 2,
-      "date": "2026-08-28",
-      "time": "01:30",
-      "category": "Football",
+      "date": "2026-08-27",
+      "time": "23:00",
+      "category": "Sepak Bola",
       "icon": "⚽",
-      "league": "LaLiga",
-      "match": "Celta Vigo vs Osasuna",
-      "channels": [
-        {
-          "name": "beIN Sports 2",
-          "country": "🇮🇩"
-        }
-      ],
-      "status": "UPCOMING"
+      "league": "Liga Europa UEFA",
+      "match": "Iberia Tbilisi vs Jagiellonia Białystok",
+      "channels": ["Saluran belum terkonfirmasi"],
+      "status": "AKAN DATANG"
     },
     {
       "id": 3,
       "date": "2026-08-28",
-      "time": "02:00",
-      "category": "Football",
+      "time": "00:00",
+      "category": "Sepak Bola",
       "icon": "⚽",
-      "league": "EFL Cup",
-      "match": "Fulham vs AFC Wimbledon",
-      "channels": [
-        {
-          "name": "Sky Sports+",
-          "country": "🇬🇧"
-        }
-      ],
-      "status": "UPCOMING"
+      "league": "Liga Europa UEFA",
+      "match": "Omonia Nicosia vs Sint-Truiden",
+      "channels": ["Saluran belum terkonfirmasi"],
+      "status": "AKAN DATANG"
     },
     {
       "id": 4,
       "date": "2026-08-28",
+      "time": "00:00",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "Liga Europa UEFA",
+      "match": "Viktoria Plzeň vs Crvena Zvezda",
+      "channels": ["Saluran belum terkonfirmasi"],
+      "status": "AKAN DATANG"
+    },
+    {
+      "id": 5,
+      "date": "2026-08-28",
+      "time": "00:00",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "Liga Europa UEFA",
+      "match": "Lillestrøm vs Egnatia",
+      "channels": ["Saluran belum terkonfirmasi"],
+      "status": "AKAN DATANG"
+    },
+    {
+      "id": 6,
+      "date": "2026-08-28",
+      "time": "00:00",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "Liga Europa UEFA",
+      "match": "Red Bull Salzburg vs Mjällby",
+      "channels": ["Saluran belum terkonfirmasi"],
+      "status": "AKAN DATANG"
+    },
+    {
+      "id": 7,
+      "date": "2026-08-28",
+      "time": "00:00",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "Liga Europa UEFA",
+      "match": "Kauno Žalgiris vs Beşiktaş",
+      "channels": ["Saluran belum terkonfirmasi"],
+      "status": "AKAN DATANG"
+    },
+    {
+      "id": 8,
+      "date": "2026-08-28",
+      "time": "01:00",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "Liga Europa UEFA",
+      "match": "Thun vs Lech Poznań",
+      "channels": ["Saluran belum terkonfirmasi"],
+      "status": "AKAN DATANG"
+    },
+    {
+      "id": 9,
+      "date": "2026-08-28",
+      "time": "01:00",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "Liga Europa UEFA",
+      "match": "Aarhus vs Benfica",
+      "channels": ["Saluran belum terkonfirmasi"],
+      "status": "AKAN DATANG"
+    },
+    {
+      "id": 10,
+      "date": "2026-08-28",
+      "time": "01:00",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "Liga Europa UEFA",
+      "match": "CSKA Sofia vs OFI Crete",
+      "channels": ["Saluran belum terkonfirmasi"],
+      "status": "AKAN DATANG"
+    },
+    {
+      "id": 11,
+      "date": "2026-08-28",
+      "time": "01:30",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "Liga Europa UEFA",
+      "match": "Ferencváros vs Trabzonspor",
+      "channels": ["Saluran belum terkonfirmasi"],
+      "status": "AKAN DATANG"
+    },
+    {
+      "id": 12,
+      "date": "2026-08-28",
+      "time": "01:30",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "Liga Europa UEFA",
+      "match": "Anderlecht vs Kairat Almaty",
+      "channels": ["Saluran belum terkonfirmasi"],
+      "status": "AKAN DATANG"
+    },
+    {
+      "id": 13,
+      "date": "2026-08-28",
+      "time": "01:30",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "Piala EFL",
+      "match": "Chelsea vs Luton Town",
+      "channels": ["Sky Sports+ 🇬🇧"],
+      "status": "AKAN DATANG"
+    },
+    {
+      "id": 14,
+      "date": "2026-08-28",
+      "time": "01:30",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "LaLiga",
+      "match": "Celta Vigo vs Osasuna",
+      "channels": ["beIN Sports 2 🇮🇩"],
+      "status": "AKAN DATANG"
+    },
+    {
+      "id": 15,
+      "date": "2026-08-28",
       "time": "02:00",
-      "category": "Football",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "Piala EFL",
+      "match": "Fulham vs AFC Wimbledon",
+      "channels": ["Sky Sports+ 🇬🇧"],
+      "status": "AKAN DATANG"
+    },
+    {
+      "id": 16,
+      "date": "2026-08-28",
+      "time": "02:00",
+      "category": "Sepak Bola",
       "icon": "⚽",
       "league": "LaLiga",
       "match": "Barcelona vs Athletic Bilbao",
-      "channels": [
-        {
-          "name": "beIN Sports 1",
-          "country": "🇮🇩"
-        }
-      ],
-      "status": "UPCOMING"
+      "channels": ["beIN Sports 1 🇮🇩"],
+      "status": "AKAN DATANG"
     }
   ]
 }
