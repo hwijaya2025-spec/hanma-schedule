@@ -39,7 +39,8 @@
   "events": [
     {
       "id": 1,
-      "day": "Friday",
+      "day": "Jumat",
+      "day_key": "Friday",
       "date": "2026-08-28",
       "time": "22:50",
       "category": "Sepak Bola",
@@ -54,7 +55,8 @@
     },
     {
       "id": 2,
-      "day": "Friday",
+      "day": "Jumat",
+      "day_key": "Friday",
       "date": "2026-08-28",
       "time": "23:00",
       "category": "Sepak Bola",
@@ -69,7 +71,8 @@
     },
     {
       "id": 3,
-      "day": "Saturday",
+      "day": "Sabtu",
+      "day_key": "Saturday",
       "date": "2026-08-29",
       "time": "00:00",
       "category": "Sepak Bola",
@@ -83,7 +86,8 @@
     },
     {
       "id": 4,
-      "day": "Saturday",
+      "day": "Sabtu",
+      "day_key": "Saturday",
       "date": "2026-08-29",
       "time": "01:00",
       "category": "Sepak Bola",
@@ -98,7 +102,8 @@
     },
     {
       "id": 5,
-      "day": "Saturday",
+      "day": "Sabtu",
+      "day_key": "Saturday",
       "date": "2026-08-29",
       "time": "01:00",
       "category": "Sepak Bola",
@@ -112,7 +117,8 @@
     },
     {
       "id": 6,
-      "day": "Saturday",
+      "day": "Sabtu",
+      "day_key": "Saturday",
       "date": "2026-08-29",
       "time": "01:30",
       "category": "Sepak Bola",
@@ -127,7 +133,8 @@
     },
     {
       "id": 7,
-      "day": "Saturday",
+      "day": "Sabtu",
+      "day_key": "Saturday",
       "date": "2026-08-29",
       "time": "01:45",
       "category": "Sepak Bola",
@@ -142,7 +149,8 @@
     },
     {
       "id": 8,
-      "day": "Saturday",
+      "day": "Sabtu",
+      "day_key": "Saturday",
       "date": "2026-08-29",
       "time": "01:45",
       "category": "Sepak Bola",
@@ -157,7 +165,8 @@
     },
     {
       "id": 9,
-      "day": "Saturday",
+      "day": "Sabtu",
+      "day_key": "Saturday",
       "date": "2026-08-29",
       "time": "02:00",
       "category": "Sepak Bola",
@@ -172,7 +181,8 @@
     },
     {
       "id": 10,
-      "day": "Saturday",
+      "day": "Sabtu",
+      "day_key": "Saturday",
       "date": "2026-08-29",
       "time": "02:00",
       "category": "Sepak Bola",
@@ -187,7 +197,8 @@
     },
     {
       "id": 11,
-      "day": "Saturday",
+      "day": "Sabtu",
+      "day_key": "Saturday",
       "date": "2026-08-29",
       "time": "02:15",
       "category": "Sepak Bola",
@@ -202,7 +213,8 @@
     },
     {
       "id": 12,
-      "day": "Saturday",
+      "day": "Sabtu",
+      "day_key": "Saturday",
       "date": "2026-08-29",
       "time": "02:30",
       "category": "Sepak Bola",
