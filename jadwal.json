@@ -1,4 +1,3 @@
-
 {
   "version": "2.1",
   "language": {
@@ -33,14 +32,14 @@
       }
     }
   },
-  "date": "Jumat, 28 Agustus 2026 - Sabtu, 29 Agustus 2026",
+  "date": "28/08/2026 - 29/08/2026",
   "title": "Jadwal Olahraga",
   "timezone": "Asia/Jakarta",
   "platform": "Hanma TV",
   "events": [
     {
       "id": 1,
-      "day_key": "Friday",
+      "day": "Friday",
       "date": "2026-08-28",
       "time": "22:50",
       "category": "Sepak Bola",
@@ -55,7 +54,7 @@
     },
     {
       "id": 2,
-      "day_key": "Friday",
+      "day": "Friday",
       "date": "2026-08-28",
       "time": "23:00",
       "category": "Sepak Bola",
@@ -70,7 +69,7 @@
     },
     {
       "id": 3,
-      "day_key": "Saturday",
+      "day": "Saturday",
       "date": "2026-08-29",
       "time": "00:00",
       "category": "Sepak Bola",
@@ -84,7 +83,7 @@
     },
     {
       "id": 4,
-      "day_key": "Saturday",
+      "day": "Saturday",
       "date": "2026-08-29",
       "time": "01:00",
       "category": "Sepak Bola",
@@ -99,7 +98,7 @@
     },
     {
       "id": 5,
-      "day_key": "Saturday",
+      "day": "Saturday",
       "date": "2026-08-29",
       "time": "01:00",
       "category": "Sepak Bola",
@@ -113,7 +112,7 @@
     },
     {
       "id": 6,
-      "day_key": "Saturday",
+      "day": "Saturday",
       "date": "2026-08-29",
       "time": "01:30",
       "category": "Sepak Bola",
@@ -128,7 +127,7 @@
     },
     {
       "id": 7,
-      "day_key": "Saturday",
+      "day": "Saturday",
       "date": "2026-08-29",
       "time": "01:45",
       "category": "Sepak Bola",
@@ -143,7 +142,7 @@
     },
     {
       "id": 8,
-      "day_key": "Saturday",
+      "day": "Saturday",
       "date": "2026-08-29",
       "time": "01:45",
       "category": "Sepak Bola",
@@ -158,7 +157,7 @@
     },
     {
       "id": 9,
-      "day_key": "Saturday",
+      "day": "Saturday",
       "date": "2026-08-29",
       "time": "02:00",
       "category": "Sepak Bola",
@@ -173,7 +172,7 @@
     },
     {
       "id": 10,
-      "day_key": "Saturday",
+      "day": "Saturday",
       "date": "2026-08-29",
       "time": "02:00",
       "category": "Sepak Bola",
@@ -188,7 +187,7 @@
     },
     {
       "id": 11,
-      "day_key": "Saturday",
+      "day": "Saturday",
       "date": "2026-08-29",
       "time": "02:15",
       "category": "Sepak Bola",
@@ -203,7 +202,7 @@
     },
     {
       "id": 12,
-      "day_key": "Saturday",
+      "day": "Saturday",
       "date": "2026-08-29",
       "time": "02:30",
       "category": "Sepak Bola",
