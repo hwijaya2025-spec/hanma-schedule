@@ -1,186 +1,176 @@
 {
   "version": "2.1",
-  "language": {
-    "auto": true
-  },
-  "date": "Kamis, 27 Agustus 2026 - Jumat, 28 Agustus 2026",
+  "language": "auto",
+  "date": "Jumat, 28 Agustus 2026 - Sabtu, 29 Agustus 2026",
   "title": "Jadwal Olahraga",
   "timezone": "Asia/Jakarta",
   "events": [
     {
       "id": 1,
-      "date": "2026-08-27",
-      "time": "23:00",
+      "day": "Jumat",
+      "date": "2026-08-28",
+      "time": "22:50",
       "category": "Sepak Bola",
       "icon": "⚽",
-      "league": "Liga Europa UEFA",
-      "match": "Ararat-Armenia vs Universitatea Craiova",
-      "channels": ["Saluran belum terkonfirmasi"],
+      "league": "Liga Profesional Saudi",
+      "match": "Al Riyadh vs Neom SC",
+      "channels": [
+        "Saluran belum terkonfirmasi"
+      ],
       "status": "AKAN DATANG"
     },
     {
       "id": 2,
-      "date": "2026-08-27",
+      "day": "Jumat",
+      "date": "2026-08-28",
       "time": "23:00",
       "category": "Sepak Bola",
       "icon": "⚽",
-      "league": "Liga Europa UEFA",
-      "match": "Iberia Tbilisi vs Jagiellonia Białystok",
-      "channels": ["Saluran belum terkonfirmasi"],
+      "league": "Liga Profesional Saudi",
+      "match": "Al Fayha vs Abha",
+      "channels": [
+        "Saluran belum terkonfirmasi"
+      ],
       "status": "AKAN DATANG"
     },
     {
       "id": 3,
-      "date": "2026-08-28",
+      "day": "Sabtu",
+      "date": "2026-08-29",
       "time": "00:00",
       "category": "Sepak Bola",
       "icon": "⚽",
-      "league": "Liga Europa UEFA",
-      "match": "Omonia Nicosia vs Sint-Truiden",
-      "channels": ["Saluran belum terkonfirmasi"],
+      "league": "LaLiga",
+      "match": "Racing Santander vs Elche",
+      "channels": [
+        "beIN Sports 1 🇮🇩"
+      ],
       "status": "AKAN DATANG"
     },
     {
       "id": 4,
-      "date": "2026-08-28",
-      "time": "00:00",
+      "day": "Sabtu",
+      "date": "2026-08-29",
+      "time": "01:00",
       "category": "Sepak Bola",
       "icon": "⚽",
-      "league": "Liga Europa UEFA",
-      "match": "Viktoria Plzeň vs Crvena Zvezda",
-      "channels": ["Saluran belum terkonfirmasi"],
+      "league": "Liga Profesional Saudi",
+      "match": "Al Khaleej vs Al Hilal",
+      "channels": [
+        "Saluran belum terkonfirmasi"
+      ],
       "status": "AKAN DATANG"
     },
     {
       "id": 5,
-      "date": "2026-08-28",
-      "time": "00:00",
+      "day": "Sabtu",
+      "date": "2026-08-29",
+      "time": "01:00",
       "category": "Sepak Bola",
       "icon": "⚽",
-      "league": "Liga Europa UEFA",
-      "match": "Lillestrøm vs Egnatia",
-      "channels": ["Saluran belum terkonfirmasi"],
+      "league": "Liga Profesional Saudi",
+      "match": "Al Nassr vs Al Taawoun",
+      "channels": [
+        "SPOTV 🇮🇩"
+      ],
       "status": "AKAN DATANG"
     },
     {
       "id": 6,
-      "date": "2026-08-28",
-      "time": "00:00",
+      "day": "Sabtu",
+      "date": "2026-08-29",
+      "time": "01:30",
       "category": "Sepak Bola",
       "icon": "⚽",
-      "league": "Liga Europa UEFA",
-      "match": "Red Bull Salzburg vs Mjällby",
-      "channels": ["Saluran belum terkonfirmasi"],
+      "league": "Bundesliga",
+      "match": "Bayern München vs Stuttgart",
+      "channels": [
+        "Saluran belum terkonfirmasi"
+      ],
       "status": "AKAN DATANG"
     },
     {
       "id": 7,
-      "date": "2026-08-28",
-      "time": "00:00",
+      "day": "Sabtu",
+      "date": "2026-08-29",
+      "time": "01:45",
       "category": "Sepak Bola",
       "icon": "⚽",
-      "league": "Liga Europa UEFA",
-      "match": "Kauno Žalgiris vs Beşiktaş",
-      "channels": ["Saluran belum terkonfirmasi"],
+      "league": "Ligue 1",
+      "match": "Lille vs Paris Saint-Germain",
+      "channels": [
+        "Saluran belum terkonfirmasi"
+      ],
       "status": "AKAN DATANG"
     },
     {
       "id": 8,
-      "date": "2026-08-28",
-      "time": "01:00",
+      "day": "Sabtu",
+      "date": "2026-08-29",
+      "time": "01:45",
       "category": "Sepak Bola",
       "icon": "⚽",
-      "league": "Liga Europa UEFA",
-      "match": "Thun vs Lech Poznań",
-      "channels": ["Saluran belum terkonfirmasi"],
+      "league": "Serie A",
+      "match": "AC Milan vs Venezia",
+      "channels": [
+        "Saluran belum terkonfirmasi"
+      ],
       "status": "AKAN DATANG"
     },
     {
       "id": 9,
-      "date": "2026-08-28",
-      "time": "01:00",
+      "day": "Sabtu",
+      "date": "2026-08-29",
+      "time": "02:00",
       "category": "Sepak Bola",
       "icon": "⚽",
-      "league": "Liga Europa UEFA",
-      "match": "Aarhus vs Benfica",
-      "channels": ["Saluran belum terkonfirmasi"],
+      "league": "Premier League",
+      "match": "Crystal Palace vs Manchester City",
+      "channels": [
+        "Saluran belum terkonfirmasi"
+      ],
       "status": "AKAN DATANG"
     },
     {
       "id": 10,
-      "date": "2026-08-28",
-      "time": "01:00",
+      "day": "Sabtu",
+      "date": "2026-08-29",
+      "time": "02:00",
       "category": "Sepak Bola",
       "icon": "⚽",
-      "league": "Liga Europa UEFA",
-      "match": "CSKA Sofia vs OFI Crete",
-      "channels": ["Saluran belum terkonfirmasi"],
+      "league": "EFL Championship",
+      "match": "Wrexham vs Birmingham City",
+      "channels": [
+        "Saluran belum terkonfirmasi"
+      ],
       "status": "AKAN DATANG"
     },
     {
       "id": 11,
-      "date": "2026-08-28",
-      "time": "01:30",
+      "day": "Sabtu",
+      "date": "2026-08-29",
+      "time": "02:15",
       "category": "Sepak Bola",
       "icon": "⚽",
-      "league": "Liga Europa UEFA",
-      "match": "Ferencváros vs Trabzonspor",
-      "channels": ["Saluran belum terkonfirmasi"],
+      "league": "Liga Portugal",
+      "match": "Rio Ave vs Sporting CP",
+      "channels": [
+        "Saluran belum terkonfirmasi"
+      ],
       "status": "AKAN DATANG"
     },
     {
       "id": 12,
-      "date": "2026-08-28",
-      "time": "01:30",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "Liga Europa UEFA",
-      "match": "Anderlecht vs Kairat Almaty",
-      "channels": ["Saluran belum terkonfirmasi"],
-      "status": "AKAN DATANG"
-    },
-    {
-      "id": 13,
-      "date": "2026-08-28",
-      "time": "01:30",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "Piala EFL",
-      "match": "Chelsea vs Luton Town",
-      "channels": ["Sky Sports+ 🇬🇧"],
-      "status": "AKAN DATANG"
-    },
-    {
-      "id": 14,
-      "date": "2026-08-28",
-      "time": "01:30",
+      "day": "Sabtu",
+      "date": "2026-08-29",
+      "time": "02:30",
       "category": "Sepak Bola",
       "icon": "⚽",
       "league": "LaLiga",
-      "match": "Celta Vigo vs Osasuna",
-      "channels": ["beIN Sports 2 🇮🇩"],
-      "status": "AKAN DATANG"
-    },
-    {
-      "id": 15,
-      "date": "2026-08-28",
-      "time": "02:00",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "Piala EFL",
-      "match": "Fulham vs AFC Wimbledon",
-      "channels": ["Sky Sports+ 🇬🇧"],
-      "status": "AKAN DATANG"
-    },
-    {
-      "id": 16,
-      "date": "2026-08-28",
-      "time": "02:00",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "LaLiga",
-      "match": "Barcelona vs Athletic Bilbao",
-      "channels": ["beIN Sports 1 🇮🇩"],
+      "match": "Deportivo Alavés vs Villarreal",
+      "channels": [
+        "beIN Sports 1 🇮🇩"
+      ],
       "status": "AKAN DATANG"
     }
   ]
