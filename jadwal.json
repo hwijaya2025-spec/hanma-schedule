@@ -3,12 +3,13 @@
   "language": {
     "auto": true,
     "default": "id",
+    "fallback": "en",
     "translations": {
       "id": {
         "title": "Jadwal Olahraga",
         "days": {
-          "Friday": "Jumat",
-          "Saturday": "Sabtu"
+          "Saturday": "Sabtu",
+          "Sunday": "Minggu"
         },
         "status": {
           "upcoming": "AKAN DATANG"
@@ -20,8 +21,8 @@
       "en": {
         "title": "Sports Schedule",
         "days": {
-          "Friday": "Friday",
-          "Saturday": "Saturday"
+          "Saturday": "Saturday",
+          "Sunday": "Sunday"
         },
         "status": {
           "upcoming": "UPCOMING"
@@ -32,179 +33,191 @@
       }
     }
   },
-  "date": "28/08/2026 - 29/08/2026",
+  "date": "29/08/2026 06:00 - 30/08/2026 06:00",
   "title": "Jadwal Olahraga",
   "timezone": "Asia/Jakarta",
   "platform": "Hanma TV",
   "events": [
     {
       "id": 1,
-      "day": "Jumat",
-      "day_key": "Friday",
-      "date": "2026-08-28",
-      "time": "22:50",
+      "day": "Saturday",
+      "date": "2026-08-29",
+      "time": "19:30",
       "category": "Sepak Bola",
       "icon": "⚽",
-      "league": "Liga Profesional Saudi",
-      "match": "Al Riyadh vs Neom SC",
-      "channel_key": "unconfirmed",
+      "league": "Premier League",
+      "match": "Liverpool vs Nottingham Forest",
       "channels": [
-        "Saluran belum terkonfirmasi"
+        "Alwan Sport",
+        "TNT Sports 1",
+        "Fubo Sports 1",
+        "Hub Premier"
       ],
       "status_key": "upcoming"
     },
     {
       "id": 2,
-      "day": "Jumat",
-      "day_key": "Friday",
-      "date": "2026-08-28",
-      "time": "23:00",
+      "day": "Saturday",
+      "date": "2026-08-29",
+      "time": "21:00",
       "category": "Sepak Bola",
       "icon": "⚽",
-      "league": "Liga Profesional Saudi",
-      "match": "Al Fayha vs Abha",
-      "channel_key": "unconfirmed",
+      "league": "Premier League",
+      "match": "Bournemouth vs Everton",
       "channels": [
-        "Saluran belum terkonfirmasi"
+        "Alwan Sport",
+        "TNT Sports 1",
+        "Fubo Sports 1",
+        "Hub Premier"
       ],
       "status_key": "upcoming"
     },
     {
       "id": 3,
-      "day": "Sabtu",
-      "day_key": "Saturday",
+      "day": "Saturday",
       "date": "2026-08-29",
-      "time": "00:00",
+      "time": "21:00",
       "category": "Sepak Bola",
       "icon": "⚽",
-      "league": "LaLiga",
-      "match": "Racing Santander vs Elche",
+      "league": "EFL Championship",
+      "match": "Coventry City vs Hull City",
+      "channel_key": "unconfirmed",
       "channels": [
-        "beIN Sports 1 🇮🇩"
+        "Saluran belum terkonfirmasi"
       ],
       "status_key": "upcoming"
     },
     {
       "id": 4,
-      "day": "Sabtu",
-      "day_key": "Saturday",
+      "day": "Saturday",
       "date": "2026-08-29",
-      "time": "01:00",
+      "time": "22:00",
       "category": "Sepak Bola",
       "icon": "⚽",
-      "league": "Liga Profesional Saudi",
-      "match": "Al Khaleej vs Al Hilal",
-      "channel_key": "unconfirmed",
+      "league": "LaLiga",
+      "match": "Levante vs Real Betis",
       "channels": [
-        "Saluran belum terkonfirmasi"
+        "beIN Sports 🇦🇺",
+        "beIN Sports 🇮🇩",
+        "Prima Sport",
+        "Ziggo Sport"
       ],
       "status_key": "upcoming"
     },
     {
       "id": 5,
-      "day": "Sabtu",
-      "day_key": "Saturday",
+      "day": "Saturday",
       "date": "2026-08-29",
-      "time": "01:00",
+      "time": "22:15",
       "category": "Sepak Bola",
       "icon": "⚽",
-      "league": "Liga Profesional Saudi",
-      "match": "Al Nassr vs Al Taawoun",
+      "league": "Ligue 1",
+      "match": "Strasbourg vs Lens",
+      "channel_key": "unconfirmed",
       "channels": [
-        "SPOTV 🇮🇩"
+        "Saluran belum terkonfirmasi"
       ],
       "status_key": "upcoming"
     },
     {
       "id": 6,
-      "day": "Sabtu",
-      "day_key": "Saturday",
+      "day": "Saturday",
       "date": "2026-08-29",
-      "time": "01:30",
+      "time": "23:30",
       "category": "Sepak Bola",
       "icon": "⚽",
-      "league": "Bundesliga",
-      "match": "Bayern München vs Stuttgart",
-      "channel_key": "unconfirmed",
+      "league": "Serie A",
+      "match": "Fiorentina vs Frosinone",
       "channels": [
-        "Saluran belum terkonfirmasi"
+        "beIN Sports 🇦🇺"
       ],
       "status_key": "upcoming"
     },
     {
       "id": 7,
-      "day": "Sabtu",
-      "day_key": "Saturday",
+      "day": "Saturday",
       "date": "2026-08-29",
-      "time": "01:45",
+      "time": "23:30",
       "category": "Sepak Bola",
       "icon": "⚽",
-      "league": "Ligue 1",
-      "match": "Lille vs Paris Saint-Germain",
-      "channel_key": "unconfirmed",
+      "league": "Serie A",
+      "match": "Monza vs Udinese",
       "channels": [
-        "Saluran belum terkonfirmasi"
+        "beIN Sports 🇦🇺"
       ],
       "status_key": "upcoming"
     },
     {
       "id": 8,
-      "day": "Sabtu",
-      "day_key": "Saturday",
+      "day": "Saturday",
       "date": "2026-08-29",
-      "time": "01:45",
+      "time": "23:30",
       "category": "Sepak Bola",
       "icon": "⚽",
       "league": "Serie A",
-      "match": "AC Milan vs Venezia",
-      "channel_key": "unconfirmed",
+      "match": "Sassuolo vs Torino",
       "channels": [
-        "Saluran belum terkonfirmasi"
+        "beIN Sports 🇦🇺"
       ],
       "status_key": "upcoming"
     },
     {
       "id": 9,
-      "day": "Sabtu",
-      "day_key": "Saturday",
-      "date": "2026-08-29",
-      "time": "02:00",
+      "day": "Sunday",
+      "date": "2026-08-30",
+      "time": "00:00",
       "category": "Sepak Bola",
       "icon": "⚽",
-      "league": "Premier League",
-      "match": "Crystal Palace vs Manchester City",
-      "channel_key": "unconfirmed",
+      "league": "LaLiga",
+      "match": "Real Sociedad vs Espanyol",
       "channels": [
-        "Saluran belum terkonfirmasi"
+        "beIN Sports 🇦🇺",
+        "beIN Sports 🇮🇩",
+        "Prima Sport",
+        "Ziggo Sport"
       ],
       "status_key": "upcoming"
     },
     {
       "id": 10,
-      "day": "Sabtu",
-      "day_key": "Saturday",
-      "date": "2026-08-29",
-      "time": "02:00",
+      "day": "Sunday",
+      "date": "2026-08-30",
+      "time": "00:30",
       "category": "Sepak Bola",
       "icon": "⚽",
-      "league": "EFL Championship",
-      "match": "Wrexham vs Birmingham City",
-      "channel_key": "unconfirmed",
+      "league": "Premier League",
+      "match": "Tottenham Hotspur vs Newcastle United",
       "channels": [
-        "Saluran belum terkonfirmasi"
+        "Alwan Sport",
+        "TNT Sports 1",
+        "Fubo Sports 1",
+        "Hub Premier"
       ],
       "status_key": "upcoming"
     },
     {
       "id": 11,
-      "day": "Sabtu",
-      "day_key": "Saturday",
-      "date": "2026-08-29",
-      "time": "02:15",
+      "day": "Sunday",
+      "date": "2026-08-30",
+      "time": "01:45",
       "category": "Sepak Bola",
       "icon": "⚽",
-      "league": "Liga Portugal",
-      "match": "Rio Ave vs Sporting CP",
+      "league": "Serie A",
+      "match": "Juventus vs Parma",
+      "channels": [
+        "beIN Sports 🇦🇺"
+      ],
+      "status_key": "upcoming"
+    },
+    {
+      "id": 12,
+      "day": "Sunday",
+      "date": "2026-08-30",
+      "time": "01:45",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "Ligue 1",
+      "match": "Auxerre vs Angers",
       "channel_key": "unconfirmed",
       "channels": [
         "Saluran belum terkonfirmasi"
@@ -212,17 +225,49 @@
       "status_key": "upcoming"
     },
     {
-      "id": 12,
-      "day": "Sabtu",
-      "day_key": "Saturday",
-      "date": "2026-08-29",
+      "id": 13,
+      "day": "Sunday",
+      "date": "2026-08-30",
+      "time": "01:45",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "Ligue 1",
+      "match": "Brest vs Toulouse",
+      "channel_key": "unconfirmed",
+      "channels": [
+        "Saluran belum terkonfirmasi"
+      ],
+      "status_key": "upcoming"
+    },
+    {
+      "id": 14,
+      "day": "Sunday",
+      "date": "2026-08-30",
+      "time": "01:45",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "Ligue 1",
+      "match": "Lorient vs Troyes",
+      "channel_key": "unconfirmed",
+      "channels": [
+        "Saluran belum terkonfirmasi"
+      ],
+      "status_key": "upcoming"
+    },
+    {
+      "id": 15,
+      "day": "Sunday",
+      "date": "2026-08-30",
       "time": "02:30",
       "category": "Sepak Bola",
       "icon": "⚽",
       "league": "LaLiga",
-      "match": "Deportivo Alavés vs Villarreal",
+      "match": "Sevilla vs Atletico Madrid",
       "channels": [
-        "beIN Sports 1 🇮🇩"
+        "beIN Sports 🇦🇺",
+        "beIN Sports 🇮🇩",
+        "Prima Sport",
+        "Ziggo Sport"
       ],
       "status_key": "upcoming"
     }
