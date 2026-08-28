@@ -1,41 +1,68 @@
 {
-  "version": "2.1",
-  "language": "auto",
+  "version": "2.2",
+  "language": {
+    "auto": true,
+    "default": "id",
+    "translations": {
+      "id": {
+        "title": "Jadwal Olahraga",
+        "days": {
+          "Friday": "Jumat",
+          "Saturday": "Sabtu"
+        },
+        "status": {
+          "upcoming": "AKAN DATANG"
+        },
+        "channels": {
+          "unconfirmed": "Saluran belum terkonfirmasi"
+        }
+      },
+      "en": {
+        "title": "Sports Schedule",
+        "days": {
+          "Friday": "Friday",
+          "Saturday": "Saturday"
+        },
+        "status": {
+          "upcoming": "UPCOMING"
+        },
+        "channels": {
+          "unconfirmed": "Channel unconfirmed"
+        }
+      }
+    }
+  },
   "date": "Jumat, 28 Agustus 2026 - Sabtu, 29 Agustus 2026",
   "title": "Jadwal Olahraga",
   "timezone": "Asia/Jakarta",
   "events": [
     {
       "id": 1,
-      "day": "Jumat",
+      "day_key": "Friday",
       "date": "2026-08-28",
       "time": "22:50",
       "category": "Sepak Bola",
       "icon": "⚽",
       "league": "Liga Profesional Saudi",
       "match": "Al Riyadh vs Neom SC",
-      "channels": [
-        "Saluran belum terkonfirmasi"
-      ],
-      "status": "AKAN DATANG"
+      "channel_key": "unconfirmed",
+      "status_key": "upcoming"
     },
     {
       "id": 2,
-      "day": "Jumat",
+      "day_key": "Friday",
       "date": "2026-08-28",
       "time": "23:00",
       "category": "Sepak Bola",
       "icon": "⚽",
       "league": "Liga Profesional Saudi",
       "match": "Al Fayha vs Abha",
-      "channels": [
-        "Saluran belum terkonfirmasi"
-      ],
-      "status": "AKAN DATANG"
+      "channel_key": "unconfirmed",
+      "status_key": "upcoming"
     },
     {
       "id": 3,
-      "day": "Sabtu",
+      "day_key": "Saturday",
       "date": "2026-08-29",
       "time": "00:00",
       "category": "Sepak Bola",
@@ -45,25 +72,23 @@
       "channels": [
         "beIN Sports 1 🇮🇩"
       ],
-      "status": "AKAN DATANG"
+      "status_key": "upcoming"
     },
     {
       "id": 4,
-      "day": "Sabtu",
+      "day_key": "Saturday",
       "date": "2026-08-29",
       "time": "01:00",
       "category": "Sepak Bola",
       "icon": "⚽",
       "league": "Liga Profesional Saudi",
       "match": "Al Khaleej vs Al Hilal",
-      "channels": [
-        "Saluran belum terkonfirmasi"
-      ],
-      "status": "AKAN DATANG"
+      "channel_key": "unconfirmed",
+      "status_key": "upcoming"
     },
     {
       "id": 5,
-      "day": "Sabtu",
+      "day_key": "Saturday",
       "date": "2026-08-29",
       "time": "01:00",
       "category": "Sepak Bola",
@@ -73,95 +98,83 @@
       "channels": [
         "SPOTV 🇮🇩"
       ],
-      "status": "AKAN DATANG"
+      "status_key": "upcoming"
     },
     {
       "id": 6,
-      "day": "Sabtu",
+      "day_key": "Saturday",
       "date": "2026-08-29",
       "time": "01:30",
       "category": "Sepak Bola",
       "icon": "⚽",
       "league": "Bundesliga",
       "match": "Bayern München vs Stuttgart",
-      "channels": [
-        "Saluran belum terkonfirmasi"
-      ],
-      "status": "AKAN DATANG"
+      "channel_key": "unconfirmed",
+      "status_key": "upcoming"
     },
     {
       "id": 7,
-      "day": "Sabtu",
+      "day_key": "Saturday",
       "date": "2026-08-29",
       "time": "01:45",
       "category": "Sepak Bola",
       "icon": "⚽",
       "league": "Ligue 1",
       "match": "Lille vs Paris Saint-Germain",
-      "channels": [
-        "Saluran belum terkonfirmasi"
-      ],
-      "status": "AKAN DATANG"
+      "channel_key": "unconfirmed",
+      "status_key": "upcoming"
     },
     {
       "id": 8,
-      "day": "Sabtu",
+      "day_key": "Saturday",
       "date": "2026-08-29",
       "time": "01:45",
       "category": "Sepak Bola",
       "icon": "⚽",
       "league": "Serie A",
       "match": "AC Milan vs Venezia",
-      "channels": [
-        "Saluran belum terkonfirmasi"
-      ],
-      "status": "AKAN DATANG"
+      "channel_key": "unconfirmed",
+      "status_key": "upcoming"
     },
     {
       "id": 9,
-      "day": "Sabtu",
+      "day_key": "Saturday",
       "date": "2026-08-29",
       "time": "02:00",
       "category": "Sepak Bola",
       "icon": "⚽",
       "league": "Premier League",
       "match": "Crystal Palace vs Manchester City",
-      "channels": [
-        "Saluran belum terkonfirmasi"
-      ],
-      "status": "AKAN DATANG"
+      "channel_key": "unconfirmed",
+      "status_key": "upcoming"
     },
     {
       "id": 10,
-      "day": "Sabtu",
+      "day_key": "Saturday",
       "date": "2026-08-29",
       "time": "02:00",
       "category": "Sepak Bola",
       "icon": "⚽",
       "league": "EFL Championship",
       "match": "Wrexham vs Birmingham City",
-      "channels": [
-        "Saluran belum terkonfirmasi"
-      ],
-      "status": "AKAN DATANG"
+      "channel_key": "unconfirmed",
+      "status_key": "upcoming"
     },
     {
       "id": 11,
-      "day": "Sabtu",
+      "day_key": "Saturday",
       "date": "2026-08-29",
       "time": "02:15",
       "category": "Sepak Bola",
       "icon": "⚽",
       "league": "Liga Portugal",
       "match": "Rio Ave vs Sporting CP",
-      "channels": [
-        "Saluran belum terkonfirmasi"
-      ],
-      "status": "AKAN DATANG"
+      "channel_key": "unconfirmed",
+      "status_key": "upcoming"
     },
     {
       "id": 12,
-      "day": "Sabtu",
+      "day_key": "Saturday",
       "date": "2026-08-29",
       "time": "02:30",
       "category": "Sepak Bola",
@@ -171,7 +184,7 @@
       "channels": [
         "beIN Sports 1 🇮🇩"
       ],
-      "status": "AKAN DATANG"
+      "status_key": "upcoming"
     }
   ]
 }
