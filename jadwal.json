@@ -1,5 +1,6 @@
+
 {
-  "version": "2.2",
+  "version": "2.1",
   "language": {
     "auto": true,
     "default": "id",
@@ -35,6 +36,7 @@
   "date": "Jumat, 28 Agustus 2026 - Sabtu, 29 Agustus 2026",
   "title": "Jadwal Olahraga",
   "timezone": "Asia/Jakarta",
+  "platform": "Hanma TV",
   "events": [
     {
       "id": 1,
@@ -46,6 +48,9 @@
       "league": "Liga Profesional Saudi",
       "match": "Al Riyadh vs Neom SC",
       "channel_key": "unconfirmed",
+      "channels": [
+        "Saluran belum terkonfirmasi"
+      ],
       "status_key": "upcoming"
     },
     {
@@ -58,6 +63,9 @@
       "league": "Liga Profesional Saudi",
       "match": "Al Fayha vs Abha",
       "channel_key": "unconfirmed",
+      "channels": [
+        "Saluran belum terkonfirmasi"
+      ],
       "status_key": "upcoming"
     },
     {
@@ -84,6 +92,9 @@
       "league": "Liga Profesional Saudi",
       "match": "Al Khaleej vs Al Hilal",
       "channel_key": "unconfirmed",
+      "channels": [
+        "Saluran belum terkonfirmasi"
+      ],
       "status_key": "upcoming"
     },
     {
@@ -110,6 +121,9 @@
       "league": "Bundesliga",
       "match": "Bayern München vs Stuttgart",
       "channel_key": "unconfirmed",
+      "channels": [
+        "Saluran belum terkonfirmasi"
+      ],
       "status_key": "upcoming"
     },
     {
@@ -122,6 +136,9 @@
       "league": "Ligue 1",
       "match": "Lille vs Paris Saint-Germain",
       "channel_key": "unconfirmed",
+      "channels": [
+        "Saluran belum terkonfirmasi"
+      ],
       "status_key": "upcoming"
     },
     {
@@ -134,6 +151,9 @@
       "league": "Serie A",
       "match": "AC Milan vs Venezia",
       "channel_key": "unconfirmed",
+      "channels": [
+        "Saluran belum terkonfirmasi"
+      ],
       "status_key": "upcoming"
     },
     {
@@ -146,6 +166,9 @@
       "league": "Premier League",
       "match": "Crystal Palace vs Manchester City",
       "channel_key": "unconfirmed",
+      "channels": [
+        "Saluran belum terkonfirmasi"
+      ],
       "status_key": "upcoming"
     },
     {
@@ -158,6 +181,9 @@
       "league": "EFL Championship",
       "match": "Wrexham vs Birmingham City",
       "channel_key": "unconfirmed",
+      "channels": [
+        "Saluran belum terkonfirmasi"
+      ],
       "status_key": "upcoming"
     },
     {
@@ -170,6 +196,9 @@
       "league": "Liga Portugal",
       "match": "Rio Ave vs Sporting CP",
       "channel_key": "unconfirmed",
+      "channels": [
+        "Saluran belum terkonfirmasi"
+      ],
       "status_key": "upcoming"
     },
     {
