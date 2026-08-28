@@ -1,31 +1,51 @@
 {
   "version": "2.1",
+  "platform": "Hanma TV",
+  "timezone": "Asia/Jakarta",
+
   "language": {
     "auto": true,
+    "source": "app",
     "default": "id",
     "fallback": "en",
+
     "translations": {
       "id": {
         "title": "Jadwal Olahraga",
         "days": {
+          "Monday": "Senin",
+          "Tuesday": "Selasa",
+          "Wednesday": "Rabu",
+          "Thursday": "Kamis",
+          "Friday": "Jumat",
           "Saturday": "Sabtu",
           "Sunday": "Minggu"
         },
         "status": {
-          "upcoming": "AKAN DATANG"
+          "upcoming": "AKAN DATANG",
+          "live": "SEDANG BERLANGSUNG",
+          "finished": "SELESAI"
         },
         "channels": {
           "unconfirmed": "Saluran belum terkonfirmasi"
         }
       },
+
       "en": {
         "title": "Sports Schedule",
         "days": {
+          "Monday": "Monday",
+          "Tuesday": "Tuesday",
+          "Wednesday": "Wednesday",
+          "Thursday": "Thursday",
+          "Friday": "Friday",
           "Saturday": "Saturday",
           "Sunday": "Sunday"
         },
         "status": {
-          "upcoming": "UPCOMING"
+          "upcoming": "UPCOMING",
+          "live": "LIVE",
+          "finished": "FINISHED"
         },
         "channels": {
           "unconfirmed": "Channel unconfirmed"
@@ -33,14 +53,17 @@
       }
     }
   },
+
   "date": "29/08/2026 06:00 - 30/08/2026 06:00",
   "title": "Jadwal Olahraga",
-  "timezone": "Asia/Jakarta",
-  "platform": "Hanma TV",
+
   "events": [
     {
       "id": 1,
-      "day": "Saturday",
+      "day": {
+        "key": "Saturday",
+        "auto": true
+      },
       "date": "2026-08-29",
       "time": "19:30",
       "category": "Sepak Bola",
@@ -53,11 +76,17 @@
         "Fubo Sports 1",
         "Hub Premier"
       ],
-      "status_key": "upcoming"
+      "status": {
+        "key": "upcoming"
+      }
     },
+
     {
       "id": 2,
-      "day": "Saturday",
+      "day": {
+        "key": "Saturday",
+        "auto": true
+      },
       "date": "2026-08-29",
       "time": "21:00",
       "category": "Sepak Bola",
@@ -70,26 +99,38 @@
         "Fubo Sports 1",
         "Hub Premier"
       ],
-      "status_key": "upcoming"
+      "status": {
+        "key": "upcoming"
+      }
     },
+
     {
       "id": 3,
-      "day": "Saturday",
+      "day": {
+        "key": "Saturday",
+        "auto": true
+      },
       "date": "2026-08-29",
       "time": "21:00",
       "category": "Sepak Bola",
       "icon": "⚽",
       "league": "EFL Championship",
       "match": "Coventry City vs Hull City",
-      "channel_key": "unconfirmed",
       "channels": [
         "Saluran belum terkonfirmasi"
       ],
-      "status_key": "upcoming"
+      "channel_key": "unconfirmed",
+      "status": {
+        "key": "upcoming"
+      }
     },
+
     {
       "id": 4,
-      "day": "Saturday",
+      "day": {
+        "key": "Saturday",
+        "auto": true
+      },
       "date": "2026-08-29",
       "time": "22:00",
       "category": "Sepak Bola",
@@ -102,26 +143,38 @@
         "Prima Sport",
         "Ziggo Sport"
       ],
-      "status_key": "upcoming"
+      "status": {
+        "key": "upcoming"
+      }
     },
+
     {
       "id": 5,
-      "day": "Saturday",
+      "day": {
+        "key": "Saturday",
+        "auto": true
+      },
       "date": "2026-08-29",
       "time": "22:15",
       "category": "Sepak Bola",
       "icon": "⚽",
       "league": "Ligue 1",
       "match": "Strasbourg vs Lens",
-      "channel_key": "unconfirmed",
       "channels": [
         "Saluran belum terkonfirmasi"
       ],
-      "status_key": "upcoming"
+      "channel_key": "unconfirmed",
+      "status": {
+        "key": "upcoming"
+      }
     },
+
     {
       "id": 6,
-      "day": "Saturday",
+      "day": {
+        "key": "Saturday",
+        "auto": true
+      },
       "date": "2026-08-29",
       "time": "23:30",
       "category": "Sepak Bola",
@@ -131,11 +184,17 @@
       "channels": [
         "beIN Sports 🇦🇺"
       ],
-      "status_key": "upcoming"
+      "status": {
+        "key": "upcoming"
+      }
     },
+
     {
       "id": 7,
-      "day": "Saturday",
+      "day": {
+        "key": "Saturday",
+        "auto": true
+      },
       "date": "2026-08-29",
       "time": "23:30",
       "category": "Sepak Bola",
@@ -145,11 +204,17 @@
       "channels": [
         "beIN Sports 🇦🇺"
       ],
-      "status_key": "upcoming"
+      "status": {
+        "key": "upcoming"
+      }
     },
+
     {
       "id": 8,
-      "day": "Saturday",
+      "day": {
+        "key": "Saturday",
+        "auto": true
+      },
       "date": "2026-08-29",
       "time": "23:30",
       "category": "Sepak Bola",
@@ -159,11 +224,17 @@
       "channels": [
         "beIN Sports 🇦🇺"
       ],
-      "status_key": "upcoming"
+      "status": {
+        "key": "upcoming"
+      }
     },
+
     {
       "id": 9,
-      "day": "Sunday",
+      "day": {
+        "key": "Sunday",
+        "auto": true
+      },
       "date": "2026-08-30",
       "time": "00:00",
       "category": "Sepak Bola",
@@ -176,11 +247,17 @@
         "Prima Sport",
         "Ziggo Sport"
       ],
-      "status_key": "upcoming"
+      "status": {
+        "key": "upcoming"
+      }
     },
+
     {
       "id": 10,
-      "day": "Sunday",
+      "day": {
+        "key": "Sunday",
+        "auto": true
+      },
       "date": "2026-08-30",
       "time": "00:30",
       "category": "Sepak Bola",
@@ -193,11 +270,17 @@
         "Fubo Sports 1",
         "Hub Premier"
       ],
-      "status_key": "upcoming"
+      "status": {
+        "key": "upcoming"
+      }
     },
+
     {
       "id": 11,
-      "day": "Sunday",
+      "day": {
+        "key": "Sunday",
+        "auto": true
+      },
       "date": "2026-08-30",
       "time": "01:45",
       "category": "Sepak Bola",
@@ -207,56 +290,80 @@
       "channels": [
         "beIN Sports 🇦🇺"
       ],
-      "status_key": "upcoming"
+      "status": {
+        "key": "upcoming"
+      }
     },
+
     {
       "id": 12,
-      "day": "Sunday",
+      "day": {
+        "key": "Sunday",
+        "auto": true
+      },
       "date": "2026-08-30",
       "time": "01:45",
       "category": "Sepak Bola",
       "icon": "⚽",
       "league": "Ligue 1",
       "match": "Auxerre vs Angers",
-      "channel_key": "unconfirmed",
       "channels": [
         "Saluran belum terkonfirmasi"
       ],
-      "status_key": "upcoming"
+      "channel_key": "unconfirmed",
+      "status": {
+        "key": "upcoming"
+      }
     },
+
     {
       "id": 13,
-      "day": "Sunday",
+      "day": {
+        "key": "Sunday",
+        "auto": true
+      },
       "date": "2026-08-30",
       "time": "01:45",
       "category": "Sepak Bola",
       "icon": "⚽",
       "league": "Ligue 1",
       "match": "Brest vs Toulouse",
-      "channel_key": "unconfirmed",
       "channels": [
         "Saluran belum terkonfirmasi"
       ],
-      "status_key": "upcoming"
+      "channel_key": "unconfirmed",
+      "status": {
+        "key": "upcoming"
+      }
     },
+
     {
       "id": 14,
-      "day": "Sunday",
+      "day": {
+        "key": "Sunday",
+        "auto": true
+      },
       "date": "2026-08-30",
       "time": "01:45",
       "category": "Sepak Bola",
       "icon": "⚽",
       "league": "Ligue 1",
       "match": "Lorient vs Troyes",
-      "channel_key": "unconfirmed",
       "channels": [
         "Saluran belum terkonfirmasi"
       ],
-      "status_key": "upcoming"
+      "channel_key": "unconfirmed",
+      "status": {
+        "key": "upcoming"
+      }
     },
+
     {
       "id": 15,
-      "day": "Sunday",
+      "day": {
+        "key": "Sunday",
+        "auto": true
+      },
       "date": "2026-08-30",
       "time": "02:30",
       "category": "Sepak Bola",
@@ -269,7 +376,9 @@
         "Prima Sport",
         "Ziggo Sport"
       ],
-      "status_key": "upcoming"
+      "status": {
+        "key": "upcoming"
+      }
     }
   ]
 }
