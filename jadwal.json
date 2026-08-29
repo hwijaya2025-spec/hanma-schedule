@@ -2,7 +2,6 @@
   "version": "2.1",
   "platform": "Hanma TV",
   "timezone": "Asia/Jakarta",
-
   "language": {
     "auto": true,
     "default": "id",
@@ -50,16 +49,15 @@
       }
     }
   },
-
   "date": "29/08/2026 06:00 - 30/08/2026 06:00",
   "title": "Jadwal Siaran & Olahraga",
-
   "events": [
     {
       "id": 1,
       "day": "Sabtu",
       "date": "2026-08-29",
-      "time": "19:30",
+      "time": "06:30",
+      "end_time": "07:25",
       "category": "Sepak Bola",
       "icon": "⚽",
       "league": "Premier League",
@@ -70,13 +68,14 @@
         "Fubo Sports 1",
         "Hub Premier"
       ],
-      "status": "AKAN DATANG"
+      "status": "UPCOMING"
     },
     {
       "id": 2,
       "day": "Sabtu",
       "date": "2026-08-29",
-      "time": "21:00",
+      "time": "08:40",
+      "end_time": "08:45",
       "category": "Sepak Bola",
       "icon": "⚽",
       "league": "Premier League",
@@ -87,13 +86,14 @@
         "Fubo Sports 1",
         "Hub Premier"
       ],
-      "status": "AKAN DATANG"
+      "status": "UPCOMING"
     },
     {
       "id": 3,
       "day": "Sabtu",
       "date": "2026-08-29",
       "time": "21:00",
+      "end_time": "22:55",
       "category": "Sepak Bola",
       "icon": "⚽",
       "league": "EFL Championship",
@@ -101,13 +101,14 @@
       "channels": [
         "Saluran belum terkonfirmasi"
       ],
-      "status": "AKAN DATANG"
+      "status": "UPCOMING"
     },
     {
       "id": 4,
       "day": "Sabtu",
       "date": "2026-08-29",
       "time": "22:00",
+      "end_time": "23:55",
       "category": "Sepak Bola",
       "icon": "⚽",
       "league": "LaLiga",
@@ -118,13 +119,14 @@
         "Prima Sport",
         "Ziggo Sport"
       ],
-      "status": "AKAN DATANG"
+      "status": "UPCOMING"
     },
     {
       "id": 5,
       "day": "Sabtu",
       "date": "2026-08-29",
       "time": "22:15",
+      "end_time": "00:10",
       "category": "Sepak Bola",
       "icon": "⚽",
       "league": "Ligue 1",
@@ -132,13 +134,14 @@
       "channels": [
         "Saluran belum terkonfirmasi"
       ],
-      "status": "AKAN DATANG"
+      "status": "UPCOMING"
     },
     {
       "id": 6,
       "day": "Sabtu",
       "date": "2026-08-29",
       "time": "23:30",
+      "end_time": "01:25",
       "category": "Sepak Bola",
       "icon": "⚽",
       "league": "Serie A",
@@ -146,13 +149,14 @@
       "channels": [
         "beIN Sports 🇦🇺"
       ],
-      "status": "AKAN DATANG"
+      "status": "UPCOMING"
     },
     {
       "id": 7,
       "day": "Sabtu",
       "date": "2026-08-29",
       "time": "23:30",
+      "end_time": "01:25",
       "category": "Sepak Bola",
       "icon": "⚽",
       "league": "Serie A",
@@ -160,13 +164,14 @@
       "channels": [
         "beIN Sports 🇦🇺"
       ],
-      "status": "AKAN DATANG"
+      "status": "UPCOMING"
     },
     {
       "id": 8,
       "day": "Sabtu",
       "date": "2026-08-29",
       "time": "23:30",
+      "end_time": "01:25",
       "category": "Sepak Bola",
       "icon": "⚽",
       "league": "Serie A",
@@ -174,13 +179,14 @@
       "channels": [
         "beIN Sports 🇦🇺"
       ],
-      "status": "AKAN DATANG"
+      "status": "UPCOMING"
     },
     {
       "id": 9,
       "day": "Minggu",
       "date": "2026-08-30",
       "time": "00:00",
+      "end_time": "01:55",
       "category": "Sepak Bola",
       "icon": "⚽",
       "league": "LaLiga",
@@ -191,13 +197,14 @@
         "Prima Sport",
         "Ziggo Sport"
       ],
-      "status": "AKAN DATANG"
+      "status": "UPCOMING"
     },
     {
       "id": 10,
       "day": "Minggu",
       "date": "2026-08-30",
       "time": "00:30",
+      "end_time": "02:25",
       "category": "Sepak Bola",
       "icon": "⚽",
       "league": "Premier League",
@@ -208,13 +215,14 @@
         "Fubo Sports 1",
         "Hub Premier"
       ],
-      "status": "AKAN DATANG"
+      "status": "UPCOMING"
     },
     {
       "id": 11,
       "day": "Minggu",
       "date": "2026-08-30",
       "time": "01:45",
+      "end_time": "03:40",
       "category": "Sepak Bola",
       "icon": "⚽",
       "league": "Serie A",
@@ -222,13 +230,14 @@
       "channels": [
         "beIN Sports 🇦🇺"
       ],
-      "status": "AKAN DATANG"
+      "status": "UPCOMING"
     },
     {
       "id": 12,
       "day": "Minggu",
       "date": "2026-08-30",
       "time": "01:45",
+      "end_time": "03:40",
       "category": "Sepak Bola",
       "icon": "⚽",
       "league": "Ligue 1",
@@ -236,13 +245,14 @@
       "channels": [
         "Saluran belum terkonfirmasi"
       ],
-      "status": "AKAN DATANG"
+      "status": "UPCOMING"
     },
     {
       "id": 13,
       "day": "Minggu",
       "date": "2026-08-30",
       "time": "01:45",
+      "end_time": "03:40",
       "category": "Sepak Bola",
       "icon": "⚽",
       "league": "Ligue 1",
@@ -250,13 +260,14 @@
       "channels": [
         "Saluran belum terkonfirmasi"
       ],
-      "status": "AKAN DATANG"
+      "status": "UPCOMING"
     },
     {
       "id": 14,
       "day": "Minggu",
       "date": "2026-08-30",
       "time": "01:45",
+      "end_time": "03:40",
       "category": "Sepak Bola",
       "icon": "⚽",
       "league": "Ligue 1",
@@ -264,13 +275,14 @@
       "channels": [
         "Saluran belum terkonfirmasi"
       ],
-      "status": "AKAN DATANG"
+      "status": "UPCOMING"
     },
     {
       "id": 15,
       "day": "Minggu",
       "date": "2026-08-30",
       "time": "02:30",
+      "end_time": "04:25",
       "category": "Sepak Bola",
       "icon": "⚽",
       "league": "LaLiga",
@@ -281,7 +293,7 @@
         "Prima Sport",
         "Ziggo Sport"
       ],
-      "status": "AKAN DATANG"
+      "status": "UPCOMING"
     }
   ]
-    }
+}
