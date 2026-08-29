@@ -56,6 +56,54 @@
       "id": 1,
       "day": "Sabtu",
       "date": "2026-08-29",
+      "time": "15:10",
+      "end_time": "15:40",
+      "category": "MotoGP",
+      "icon": "🏍️",
+      "league": "MotoGP Aragon",
+      "match": "MotoGP Free Practice 2",
+      "channels": [
+        "SPOTV🇮🇩",
+        "SPOTV🇹🇭"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 2,
+      "day": "Sabtu",
+      "date": "2026-08-29",
+      "time": "15:50",
+      "end_time": "16:05",
+      "category": "MotoGP",
+      "icon": "🏍️",
+      "league": "MotoGP Aragon",
+      "match": "MotoGP Qualifying 1",
+      "channels": [
+        "SPOTV🇮🇩",
+        "SPOTV🇹🇭"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 3,
+      "day": "Sabtu",
+      "date": "2026-08-29",
+      "time": "16:15",
+      "end_time": "16:30",
+      "category": "MotoGP",
+      "icon": "🏍️",
+      "league": "MotoGP Aragon",
+      "match": "MotoGP Qualifying 2",
+      "channels": [
+        "SPOTV🇮🇩",
+        "SPOTV🇹🇭"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 4,
+      "day": "Sabtu",
+      "date": "2026-08-29",
       "time": "18:30",
       "end_time": "20:30",
       "category": "Sepak Bola",
@@ -71,7 +119,23 @@
       "status": "UPCOMING"
     },
     {
-      "id": 2,
+      "id": 5,
+      "day": "Sabtu",
+      "date": "2026-08-29",
+      "time": "20:00",
+      "end_time": "20:45",
+      "category": "MotoGP",
+      "icon": "🏍️",
+      "league": "MotoGP Aragon",
+      "match": "MotoGP Sprint",
+      "channels": [
+        "SPOTV🇮🇩",
+        "SPOTV🇹🇭"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 6,
       "day": "Sabtu",
       "date": "2026-08-29",
       "time": "21:00",
@@ -89,7 +153,7 @@
       "status": "UPCOMING"
     },
     {
-      "id": 3,
+      "id": 7,
       "day": "Sabtu",
       "date": "2026-08-29",
       "time": "21:00",
@@ -104,7 +168,7 @@
       "status": "UPCOMING"
     },
     {
-      "id": 4,
+      "id": 8,
       "day": "Sabtu",
       "date": "2026-08-29",
       "time": "22:00",
@@ -122,7 +186,7 @@
       "status": "UPCOMING"
     },
     {
-      "id": 5,
+      "id": 9,
       "day": "Sabtu",
       "date": "2026-08-29",
       "time": "22:15",
@@ -137,7 +201,7 @@
       "status": "UPCOMING"
     },
     {
-      "id": 6,
+      "id": 10,
       "day": "Sabtu",
       "date": "2026-08-29",
       "time": "23:30",
@@ -152,7 +216,7 @@
       "status": "UPCOMING"
     },
     {
-      "id": 7,
+      "id": 11,
       "day": "Sabtu",
       "date": "2026-08-29",
       "time": "23:30",
@@ -167,7 +231,7 @@
       "status": "UPCOMING"
     },
     {
-      "id": 8,
+      "id": 12,
       "day": "Sabtu",
       "date": "2026-08-29",
       "time": "23:30",
@@ -182,7 +246,7 @@
       "status": "UPCOMING"
     },
     {
-      "id": 9,
+      "id": 13,
       "day": "Minggu",
       "date": "2026-08-30",
       "time": "00:00",
@@ -200,7 +264,7 @@
       "status": "UPCOMING"
     },
     {
-      "id": 10,
+      "id": 14,
       "day": "Minggu",
       "date": "2026-08-30",
       "time": "00:30",
@@ -218,7 +282,7 @@
       "status": "UPCOMING"
     },
     {
-      "id": 11,
+      "id": 15,
       "day": "Minggu",
       "date": "2026-08-30",
       "time": "01:45",
@@ -233,7 +297,7 @@
       "status": "UPCOMING"
     },
     {
-      "id": 12,
+      "id": 16,
       "day": "Minggu",
       "date": "2026-08-30",
       "time": "01:45",
@@ -248,7 +312,7 @@
       "status": "UPCOMING"
     },
     {
-      "id": 13,
+      "id": 17,
       "day": "Minggu",
       "date": "2026-08-30",
       "time": "01:45",
@@ -263,7 +327,7 @@
       "status": "UPCOMING"
     },
     {
-      "id": 14,
+      "id": 18,
       "day": "Minggu",
       "date": "2026-08-30",
       "time": "01:45",
@@ -278,7 +342,7 @@
       "status": "UPCOMING"
     },
     {
-      "id": 15,
+      "id": 19,
       "day": "Minggu",
       "date": "2026-08-30",
       "time": "02:30",
