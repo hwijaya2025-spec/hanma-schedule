@@ -155,24 +155,6 @@
       "status": "UPCOMING"
     },
     {
-      "id": 7,
-      "day": "Minggu",
-      "date": "2026-08-30",
-      "time": "22:00",
-      "end_time": "23:55",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "LaLiga",
-      "match": "Real Madrid vs Málaga",
-      "channels": [
-        "beIN Sports 🇦🇺",
-        "beIN Sports 🇮🇩",
-        "Prima Sport",
-        "Ziggo Sport"
-      ],
-      "status": "UPCOMING"
-    },
-    {
       "id": 8,
       "day": "Minggu",
       "date": "2026-08-30",
@@ -200,6 +182,24 @@
       "channels": [
         "Alwan Sport 4",
         "Prima Sport 3"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 7,
+      "day": "Minggu",
+      "date": "2026-08-30",
+      "time": "22:00",
+      "end_time": "23:55",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "LaLiga",
+      "match": "Real Madrid vs Málaga",
+      "channels": [
+        "beIN Sports 🇦🇺",
+        "beIN Sports 🇮🇩",
+        "Prima Sport",
+        "Ziggo Sport"
       ],
       "status": "UPCOMING"
     },
