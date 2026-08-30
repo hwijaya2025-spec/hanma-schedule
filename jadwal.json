@@ -158,8 +158,8 @@
       "id": 7,
       "day": "Minggu",
       "date": "2026-08-30",
-      "time": "20:00",
-      "end_time": "21:55",
+      "time": "22:00",
+      "end_time": "23:55",
       "category": "Sepak Bola",
       "icon": "⚽",
       "league": "LaLiga",
@@ -349,5 +349,4 @@
       "status": "UPCOMING"
     }
   ]
-    }
-      
+}
