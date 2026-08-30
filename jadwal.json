@@ -49,67 +49,70 @@
       }
     }
   },
-  "date": "30-31/08/2026",
+  "date": "31/08-01/09/2026",
   "title": "Jadwal Siaran & Olahraga",
   "events": [
     {
       "id": 1,
-      "day": "Minggu",
-      "date": "2026-08-30",
-      "time": "16:00",
-      "end_time": "16:40",
-      "category": "MotoGP",
-      "icon": "🏍️",
-      "league": "MotoGP Aragon",
-      "match": "Moto3 Race",
+      "day": "Senin",
+      "date": "2026-08-31",
+      "time": "22:30",
+      "end_time": "00:25",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "LaLiga",
+      "match": "Osasuna vs Getafe",
       "channels": [
-        "SPOTV🇮🇩",
-        "SPOTV🇹🇭"
+        "beIN Sports 🇦🇺",
+        "beIN Sports 🇮🇩",
+        "Prima Sport",
+        "Ziggo Sport"
       ],
       "status": "UPCOMING"
     },
     {
       "id": 2,
-      "day": "Minggu",
-      "date": "2026-08-30",
-      "time": "17:15",
-      "end_time": "18:05",
-      "category": "MotoGP",
-      "icon": "🏍️",
-      "league": "MotoGP Aragon",
-      "match": "Moto2 Race",
+      "day": "Senin",
+      "date": "2026-08-31",
+      "time": "23:30",
+      "end_time": "01:25",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "Serie A",
+      "match": "Lecce vs Roma",
       "channels": [
-        "SPOTV🇮🇩",
-        "SPOTV🇹🇭"
+        "beIN Sports 🇦🇺"
       ],
       "status": "UPCOMING"
     },
     {
       "id": 3,
-      "day": "Minggu",
-      "date": "2026-08-30",
-      "time": "19:00",
-      "end_time": "19:50",
-      "category": "MotoGP",
-      "icon": "🏍️",
-      "league": "MotoGP Aragon",
-      "match": "MotoGP Race",
+      "day": "Selasa",
+      "date": "2026-09-01",
+      "time": "00:30",
+      "end_time": "02:25",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "LaLiga",
+      "match": "Barcelona vs Rayo Vallecano",
       "channels": [
-        "SPOTV🇮🇩",
-        "SPOTV🇹🇭"
+        "beIN Sports 🇦🇺",
+        "beIN Sports 🇮🇩",
+        "Prima Sport",
+        "Ziggo Sport"
       ],
       "status": "UPCOMING"
     },
     {
       "id": 4,
-      "day": "Minggu",
-      "date": "2026-08-30",
-      "time": "20:00",
-      "end_time": "21:55",
+      "day": "Selasa",
+      "date": "2026-09-01",
+      "time": "01:00",
+      "end_time": "02:55",
       "category": "Sepak Bola",
       "icon": "⚽",
       "league": "Premier League",
-      "match": "Chelsea vs Brighton",
+      "match": "Aston Villa vs Arsenal",
       "channels": [
         "Alwan Sport",
         "TNT Sports 1",
@@ -120,231 +123,16 @@
     },
     {
       "id": 5,
-      "day": "Minggu",
-      "date": "2026-08-30",
-      "time": "20:00",
-      "end_time": "21:55",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "Premier League",
-      "match": "Leeds United vs Brentford",
-      "channels": [
-        "Alwan Sport",
-        "TNT Sports 1",
-        "Fubo Sports 1",
-        "Hub Premier"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 6,
-      "day": "Minggu",
-      "date": "2026-08-30",
-      "time": "20:00",
-      "end_time": "21:55",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "Premier League",
-      "match": "Sunderland vs Fulham",
-      "channels": [
-        "Alwan Sport",
-        "TNT Sports 1",
-        "Fubo Sports 1",
-        "Hub Premier"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 8,
-      "day": "Minggu",
-      "date": "2026-08-30",
-      "time": "20:00",
-      "end_time": "21:50",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "Ligue 1",
-      "match": "Paris FC vs Nice",
-      "channels": [
-        "Bein Sport Extra ñ"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 9,
-      "day": "Minggu",
-      "date": "2026-08-30",
-      "time": "20:30",
-      "end_time": "22:20",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "Bundesliga",
-      "match": "SC Freiburg vs Werder Bremen",
-      "channels": [
-        "Alwan Sport 4",
-        "Prima Sport 3"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 7,
-      "day": "Minggu",
-      "date": "2026-08-30",
-      "time": "22:00",
-      "end_time": "23:55",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "LaLiga",
-      "match": "Real Madrid vs Málaga",
-      "channels": [
-        "beIN Sports 🇦🇺",
-        "beIN Sports 🇮🇩",
-        "Prima Sport",
-        "Ziggo Sport"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 10,
-      "day": "Minggu",
-      "date": "2026-08-30",
-      "time": "22:15",
-      "end_time": "00:05",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "Ligue 1",
-      "match": "Rennes vs Le Mans",
-      "channels": [
-        "Bein Sport Extra ñ"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 11,
-      "day": "Minggu",
-      "date": "2026-08-30",
-      "time": "22:30",
-      "end_time": "00:20",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "Bundesliga",
-      "match": "FC Augsburg vs FC Schalke 04",
-      "channels": [
-        "Alwan Sport 4",
-        "Prima Sport 3"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 12,
-      "day": "Minggu",
-      "date": "2026-08-30",
-      "time": "22:30",
-      "end_time": "00:25",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "Premier League",
-      "match": "Manchester United vs Ipswich Town",
-      "channels": [
-        "Alwan Sport",
-        "TNT Sports 1",
-        "Fubo Sports 1",
-        "Hub Premier"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 13,
-      "day": "Minggu",
-      "date": "2026-08-30",
-      "time": "22:30",
-      "end_time": "00:25",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "LaLiga",
-      "match": "Deportivo La Coruña vs Valencia",
-      "channels": [
-        "beIN Sports 🇦🇺",
-        "beIN Sports 🇮🇩",
-        "Prima Sport",
-        "Ziggo Sport"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 14,
-      "day": "Senin",
-      "date": "2026-08-31",
-      "time": "00:30",
-      "end_time": "02:25",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "Serie A",
-      "match": "Napoli vs Como",
-      "channels": [
-        "beIN Sports 🇦🇺"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 15,
-      "day": "Senin",
-      "date": "2026-08-31",
-      "time": "00:30",
-      "end_time": "02:25",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "LaLiga",
-      "match": "Celta Vigo vs Athletic Club",
-      "channels": [
-        "beIN Sports 🇦🇺",
-        "beIN Sports 🇮🇩",
-        "Prima Sport",
-        "Ziggo Sport"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 16,
-      "day": "Senin",
-      "date": "2026-08-31",
+      "day": "Selasa",
+      "date": "2026-09-01",
       "time": "01:45",
       "end_time": "03:40",
       "category": "Sepak Bola",
       "icon": "⚽",
       "league": "Serie A",
-      "match": "Cagliari vs Inter",
+      "match": "Atalanta vs Bologna",
       "channels": [
         "beIN Sports 🇦🇺"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 17,
-      "day": "Senin",
-      "date": "2026-08-31",
-      "time": "01:45",
-      "end_time": "03:40",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "Serie A",
-      "match": "Lazio vs Genoa",
-      "channels": [
-        "beIN Sports 🇦🇺"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 18,
-      "day": "Senin",
-      "date": "2026-08-31",
-      "time": "01:45",
-      "end_time": "03:40",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "Ligue 1",
-      "match": "AS Monaco vs Marseille",
-      "channels": [
-        "Bein Sport Extra ñ"
       ],
       "status": "UPCOMING"
     }
