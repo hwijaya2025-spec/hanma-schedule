@@ -56,8 +56,56 @@
       "id": 1,
       "day": "Senin",
       "date": "2026-08-31",
-      "time": "22:30",
-      "end_time": "00:25",
+      "time": "16:00",
+      "end_time": "17:50",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "Kualifikasi Piala Asia U-20 2027",
+      "match": "Indonesia vs Malaysia",
+      "channels": [
+        "Vidio",
+        "Indosiar",
+        "SCTV"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 2,
+      "day": "Senin",
+      "date": "2026-08-31",
+      "time": "19:00",
+      "end_time": "20:55",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "AFC Champions League Two",
+      "match": "Persib Bandung vs Manila Digger",
+      "channels": [
+        "Vision+",
+        "RCTI"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 3,
+      "day": "Senin",
+      "date": "2026-08-31",
+      "time": "23:30",
+      "end_time": "01:25",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "Serie A",
+      "match": "Lecce vs AS Roma",
+      "channels": [
+        "beIN Sports 🇦🇺"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 4,
+      "day": "Selasa",
+      "date": "2026-09-01",
+      "time": "00:30",
+      "end_time": "02:25",
       "category": "Sepak Bola",
       "icon": "⚽",
       "league": "LaLiga",
@@ -71,44 +119,56 @@
       "status": "UPCOMING"
     },
     {
-      "id": 2,
-      "day": "Senin",
-      "date": "2026-08-31",
-      "time": "23:30",
-      "end_time": "01:25",
+      "id": 5,
+      "day": "Selasa",
+      "date": "2026-09-01",
+      "time": "01:30",
+      "end_time": "03:25",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "Süper Lig",
+      "match": "Amedspor vs Trabzonspor",
+      "channels": [
+        "beIN Sports 🇹🇷"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 6,
+      "day": "Selasa",
+      "date": "2026-09-01",
+      "time": "01:30",
+      "end_time": "03:25",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "Süper Lig",
+      "match": "Beşiktaş vs Çorum FK",
+      "channels": [
+        "beIN Sports Xtra"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 7,
+      "day": "Selasa",
+      "date": "2026-09-01",
+      "time": "01:45",
+      "end_time": "03:40",
       "category": "Sepak Bola",
       "icon": "⚽",
       "league": "Serie A",
-      "match": "Lecce vs Roma",
+      "match": "Atalanta vs Bologna",
       "channels": [
         "beIN Sports 🇦🇺"
       ],
       "status": "UPCOMING"
     },
     {
-      "id": 3,
+      "id": 8,
       "day": "Selasa",
       "date": "2026-09-01",
-      "time": "00:30",
-      "end_time": "02:25",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "LaLiga",
-      "match": "Barcelona vs Rayo Vallecano",
-      "channels": [
-        "beIN Sports 🇦🇺",
-        "beIN Sports 🇮🇩",
-        "Prima Sport",
-        "Ziggo Sport"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 4,
-      "day": "Selasa",
-      "date": "2026-09-01",
-      "time": "01:00",
-      "end_time": "02:55",
+      "time": "02:00",
+      "end_time": "03:55",
       "category": "Sepak Bola",
       "icon": "⚽",
       "league": "Premier League",
@@ -122,17 +182,20 @@
       "status": "UPCOMING"
     },
     {
-      "id": 5,
+      "id": 9,
       "day": "Selasa",
       "date": "2026-09-01",
-      "time": "01:45",
-      "end_time": "03:40",
+      "time": "02:30",
+      "end_time": "04:25",
       "category": "Sepak Bola",
       "icon": "⚽",
-      "league": "Serie A",
-      "match": "Atalanta vs Bologna",
+      "league": "LaLiga",
+      "match": "Barcelona vs Rayo Vallecano",
       "channels": [
-        "beIN Sports 🇦🇺"
+        "beIN Sports 🇦🇺",
+        "beIN Sports 🇮🇩",
+        "Prima Sport",
+        "Ziggo Sport"
       ],
       "status": "UPCOMING"
     }
