@@ -49,96 +49,96 @@
       }
     }
   },
-  "date": "01/09-02/09/2026",
+  "date": "02/09-03/09/2026",
   "title": "Jadwal Siaran & Olahraga",
   "events": [
     {
       "id": 1,
-      "day": "Selasa",
-      "date": "2026-09-01",
-      "time": "06:00",
-      "end_time": "11:00",
-      "category": "Tenis",
-      "icon": "🎾",
-      "league": "US Open 2026",
-      "match": "US Open Tennis Championships - Day 2 Night Session",
+      "day": "Rabu",
+      "date": "2026-09-02",
+      "time": "20:00",
+      "end_time": "21:55",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "Coppa Italia",
+      "match": "Sassuolo vs Frosinone",
       "channels": [
-        "SPOTV 2"
+        "Saluran belum terkonfirmasi"
       ],
       "status": "UPCOMING"
     },
     {
       "id": 2,
-      "day": "Selasa",
-      "date": "2026-09-01",
-      "time": "11:00",
-      "end_time": "14:15",
-      "category": "MotoGP",
-      "icon": "🏍️",
-      "league": "MotoGP 2026",
-      "match": "MotoGP Michelin Of Aragon",
+      "day": "Rabu",
+      "date": "2026-09-02",
+      "time": "23:00",
+      "end_time": "00:55",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "Coppa Italia",
+      "match": "Udinese vs Venezia",
       "channels": [
-        "SPOTV 2"
+        "Saluran belum terkonfirmasi"
       ],
       "status": "UPCOMING"
     },
     {
       "id": 3,
-      "day": "Selasa",
-      "date": "2026-09-01",
-      "time": "14:15",
-      "end_time": "16:00",
-      "category": "Olahraga",
-      "icon": "🏆",
-      "league": "The Asian Tournament 2026",
-      "match": "The Asian Tournament",
+      "day": "Rabu",
+      "date": "2026-09-02",
+      "time": "23:45",
+      "end_time": "01:40",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "EFL Championship",
+      "match": "Millwall vs Wrexham",
       "channels": [
-        "SPOTV 2"
+        "Sky Sports+"
       ],
       "status": "UPCOMING"
     },
     {
       "id": 4,
-      "day": "Selasa",
-      "date": "2026-09-01",
-      "time": "16:00",
-      "end_time": "21:00",
-      "category": "Tenis",
-      "icon": "🎾",
-      "league": "US Open 2026",
-      "match": "US Open Tennis Championships - Day 3 Day Session",
+      "day": "Rabu",
+      "date": "2026-09-02",
+      "time": "23:45",
+      "end_time": "01:40",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "EFL Championship",
+      "match": "QPR vs Cardiff City",
       "channels": [
-        "SPOTV 2"
+        "Sky Sports+"
       ],
       "status": "UPCOMING"
     },
     {
       "id": 5,
-      "day": "Selasa",
-      "date": "2026-09-01",
-      "time": "21:00",
-      "end_time": "22:00",
-      "category": "Olahraga",
-      "icon": "🏆",
-      "league": "PBR 2026",
-      "match": "PBR: Sunrise",
+      "day": "Rabu",
+      "date": "2026-09-02",
+      "time": "23:45",
+      "end_time": "01:40",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "EFL Championship",
+      "match": "West Bromwich Albion vs Charlton Athletic",
       "channels": [
-        "SPOTV 2"
+        "Sky Sports+"
       ],
       "status": "UPCOMING"
     },
     {
       "id": 6,
-      "day": "Selasa",
-      "date": "2026-09-01",
-      "time": "22:00",
-      "end_time": "03:00",
-      "category": "Tenis",
-      "icon": "🎾",
-      "league": "US Open 2026",
-      "match": "US Open Tennis Championships - Day 3 Night Session",
+      "day": "Rabu",
+      "date": "2026-09-02",
+      "time": "23:45",
+      "end_time": "01:40",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "EFL League One",
+      "match": "Barnsley vs Blackpool",
       "channels": [
-        "SPOTV 2"
+        "Sky Sports+"
       ],
       "status": "UPCOMING"
     },
@@ -146,14 +146,164 @@
       "id": 7,
       "day": "Rabu",
       "date": "2026-09-02",
-      "time": "03:00",
-      "end_time": "06:00",
-      "category": "Baseball",
-      "icon": "⚾",
-      "league": "MLB 2026",
-      "match": "Washington Nationals vs Colorado Rockies",
+      "time": "23:45",
+      "end_time": "01:40",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "EFL League One",
+      "match": "Burton Albion vs AFC Wimbledon",
       "channels": [
-        "SPOTV 2"
+        "Sky Sports+"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 8,
+      "day": "Rabu",
+      "date": "2026-09-02",
+      "time": "23:45",
+      "end_time": "01:40",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "EFL League One",
+      "match": "Luton Town vs Stockport County",
+      "channels": [
+        "Sky Sports+"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 9,
+      "day": "Rabu",
+      "date": "2026-09-02",
+      "time": "23:45",
+      "end_time": "01:40",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "EFL League One",
+      "match": "Wigan Athletic vs MK Dons",
+      "channels": [
+        "Sky Sports+"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 10,
+      "day": "Rabu",
+      "date": "2026-09-02",
+      "time": "00:00",
+      "end_time": "01:55",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "EFL Championship",
+      "match": "Burnley vs Middlesbrough",
+      "channels": [
+        "Sky Sports Main Event"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 11,
+      "day": "Rabu",
+      "date": "2026-09-02",
+      "time": "00:00",
+      "end_time": "01:55",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "EFL League One",
+      "match": "Reading vs Mansfield Town",
+      "channels": [
+        "Sky Sports+"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 12,
+      "day": "Rabu",
+      "date": "2026-09-02",
+      "time": "00:00",
+      "end_time": "01:55",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "Scottish Premiership",
+      "match": "Falkirk vs Rangers",
+      "channels": [
+        "Sky Sports Football"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 13,
+      "day": "Kamis",
+      "date": "2026-09-03",
+      "time": "00:45",
+      "end_time": "02:40",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "DFB-Pokal",
+      "match": "VfL Osnabrück vs Bayern München",
+      "channels": [
+        "Saluran belum terkonfirmasi"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 14,
+      "day": "Kamis",
+      "date": "2026-09-03",
+      "time": "01:45",
+      "end_time": "03:40",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "Scottish Premiership",
+      "match": "Celtic vs Aberdeen",
+      "channels": [
+        "Saluran belum terkonfirmasi"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 15,
+      "day": "Kamis",
+      "date": "2026-09-03",
+      "time": "01:45",
+      "end_time": "03:40",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "Scottish Premiership",
+      "match": "Dundee vs St Johnstone",
+      "channels": [
+        "Saluran belum terkonfirmasi"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 16,
+      "day": "Kamis",
+      "date": "2026-09-03",
+      "time": "01:45",
+      "end_time": "03:40",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "Scottish Premiership",
+      "match": "Kilmarnock vs St Mirren",
+      "channels": [
+        "Saluran belum terkonfirmasi"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 17,
+      "day": "Kamis",
+      "date": "2026-09-03",
+      "time": "01:45",
+      "end_time": "03:40",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "Scottish Premiership",
+      "match": "Motherwell vs Dundee United",
+      "channels": [
+        "Saluran belum terkonfirmasi"
       ],
       "status": "UPCOMING"
     }
