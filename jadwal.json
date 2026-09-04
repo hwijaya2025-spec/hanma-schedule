@@ -49,34 +49,34 @@
       }
     }
   },
-  "date": "02/09-03/09/2026",
+  "date": "05/09-06/09/2026",
   "title": "Jadwal Siaran & Olahraga",
   "events": [
     {
       "id": 1,
-      "day": "Rabu",
-      "date": "2026-09-02",
-      "time": "20:00",
-      "end_time": "21:55",
+      "day": "Sabtu",
+      "date": "2026-09-05",
+      "time": "00:00",
+      "end_time": "01:55",
       "category": "Sepak Bola",
       "icon": "⚽",
-      "league": "Coppa Italia",
-      "match": "Sassuolo vs Frosinone",
+      "league": "Ligue 1",
+      "match": "Lyon vs Auxerre",
       "channels": [
-        "Saluran belum terkonfirmasi"
+        "Bein Sport Extra ñ"
       ],
       "status": "UPCOMING"
     },
     {
       "id": 2,
-      "day": "Rabu",
-      "date": "2026-09-02",
-      "time": "23:00",
-      "end_time": "00:55",
+      "day": "Sabtu",
+      "date": "2026-09-05",
+      "time": "01:00",
+      "end_time": "02:55",
       "category": "Sepak Bola",
       "icon": "⚽",
-      "league": "Coppa Italia",
-      "match": "Udinese vs Venezia",
+      "league": "Eredivisie",
+      "match": "Sparta Rotterdam vs PEC Zwolle",
       "channels": [
         "Saluran belum terkonfirmasi"
       ],
@@ -84,228 +84,696 @@
     },
     {
       "id": 3,
-      "day": "Rabu",
-      "date": "2026-09-02",
-      "time": "23:45",
-      "end_time": "01:40",
+      "day": "Sabtu",
+      "date": "2026-09-05",
+      "time": "02:00",
+      "end_time": "03:55",
       "category": "Sepak Bola",
       "icon": "⚽",
-      "league": "EFL Championship",
-      "match": "Millwall vs Wrexham",
+      "league": "LaLiga",
+      "match": "Real Betis vs Real Madrid",
       "channels": [
-        "Sky Sports+"
+        "beIN Sports 🇦🇺",
+        "beIN Sports 🇮🇩",
+        "Prima Sport",
+        "Premier Sport",
+        "Fancode"
       ],
       "status": "UPCOMING"
     },
     {
       "id": 4,
-      "day": "Rabu",
-      "date": "2026-09-02",
-      "time": "23:45",
-      "end_time": "01:40",
+      "day": "Sabtu",
+      "date": "2026-09-05",
+      "time": "02:05",
+      "end_time": "04:00",
       "category": "Sepak Bola",
       "icon": "⚽",
-      "league": "EFL Championship",
-      "match": "QPR vs Cardiff City",
+      "league": "Ligue 1",
+      "match": "Paris Saint-Germain vs AS Monaco",
       "channels": [
-        "Sky Sports+"
+        "Bein Sport Extra ñ"
       ],
       "status": "UPCOMING"
     },
     {
       "id": 5,
-      "day": "Rabu",
-      "date": "2026-09-02",
-      "time": "23:45",
-      "end_time": "01:40",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "EFL Championship",
-      "match": "West Bromwich Albion vs Charlton Athletic",
+      "day": "Sabtu",
+      "date": "2026-09-05",
+      "time": "15:30",
+      "end_time": "16:30",
+      "category": "Formula 1",
+      "icon": "🏎️",
+      "league": "F1 Italian Grand Prix",
+      "match": "Free Practice 3",
       "channels": [
-        "Sky Sports+"
+        "beIN Sports"
       ],
       "status": "UPCOMING"
     },
     {
       "id": 6,
-      "day": "Rabu",
-      "date": "2026-09-02",
-      "time": "23:45",
-      "end_time": "01:40",
+      "day": "Sabtu",
+      "date": "2026-09-05",
+      "time": "18:30",
+      "end_time": "20:25",
       "category": "Sepak Bola",
       "icon": "⚽",
-      "league": "EFL League One",
-      "match": "Barnsley vs Blackpool",
+      "league": "Premier League",
+      "match": "Newcastle United vs AFC Bournemouth",
       "channels": [
-        "Sky Sports+"
+        "Alwan Sport",
+        "TNT Sports 1",
+        "Fubo Sports 1",
+        "Champions TV"
       ],
       "status": "UPCOMING"
     },
     {
       "id": 7,
-      "day": "Rabu",
-      "date": "2026-09-02",
-      "time": "23:45",
-      "end_time": "01:40",
+      "day": "Sabtu",
+      "date": "2026-09-05",
+      "time": "20:00",
+      "end_time": "21:55",
       "category": "Sepak Bola",
       "icon": "⚽",
-      "league": "EFL League One",
-      "match": "Burton Albion vs AFC Wimbledon",
+      "league": "Serie A",
+      "match": "Fiorentina vs Torino",
       "channels": [
-        "Sky Sports+"
+        "beIN Sports 🇦🇺"
       ],
       "status": "UPCOMING"
     },
     {
       "id": 8,
-      "day": "Rabu",
-      "date": "2026-09-02",
-      "time": "23:45",
-      "end_time": "01:40",
+      "day": "Sabtu",
+      "date": "2026-09-05",
+      "time": "20:30",
+      "end_time": "22:25",
       "category": "Sepak Bola",
       "icon": "⚽",
-      "league": "EFL League One",
-      "match": "Luton Town vs Stockport County",
+      "league": "Bundesliga",
+      "match": "Bayer Leverkusen vs Union Berlin",
       "channels": [
-        "Sky Sports+"
+        "Alwan Sport 4",
+        "Prima Sport 3"
       ],
       "status": "UPCOMING"
     },
     {
       "id": 9,
-      "day": "Rabu",
-      "date": "2026-09-02",
-      "time": "23:45",
-      "end_time": "01:40",
+      "day": "Sabtu",
+      "date": "2026-09-05",
+      "time": "20:30",
+      "end_time": "22:25",
       "category": "Sepak Bola",
       "icon": "⚽",
-      "league": "EFL League One",
-      "match": "Wigan Athletic vs MK Dons",
+      "league": "Bundesliga",
+      "match": "Borussia Mönchengladbach vs Elversberg",
       "channels": [
-        "Sky Sports+"
+        "Alwan Sport 4",
+        "Prima Sport 3"
       ],
       "status": "UPCOMING"
     },
     {
       "id": 10,
-      "day": "Rabu",
-      "date": "2026-09-02",
-      "time": "00:00",
-      "end_time": "01:55",
+      "day": "Sabtu",
+      "date": "2026-09-05",
+      "time": "20:30",
+      "end_time": "22:25",
       "category": "Sepak Bola",
       "icon": "⚽",
-      "league": "EFL Championship",
-      "match": "Burnley vs Middlesbrough",
+      "league": "Bundesliga",
+      "match": "Hoffenheim vs Borussia Dortmund",
       "channels": [
-        "Sky Sports Main Event"
+        "Alwan Sport 4",
+        "Prima Sport 3"
       ],
       "status": "UPCOMING"
     },
     {
       "id": 11,
-      "day": "Rabu",
-      "date": "2026-09-02",
-      "time": "00:00",
-      "end_time": "01:55",
+      "day": "Sabtu",
+      "date": "2026-09-05",
+      "time": "20:30",
+      "end_time": "22:25",
       "category": "Sepak Bola",
       "icon": "⚽",
-      "league": "EFL League One",
-      "match": "Reading vs Mansfield Town",
+      "league": "Bundesliga",
+      "match": "Paderborn vs Freiburg",
       "channels": [
-        "Sky Sports+"
+        "Alwan Sport 4",
+        "Prima Sport 3"
       ],
       "status": "UPCOMING"
     },
     {
       "id": 12,
-      "day": "Rabu",
-      "date": "2026-09-02",
-      "time": "00:00",
-      "end_time": "01:55",
+      "day": "Sabtu",
+      "date": "2026-09-05",
+      "time": "20:30",
+      "end_time": "22:25",
       "category": "Sepak Bola",
       "icon": "⚽",
-      "league": "Scottish Premiership",
-      "match": "Falkirk vs Rangers",
+      "league": "Bundesliga",
+      "match": "Werder Bremen vs RB Leipzig",
       "channels": [
-        "Sky Sports Football"
+        "Alwan Sport 4",
+        "Prima Sport 3"
       ],
       "status": "UPCOMING"
     },
     {
       "id": 13,
-      "day": "Kamis",
-      "date": "2026-09-03",
-      "time": "00:45",
-      "end_time": "02:40",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "DFB-Pokal",
-      "match": "VfL Osnabrück vs Bayern München",
+      "day": "Sabtu",
+      "date": "2026-09-05",
+      "time": "21:00",
+      "end_time": "22:55",
+      "category": "Formula 1",
+      "icon": "🏎️",
+      "league": "F1 Italian Grand Prix",
+      "match": "Qualifying",
       "channels": [
-        "Saluran belum terkonfirmasi"
+        "beIN Sports"
       ],
       "status": "UPCOMING"
     },
     {
       "id": 14,
-      "day": "Kamis",
-      "date": "2026-09-03",
-      "time": "01:45",
-      "end_time": "03:40",
+      "day": "Sabtu",
+      "date": "2026-09-05",
+      "time": "21:00",
+      "end_time": "22:55",
       "category": "Sepak Bola",
       "icon": "⚽",
-      "league": "Scottish Premiership",
-      "match": "Celtic vs Aberdeen",
+      "league": "Premier League",
+      "match": "Brentford vs Sunderland",
       "channels": [
-        "Saluran belum terkonfirmasi"
+        "Alwan Sport",
+        "TNT Sports 1",
+        "Fubo Sports 1",
+        "Champions TV"
       ],
       "status": "UPCOMING"
     },
     {
       "id": 15,
-      "day": "Kamis",
-      "date": "2026-09-03",
-      "time": "01:45",
-      "end_time": "03:40",
+      "day": "Sabtu",
+      "date": "2026-09-05",
+      "time": "21:00",
+      "end_time": "22:55",
       "category": "Sepak Bola",
       "icon": "⚽",
-      "league": "Scottish Premiership",
-      "match": "Dundee vs St Johnstone",
+      "league": "Premier League",
+      "match": "Brighton vs Leeds United",
       "channels": [
-        "Saluran belum terkonfirmasi"
+        "Alwan Sport",
+        "TNT Sports 1",
+        "Fubo Sports 1",
+        "Champions TV"
       ],
       "status": "UPCOMING"
     },
     {
       "id": 16,
-      "day": "Kamis",
-      "date": "2026-09-03",
-      "time": "01:45",
-      "end_time": "03:40",
+      "day": "Sabtu",
+      "date": "2026-09-05",
+      "time": "21:00",
+      "end_time": "22:55",
       "category": "Sepak Bola",
       "icon": "⚽",
-      "league": "Scottish Premiership",
-      "match": "Kilmarnock vs St Mirren",
+      "league": "Premier League",
+      "match": "Fulham vs Crystal Palace",
+      "channels": [
+        "Alwan Sport",
+        "TNT Sports 1",
+        "Fubo Sports 1",
+        "Champions TV"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 17,
+      "day": "Sabtu",
+      "date": "2026-09-05",
+      "time": "21:00",
+      "end_time": "22:55",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "Premier League",
+      "match": "Manchester City vs Coventry City",
+      "channels": [
+        "Alwan Sport",
+        "TNT Sports 1",
+        "Fubo Sports 1",
+        "Champions TV"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 18,
+      "day": "Sabtu",
+      "date": "2026-09-05",
+      "time": "21:00",
+      "end_time": "22:55",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "Premier League",
+      "match": "Nottingham Forest vs Tottenham Hotspur",
+      "channels": [
+        "Alwan Sport",
+        "TNT Sports 1",
+        "Fubo Sports 1",
+        "Champions TV"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 19,
+      "day": "Sabtu",
+      "date": "2026-09-05",
+      "time": "21:15",
+      "end_time": "23:10",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "LaLiga",
+      "match": "Athletic Club vs Atlético Madrid",
+      "channels": [
+        "beIN Sports 🇦🇺",
+        "beIN Sports 🇮🇩",
+        "Prima Sport",
+        "Premier Sport",
+        "Fancode"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 20,
+      "day": "Sabtu",
+      "date": "2026-09-05",
+      "time": "21:30",
+      "end_time": "23:25",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "Eredivisie",
+      "match": "NEC Nijmegen vs Feyenoord",
       "channels": [
         "Saluran belum terkonfirmasi"
       ],
       "status": "UPCOMING"
     },
     {
-      "id": 17,
-      "day": "Kamis",
-      "date": "2026-09-03",
-      "time": "01:45",
-      "end_time": "03:40",
+      "id": 21,
+      "day": "Sabtu",
+      "date": "2026-09-05",
+      "time": "22:15",
+      "end_time": "00:10",
       "category": "Sepak Bola",
       "icon": "⚽",
-      "league": "Scottish Premiership",
-      "match": "Motherwell vs Dundee United",
+      "league": "Ligue 1",
+      "match": "Lens vs Lorient",
+      "channels": [
+        "Bein Sport Extra ñ"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 22,
+      "day": "Sabtu",
+      "date": "2026-09-05",
+      "time": "23:00",
+      "end_time": "00:55",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "Serie A",
+      "match": "Inter vs Napoli",
+      "channels": [
+        "beIN Sports 🇦🇺"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 23,
+      "day": "Sabtu",
+      "date": "2026-09-05",
+      "time": "23:30",
+      "end_time": "01:25",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "Bundesliga",
+      "match": "Schalke 04 vs Bayern München",
+      "channels": [
+        "Alwan Sport 4",
+        "Prima Sport 3"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 24,
+      "day": "Sabtu",
+      "date": "2026-09-05",
+      "time": "23:30",
+      "end_time": "01:25",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "Premier League",
+      "match": "Hull City vs Aston Villa",
+      "channels": [
+        "Alwan Sport",
+        "TNT Sports 1",
+        "Fubo Sports 1",
+        "Champions TV"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 25,
+      "day": "Sabtu",
+      "date": "2026-09-05",
+      "time": "23:30",
+      "end_time": "01:25",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "LaLiga",
+      "match": "Rayo Vallecano vs Racing Santander",
+      "channels": [
+        "beIN Sports 🇦🇺",
+        "beIN Sports 🇮🇩",
+        "Prima Sport",
+        "Premier Sport",
+        "Fancode"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 26,
+      "day": "Sabtu",
+      "date": "2026-09-05",
+      "time": "23:45",
+      "end_time": "01:40",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "Eredivisie",
+      "match": "FC Utrecht vs Go Ahead Eagles",
       "channels": [
         "Saluran belum terkonfirmasi"
       ],
       "status": "UPCOMING"
+    },
+    {
+      "id": 27,
+      "day": "Minggu",
+      "date": "2026-09-06",
+      "time": "01:00",
+      "end_time": "02:55",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "Eredivisie",
+      "match": "Ajax vs PSV Eindhoven",
+      "channels": [
+        "Saluran belum terkonfirmasi"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 28,
+      "day": "Minggu",
+      "date": "2026-09-06",
+      "time": "01:45",
+      "end_time": "03:40",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "Ligue 1",
+      "match": "Le Havre vs Brest",
+      "channels": [
+        "Bein Sport Extra ñ"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 29,
+      "day": "Minggu",
+      "date": "2026-09-06",
+      "time": "01:45",
+      "end_time": "03:40",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "Ligue 1",
+      "match": "Nice vs Le Mans",
+      "channels": [
+        "Bein Sport Extra ñ"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 30,
+      "day": "Minggu",
+      "date": "2026-09-06",
+      "time": "01:45",
+      "end_time": "03:40",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "Serie A",
+      "match": "Roma vs Atalanta",
+      "channels": [
+        "beIN Sports 🇦🇺"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 31,
+      "day": "Minggu",
+      "date": "2026-09-06",
+      "time": "02:00",
+      "end_time": "03:55",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "Eredivisie",
+      "match": "Willem II vs Excelsior",
+      "channels": [
+        "Saluran belum terkonfirmasi"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 32,
+      "day": "Minggu",
+      "date": "2026-09-06",
+      "time": "02:00",
+      "end_time": "03:55",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "LaLiga",
+      "match": "Villarreal vs Deportivo La Coruña",
+      "channels": [
+        "beIN Sports 🇦🇺",
+        "beIN Sports 🇮🇩",
+        "Prima Sport",
+        "Premier Sport",
+        "Fancode"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 33,
+      "day": "Minggu",
+      "date": "2026-09-06",
+      "time": "18:00",
+      "end_time": "20:00",
+      "category": "Formula 1",
+      "icon": "🏎️",
+      "league": "F1 Italian Grand Prix",
+      "match": "Italian Grand Prix - Race",
+      "channels": [
+        "beIN Sports"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 34,
+      "day": "Minggu",
+      "date": "2026-09-06",
+      "time": "20:00",
+      "end_time": "21:55",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "Premier League",
+      "match": "Everton vs Manchester United",
+      "channels": [
+        "Alwan Sport",
+        "TNT Sports 1",
+        "Fubo Sports 1",
+        "Champions TV"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 35,
+      "day": "Minggu",
+      "date": "2026-09-06",
+      "time": "20:00",
+      "end_time": "21:55",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "Serie A",
+      "match": "Frosinone vs Venezia",
+      "channels": [
+        "beIN Sports 🇦🇺"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 36,
+      "day": "Minggu",
+      "date": "2026-09-06",
+      "time": "20:00",
+      "end_time": "21:55",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "Serie A",
+      "match": "Parma vs Monza",
+      "channels": [
+        "beIN Sports 🇦🇺"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 37,
+      "day": "Minggu",
+      "date": "2026-09-06",
+      "time": "20:30",
+      "end_time": "22:25",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "Bundesliga",
+      "match": "Hamburger SV vs Mainz 05",
+      "channels": [
+        "Alwan Sport 4",
+        "Prima Sport 3"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 38,
+      "day": "Minggu",
+      "date": "2026-09-06",
+      "time": "21:15",
+      "end_time": "23:10",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "LaLiga",
+      "match": "Valencia vs Barcelona",
+      "channels": [
+        "beIN Sports 🇦🇺",
+        "beIN Sports 🇮🇩",
+        "Prima Sport",
+        "Premier Sport",
+        "Fancode"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 39,
+      "day": "Minggu",
+      "date": "2026-09-06",
+      "time": "22:30",
+      "end_time": "00:25",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "Premier League",
+      "match": "Arsenal vs Chelsea",
+      "channels": [
+        "Alwan Sport",
+        "TNT Sports 1",
+        "Fubo Sports 1",
+        "Champions TV"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 40,
+      "day": "Minggu",
+      "date": "2026-09-06",
+      "time": "22:30",
+      "end_time": "00:25",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "Ligue 1",
+      "match": "Troyes vs Strasbourg",
+      "channels": [
+        "Bein Sport Extra ñ"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 41,
+      "day": "Minggu",
+      "date": "2026-09-06",
+      "time": "23:00",
+      "end_time": "00:55",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "Serie A",
+      "match": "Bologna vs Sassuolo",
+      "channels": [
+        "beIN Sports 🇦🇺"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 42,
+      "day": "Minggu",
+      "date": "2026-09-06",
+      "time": "23:30",
+      "end_time": "01:25",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "LaLiga",
+      "match": "Deportivo Alavés vs Osasuna",
+      "channels": [
+        "beIN Sports 🇦🇺",
+        "beIN Sports 🇮🇩",
+        "Prima Sport",
+        "Premier Sport",
+        "Fancode"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 43,
+      "day": "Minggu",
+      "date": "2026-09-06",
+      "time": "23:30",
+      "end_time": "01:25",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "LaLiga",
+      "match": "Málaga vs Levante",
+      "channels": [
+        "beIN Sports 🇦🇺",
+        "beIN Sports 🇮🇩",
+        "Prima Sport",
+        "Premier Sport",
+        "Fancode"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 44,
+      "day": "Minggu",
+      "date": "2026-09-06",
+      "time": "23:30",
+      "end_time": "01:25",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "Bundesliga",
+      "match": "Eintracht Frankfurt vs Augsburg",
+      "channels": [
+        "Alwan Sport 4",
+        "Prima Sport 3"
+      ],
+      "status": "UPCOMING"
     }
   ]
-}
+    }
