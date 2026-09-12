@@ -1,478 +1,81 @@
-{
-  "version": "2.1",
-  "platform": "Hanma TV",
-  "timezone": "Asia/Jakarta",
-  "language": {
-    "auto": true,
-    "default": "id",
-    "fallback": "en",
-    "translations": {
-      "id": {
-        "title": "Jadwal Siaran & Olahraga",
-        "days": {
-          "Monday": "Senin",
-          "Tuesday": "Selasa",
-          "Wednesday": "Rabu",
-          "Thursday": "Kamis",
-          "Friday": "Jumat",
-          "Saturday": "Sabtu",
-          "Sunday": "Minggu"
-        },
-        "status": {
-          "upcoming": "AKAN DATANG",
-          "live": "SEDANG BERLANGSUNG",
-          "finished": "SELESAI"
-        },
-        "channels": {
-          "unconfirmed": "Saluran belum terkonfirmasi"
-        }
-      },
-      "en": {
-        "title": "Sports Schedule",
-        "days": {
-          "Monday": "Monday",
-          "Tuesday": "Tuesday",
-          "Wednesday": "Wednesday",
-          "Thursday": "Thursday",
-          "Friday": "Friday",
-          "Saturday": "Saturday",
-          "Sunday": "Sunday"
-        },
-        "status": {
-          "upcoming": "UPCOMING",
-          "live": "LIVE",
-          "finished": "FINISHED"
-        },
-        "channels": {
-          "unconfirmed": "Channel unconfirmed"
-        }
-      }
-    }
+"date": "13/09-14/09/2026",
+"events": [
+  {
+    "id": 1,
+    "day": "Minggu",
+    "date": "2026-09-13",
+    "time": "21:15",
+    "end_time": "23:15",
+    "category": "Sepak Bola",
+    "icon": "⚽",
+    "league": "LaLiga",
+    "match": "Levante vs Barcelona",
+    "channels": ["beIN Sports 3"],
+    "status": "UPCOMING"
   },
-  "date": "12/09-13/09/2026",
-  "title": "Jadwal Siaran & Olahraga",
-  "events": [
-    {
-      "id": 1,
-      "day": "Sabtu",
-      "date": "2026-09-12",
-      "time": "00:00",
-      "end_time": "02:00",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "Liga Turki",
-      "match": "Besiktas vs Erzurumspor",
-      "channels": [
-        "beIN Sports 2"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 2,
-      "day": "Sabtu",
-      "date": "2026-09-12",
-      "time": "01:45",
-      "end_time": "03:45",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "Serie A",
-      "match": "Venezia vs Fiorentina",
-      "channels": [
-        "Vidio"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 3,
-      "day": "Sabtu",
-      "date": "2026-09-12",
-      "time": "01:45",
-      "end_time": "03:45",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "Ligue 1",
-      "match": "Rennes vs Marseille",
-      "channels": [
-        "Vidio"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 4,
-      "day": "Sabtu",
-      "date": "2026-09-12",
-      "time": "02:00",
-      "end_time": "04:00",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "LaLiga",
-      "match": "Sevilla vs Valencia",
-      "channels": [
-        "beIN Sports 1"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 5,
-      "day": "Sabtu",
-      "date": "2026-09-12",
-      "time": "15:30",
-      "end_time": "17:30",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "BRI Super League",
-      "match": "Persija Jakarta vs Persib Bandung",
-      "channels": [
-        "Vidio",
-        "Indosiar"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 6,
-      "day": "Sabtu",
-      "date": "2026-09-12",
-      "time": "15:30",
-      "end_time": "17:30",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "BRI Super League",
-      "match": "PSS Sleman vs Madura United",
-      "channels": [
-        "Vidio"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 7,
-      "day": "Sabtu",
-      "date": "2026-09-12",
-      "time": "18:45",
-      "end_time": "20:45",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "Liga Inggris Wanita",
-      "match": "West Ham United vs London City Lionesses",
-      "channels": [
-        "beIN Sports Xtra"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 8,
-      "day": "Sabtu",
-      "date": "2026-09-12",
-      "time": "19:00",
-      "end_time": "21:00",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "LaLiga",
-      "match": "Racing Santander vs Deportivo Alaves",
-      "channels": [
-        "beIN Sports 3"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 9,
-      "day": "Sabtu",
-      "date": "2026-09-12",
-      "time": "19:00",
-      "end_time": "21:00",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "BRI Super League",
-      "match": "Bali United vs Isenmulang Kalteng",
-      "channels": [
-        "Vidio",
-        "Indosiar"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 10,
-      "day": "Sabtu",
-      "date": "2026-09-12",
-      "time": "19:00",
-      "end_time": "21:00",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "BRI Super League",
-      "match": "Persijap Jepara vs Borneo FC Samarinda",
-      "channels": [
-        "Vidio"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 11,
-      "day": "Sabtu",
-      "date": "2026-09-12",
-      "time": "20:00",
-      "end_time": "22:00",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "Serie A",
-      "match": "Genoa vs Frosinone",
-      "channels": [
-        "Vidio"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 12,
-      "day": "Sabtu",
-      "date": "2026-09-12",
-      "time": "21:00",
-      "end_time": "23:00",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "Premier League",
-      "match": "Aston Villa vs Nottingham Forest",
-      "channels": [
-        "Vidio"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 13,
-      "day": "Sabtu",
-      "date": "2026-09-12",
-      "time": "21:00",
-      "end_time": "23:00",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "Premier League",
-      "match": "Bournemouth vs Brentford",
-      "channels": [
-        "Vidio"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 14,
-      "day": "Sabtu",
-      "date": "2026-09-12",
-      "time": "21:00",
-      "end_time": "23:00",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "Premier League",
-      "match": "Chelsea vs Hull City",
-      "channels": [
-        "Vidio"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 15,
-      "day": "Sabtu",
-      "date": "2026-09-12",
-      "time": "21:00",
-      "end_time": "23:00",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "Premier League",
-      "match": "Crystal Palace vs Ipswich Town",
-      "channels": [
-        "Vidio"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 16,
-      "day": "Sabtu",
-      "date": "2026-09-12",
-      "time": "21:00",
-      "end_time": "23:00",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "Premier League",
-      "match": "Liverpool vs Fulham",
-      "channels": [
-        "Vidio"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 17,
-      "day": "Sabtu",
-      "date": "2026-09-12",
-      "time": "21:15",
-      "end_time": "23:15",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "LaLiga",
-      "match": "Osasuna vs Espanyol",
-      "channels": [
-        "beIN Sports 3"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 18,
-      "day": "Sabtu",
-      "date": "2026-09-12",
-      "time": "22:15",
-      "end_time": "00:15",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "Ligue 1",
-      "match": "Strasbourg vs AS Monaco",
-      "channels": [
-        "Vidio"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 19,
-      "day": "Sabtu",
-      "date": "2026-09-12",
-      "time": "23:00",
-      "end_time": "01:00",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "Serie A",
-      "match": "Lazio vs AC Milan",
-      "channels": [
-        "Vidio"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 20,
-      "day": "Sabtu",
-      "date": "2026-09-12",
-      "time": "23:30",
-      "end_time": "01:30",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "Premier League",
-      "match": "Tottenham Hotspur vs Everton",
-      "channels": [
-        "Vidio"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 21,
-      "day": "Sabtu",
-      "date": "2026-09-12",
-      "time": "23:30",
-      "end_time": "01:30",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "LaLiga",
-      "match": "Athletic Bilbao vs Elche",
-      "channels": [
-        "beIN Sports 2"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 22,
-      "day": "Minggu",
-      "date": "2026-09-13",
-      "time": "01:45",
-      "end_time": "03:45",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "Serie A",
-      "match": "Atalanta vs Cagliari",
-      "channels": [
-        "Vidio"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 23,
-      "day": "Minggu",
-      "date": "2026-09-13",
-      "time": "01:45",
-      "end_time": "03:45",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "Ligue 1",
-      "match": "Auxerre vs Nice",
-      "channels": [
-        "Vidio"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 24,
-      "day": "Minggu",
-      "date": "2026-09-13",
-      "time": "01:45",
-      "end_time": "03:45",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "Ligue 1",
-      "match": "Le Havre vs Angers",
-      "channels": [
-        "Vidio"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 25,
-      "day": "Minggu",
-      "date": "2026-09-13",
-      "time": "01:45",
-      "end_time": "03:45",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "Ligue 1",
-      "match": "Lorient vs Toulouse",
-      "channels": [
-        "Vidio"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 26,
-      "day": "Minggu",
-      "date": "2026-09-13",
-      "time": "01:45",
-      "end_time": "03:45",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "Ligue 1",
-      "match": "Paris FC vs Lyon",
-      "channels": [
-        "Vidio"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 27,
-      "day": "Minggu",
-      "date": "2026-09-13",
-      "time": "02:00",
-      "end_time": "04:00",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "Premier League",
-      "match": "Sunderland vs Arsenal",
-      "channels": [
-        "Vidio"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 28,
-      "day": "Minggu",
-      "date": "2026-09-13",
-      "time": "02:00",
-      "end_time": "04:00",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "LaLiga",
-      "match": "Real Madrid vs Rayo Vallecano",
-      "channels": [
-        "beIN Sports 1"
-      ],
-      "status": "UPCOMING"
-    }
-  ]
-    }
+  {
+    "id": 2,
+    "day": "Minggu",
+    "date": "2026-09-13",
+    "time": "22:30",
+    "end_time": "00:30",
+    "category": "Sepak Bola",
+    "icon": "⚽",
+    "league": "Premier League",
+    "match": "Manchester United vs Manchester City",
+    "channels": ["Vidio"],
+    "status": "UPCOMING"
+  },
+  {
+    "id": 3,
+    "day": "Minggu",
+    "date": "2026-09-13",
+    "time": "22:30",
+    "end_time": "00:30",
+    "category": "Sepak Bola",
+    "icon": "⚽",
+    "league": "Bundesliga",
+    "match": "SV Elversberg vs Bayern Munich",
+    "channels": ["Vision+"],
+    "status": "UPCOMING"
+  },
+  {
+    "id": 4,
+    "day": "Senin",
+    "date": "2026-09-14",
+    "time": "01:45",
+    "end_time": "03:45",
+    "category": "Sepak Bola",
+    "icon": "⚽",
+    "league": "Serie A",
+    "match": "Sassuolo vs Juventus",
+    "channels": ["Vidio"],
+    "status": "UPCOMING"
+  },
+  {
+    "id": 5,
+    "day": "Senin",
+    "date": "2026-09-14",
+    "time": "01:45",
+    "end_time": "03:45",
+    "category": "Sepak Bola",
+    "icon": "⚽",
+    "league": "Ligue 1",
+    "match": "Brest vs PSG",
+    "channels": ["Vidio"],
+    "status": "UPCOMING"
+  },
+  {
+    "id": 6,
+    "day": "Senin",
+    "date": "2026-09-14",
+    "time": "02:00",
+    "end_time": "04:00",
+    "category": "Sepak Bola",
+    "icon": "⚽",
+    "league": "LaLiga",
+    "match": "Real Sociedad vs Atletico Madrid",
+    "channels": ["beIN Sports 1"],
+    "status": "UPCOMING"
+  }
+]
