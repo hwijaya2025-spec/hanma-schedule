@@ -49,96 +49,81 @@
       }
     }
   },
-  "date": "13/09-14/09/2026",
+  "date": "16/09-17/09/2026",
   "title": "Jadwal Siaran & Olahraga",
   "events": [
     {
       "id": 1,
-      "day": "Minggu",
-      "date": "2026-09-13",
-      "time": "21:15",
-      "end_time": "23:15",
+      "day": "Rabu",
+      "date": "2026-09-16",
+      "time": "01:00",
+      "end_time": "03:00",
       "category": "Sepak Bola",
       "icon": "⚽",
-      "league": "LaLiga",
-      "match": "Levante vs Barcelona",
+      "league": "Eredivisie",
+      "match": "Ajax vs Willem II",
       "channels": [
-        "beIN Sports 3"
+        "Ziggo Sport"
       ],
       "status": "UPCOMING"
     },
     {
       "id": 2,
-      "day": "Minggu",
-      "date": "2026-09-13",
-      "time": "22:30",
-      "end_time": "00:30",
+      "day": "Rabu",
+      "date": "2026-09-16",
+      "time": "02:30",
+      "end_time": "04:30",
       "category": "Sepak Bola",
       "icon": "⚽",
-      "league": "Premier League",
-      "match": "Manchester United vs Manchester City",
+      "league": "LaLiga",
+      "match": "Elche vs Real Madrid",
       "channels": [
-        "Vidio"
+        "beIN Sports 1",
+        "Alwan Sport",
+        "Fancode",
+        "Prima Sport",
+        "Ziggo Sport",
+        "Premier Sport"
       ],
       "status": "UPCOMING"
     },
     {
       "id": 3,
-      "day": "Minggu",
-      "date": "2026-09-13",
-      "time": "22:30",
-      "end_time": "00:30",
+      "day": "Kamis",
+      "date": "2026-09-17",
+      "time": "00:00",
+      "end_time": "02:00",
       "category": "Sepak Bola",
       "icon": "⚽",
-      "league": "Bundesliga",
-      "match": "SV Elversberg vs Bayern Munich",
+      "league": "LaLiga",
+      "match": "Atletico Madrid vs Osasuna",
       "channels": [
-        "Vision+"
+        "beIN Sports",
+        "Alwan Sport",
+        "Fancode",
+        "Prima Sport",
+        "Ziggo Sport",
+        "Premier Sport"
       ],
       "status": "UPCOMING"
     },
     {
       "id": 4,
-      "day": "Senin",
-      "date": "2026-09-14",
-      "time": "01:45",
-      "end_time": "03:45",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "Serie A",
-      "match": "Sassuolo vs Juventus",
-      "channels": [
-        "Vidio"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 5,
-      "day": "Senin",
-      "date": "2026-09-14",
-      "time": "01:45",
-      "end_time": "03:45",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "Ligue 1",
-      "match": "Brest vs PSG",
-      "channels": [
-        "Vidio"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 6,
-      "day": "Senin",
-      "date": "2026-09-14",
-      "time": "02:00",
-      "end_time": "04:00",
+      "day": "Kamis",
+      "date": "2026-09-17",
+      "time": "02:30",
+      "end_time": "04:30",
       "category": "Sepak Bola",
       "icon": "⚽",
       "league": "LaLiga",
-      "match": "Real Sociedad vs Atletico Madrid",
+      "match": "Barcelona vs Racing Santander",
       "channels": [
-        "beIN Sports 1"
+        "beIN Sports",
+        "Alwan Sport",
+        "Fancode",
+        "Prima Sport",
+        "Ziggo Sport",
+        "Premier Sport"
       ],
       "status": "UPCOMING"
     }
