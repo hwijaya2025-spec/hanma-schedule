@@ -49,77 +49,92 @@
       }
     }
   },
-  "date": "16/09-17/09/2026",
+  "date": "19/09-20/09/2026",
   "title": "Jadwal Siaran & Olahraga",
   "events": [
     {
       "id": 1,
-      "day": "Rabu",
-      "date": "2026-09-16",
+      "day": "Sabtu",
+      "date": "2026-09-19",
+      "time": "18:30",
+      "end_time": "20:30",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "Premier League",
+      "match": "Tottenham Hotspur vs Aston Villa",
+      "channels": [
+        "Hub Premier",
+        "Fubo Sport",
+        "Alwan Sport",
+        "Sky Sports Premier League",
+        "TNT Sport 1"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 2,
+      "day": "Sabtu",
+      "date": "2026-09-19",
+      "time": "21:00",
+      "end_time": "23:00",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "Premier League",
+      "match": "Brighton vs Arsenal",
+      "channels": [
+        "Hub Premier",
+        "Fubo Sport",
+        "Alwan Sport",
+        "Sky Sports Premier League",
+        "TNT Sport 1"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 3,
+      "day": "Sabtu",
+      "date": "2026-09-19",
+      "time": "23:00",
+      "end_time": "01:00",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "Serie A",
+      "match": "AS Roma vs Inter Milan",
+      "channels": [
+        "Alwan Sport",
+        "beIN Sports 🇦🇺",
+        "Prima Sport"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 4,
+      "day": "Minggu",
+      "date": "2026-09-20",
       "time": "01:00",
       "end_time": "03:00",
       "category": "Sepak Bola",
       "icon": "⚽",
       "league": "Eredivisie",
-      "match": "Ajax vs Willem II",
+      "match": "Ajax vs Excelsior",
       "channels": [
         "Ziggo Sport"
       ],
       "status": "UPCOMING"
     },
     {
-      "id": 2,
-      "day": "Rabu",
-      "date": "2026-09-16",
-      "time": "02:30",
-      "end_time": "04:30",
+      "id": 5,
+      "day": "Minggu",
+      "date": "2026-09-20",
+      "time": "02:00",
+      "end_time": "04:00",
       "category": "Sepak Bola",
       "icon": "⚽",
       "league": "LaLiga",
-      "match": "Elche vs Real Madrid",
+      "match": "Sevilla vs Barcelona",
       "channels": [
         "beIN Sports 1",
-        "Alwan Sport",
-        "Fancode",
-        "Prima Sport",
-        "Ziggo Sport",
-        "Premier Sport"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 3,
-      "day": "Kamis",
-      "date": "2026-09-17",
-      "time": "00:00",
-      "end_time": "02:00",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "LaLiga",
-      "match": "Atletico Madrid vs Osasuna",
-      "channels": [
-        "beIN Sports",
-        "Alwan Sport",
-        "Fancode",
-        "Prima Sport",
-        "Ziggo Sport",
-        "Premier Sport"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 4,
-      "day": "Kamis",
-      "date": "2026-09-17",
-      "time": "02:30",
-      "end_time": "04:30",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "LaLiga",
-      "match": "Barcelona vs Racing Santander",
-      "channels": [
-        "beIN Sports",
-        "Alwan Sport",
+        "Alwan Sport 🇾🇪",
         "Fancode",
         "Prima Sport",
         "Ziggo Sport",
