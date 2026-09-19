@@ -49,19 +49,19 @@
       }
     }
   },
-  "date": "19/09-20/09/2026",
+  "date": "20/09-21/09/2026",
   "title": "Jadwal Siaran & Olahraga",
   "events": [
     {
       "id": 1,
-      "day": "Sabtu",
-      "date": "2026-09-19",
-      "time": "18:30",
-      "end_time": "20:30",
+      "day": "Minggu",
+      "date": "2026-09-20",
+      "time": "20:00",
+      "end_time": "22:00",
       "category": "Sepak Bola",
       "icon": "⚽",
       "league": "Premier League",
-      "match": "Tottenham Hotspur vs Aston Villa",
+      "match": "Bournemouth vs Liverpool",
       "channels": [
         "Hub Premier",
         "Fubo Sport",
@@ -73,14 +73,14 @@
     },
     {
       "id": 2,
-      "day": "Sabtu",
-      "date": "2026-09-19",
-      "time": "21:00",
-      "end_time": "23:00",
+      "day": "Minggu",
+      "date": "2026-09-20",
+      "time": "20:00",
+      "end_time": "22:00",
       "category": "Sepak Bola",
       "icon": "⚽",
       "league": "Premier League",
-      "match": "Brighton vs Arsenal",
+      "match": "Manchester City vs Sunderland",
       "channels": [
         "Hub Premier",
         "Fubo Sport",
@@ -92,14 +92,53 @@
     },
     {
       "id": 3,
-      "day": "Sabtu",
-      "date": "2026-09-19",
+      "day": "Minggu",
+      "date": "2026-09-20",
+      "time": "21:15",
+      "end_time": "23:15",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "LaLiga",
+      "match": "Atlético Madrid vs Real Madrid",
+      "channels": [
+        "beIN Sports 1",
+        "Alwan Sport 🇾🇪",
+        "Fancode",
+        "Prima Sport",
+        "Ziggo Sport",
+        "Premier Sport"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 4,
+      "day": "Minggu",
+      "date": "2026-09-20",
+      "time": "22:30",
+      "end_time": "00:30",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "Premier League",
+      "match": "Fulham vs Manchester United",
+      "channels": [
+        "Hub Premier",
+        "Fubo Sport",
+        "Alwan Sport",
+        "Sky Sports Premier League",
+        "TNT Sport 1"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 5,
+      "day": "Minggu",
+      "date": "2026-09-20",
       "time": "23:00",
       "end_time": "01:00",
       "category": "Sepak Bola",
       "icon": "⚽",
       "league": "Serie A",
-      "match": "AS Roma vs Inter Milan",
+      "match": "Juventus vs Atalanta",
       "channels": [
         "Alwan Sport",
         "beIN Sports 🇦🇺",
@@ -108,37 +147,34 @@
       "status": "UPCOMING"
     },
     {
-      "id": 4,
-      "day": "Minggu",
-      "date": "2026-09-20",
-      "time": "01:00",
-      "end_time": "03:00",
+      "id": 6,
+      "day": "Senin",
+      "date": "2026-09-21",
+      "time": "01:45",
+      "end_time": "03:45",
       "category": "Sepak Bola",
       "icon": "⚽",
-      "league": "Eredivisie",
-      "match": "Ajax vs Excelsior",
+      "league": "Serie A",
+      "match": "AC Milan vs Lecce",
       "channels": [
-        "Ziggo Sport"
+        "Alwan Sport",
+        "beIN Sports 🇦🇺",
+        "Prima Sport"
       ],
       "status": "UPCOMING"
     },
     {
-      "id": 5,
-      "day": "Minggu",
-      "date": "2026-09-20",
-      "time": "02:00",
-      "end_time": "04:00",
+      "id": 7,
+      "day": "Senin",
+      "date": "2026-09-21",
+      "time": "02:45",
+      "end_time": "04:45",
       "category": "Sepak Bola",
       "icon": "⚽",
-      "league": "LaLiga",
-      "match": "Sevilla vs Barcelona",
+      "league": "Ligue 1",
+      "match": "Marseille vs PSG",
       "channels": [
-        "beIN Sports 1",
-        "Alwan Sport 🇾🇪",
-        "Fancode",
-        "Prima Sport",
-        "Ziggo Sport",
-        "Premier Sport"
+        "Saluran belum terkonfirmasi"
       ],
       "status": "UPCOMING"
     }
