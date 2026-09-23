@@ -49,132 +49,111 @@
       }
     }
   },
-  "date": "20/09-21/09/2026",
+  "date": "25/09-27/09/2026",
   "title": "Jadwal Siaran & Olahraga",
   "events": [
     {
       "id": 1,
-      "day": "Minggu",
-      "date": "2026-09-20",
-      "time": "20:00",
-      "end_time": "22:00",
+      "day": "Jumat",
+      "date": "2026-09-25",
+      "time": "02:45",
+      "end_time": "04:45",
       "category": "Sepak Bola",
       "icon": "⚽",
-      "league": "Premier League",
-      "match": "Bournemouth vs Liverpool",
+      "league": "UEFA Nations League",
+      "match": "Belanda vs Jerman",
       "channels": [
-        "Hub Premier",
-        "Fubo Sport",
-        "Alwan Sport",
-        "Sky Sports Premier League",
-        "TNT Sport 1"
+        "Soccer Channel HD"
       ],
       "status": "UPCOMING"
     },
     {
       "id": 2,
-      "day": "Minggu",
-      "date": "2026-09-20",
-      "time": "20:00",
-      "end_time": "22:00",
+      "day": "Jumat",
+      "date": "2026-09-25",
+      "time": "02:45",
+      "end_time": "04:45",
       "category": "Sepak Bola",
       "icon": "⚽",
-      "league": "Premier League",
-      "match": "Manchester City vs Sunderland",
+      "league": "UEFA Nations League",
+      "match": "Norwegia vs Denmark",
       "channels": [
-        "Hub Premier",
-        "Fubo Sport",
-        "Alwan Sport",
-        "Sky Sports Premier League",
-        "TNT Sport 1"
+        "Sportstars 2 HD"
       ],
       "status": "UPCOMING"
     },
     {
       "id": 3,
-      "day": "Minggu",
-      "date": "2026-09-20",
-      "time": "21:15",
-      "end_time": "23:15",
+      "day": "Jumat",
+      "date": "2026-09-25",
+      "time": "02:45",
+      "end_time": "04:45",
       "category": "Sepak Bola",
       "icon": "⚽",
-      "league": "LaLiga",
-      "match": "Atlético Madrid vs Real Madrid",
+      "league": "UEFA Nations League",
+      "match": "Portugal vs Wales",
       "channels": [
-        "beIN Sports 1",
-        "Alwan Sport 🇾🇪",
-        "Fancode",
-        "Prima Sport",
-        "Ziggo Sport",
-        "Premier Sport"
+        "Sportstars HD"
       ],
       "status": "UPCOMING"
     },
     {
       "id": 4,
-      "day": "Minggu",
-      "date": "2026-09-20",
-      "time": "22:30",
-      "end_time": "00:30",
+      "day": "Jumat",
+      "date": "2026-09-25",
+      "time": "20:00",
+      "end_time": "22:00",
       "category": "Sepak Bola",
       "icon": "⚽",
-      "league": "Premier League",
-      "match": "Fulham vs Manchester United",
+      "league": "FIFA ASEAN Cup 2026",
+      "match": "Indonesia vs Singapura",
       "channels": [
-        "Hub Premier",
-        "Fubo Sport",
-        "Alwan Sport",
-        "Sky Sports Premier League",
-        "TNT Sport 1"
+        "Vidio"
       ],
       "status": "UPCOMING"
     },
     {
       "id": 5,
-      "day": "Minggu",
-      "date": "2026-09-20",
-      "time": "23:00",
-      "end_time": "01:00",
+      "day": "Sabtu",
+      "date": "2026-09-26",
+      "time": "02:45",
+      "end_time": "04:45",
       "category": "Sepak Bola",
       "icon": "⚽",
-      "league": "Serie A",
-      "match": "Juventus vs Atalanta",
+      "league": "UEFA Nations League",
+      "match": "Italia vs Belgia",
       "channels": [
-        "Alwan Sport",
-        "beIN Sports 🇦🇺",
-        "Prima Sport"
+        "Saluran Belum Terkonfirmasi"
       ],
       "status": "UPCOMING"
     },
     {
       "id": 6,
-      "day": "Senin",
-      "date": "2026-09-21",
-      "time": "01:45",
-      "end_time": "03:45",
+      "day": "Sabtu",
+      "date": "2026-09-26",
+      "time": "02:45",
+      "end_time": "04:45",
       "category": "Sepak Bola",
       "icon": "⚽",
-      "league": "Serie A",
-      "match": "AC Milan vs Lecce",
+      "league": "UEFA Nations League",
+      "match": "Türkiye vs Prancis",
       "channels": [
-        "Alwan Sport",
-        "beIN Sports 🇦🇺",
-        "Prima Sport"
+        "Saluran Belum Terkonfirmasi"
       ],
       "status": "UPCOMING"
     },
     {
       "id": 7,
-      "day": "Senin",
-      "date": "2026-09-21",
+      "day": "Minggu",
+      "date": "2026-09-27",
       "time": "02:45",
       "end_time": "04:45",
       "category": "Sepak Bola",
       "icon": "⚽",
-      "league": "Ligue 1",
-      "match": "Marseille vs PSG",
+      "league": "UEFA Nations League",
+      "match": "Inggris vs Spanyol",
       "channels": [
-        "Saluran belum terkonfirmasi"
+        "Soccer Channel HD"
       ],
       "status": "UPCOMING"
     }
