@@ -54,100 +54,10 @@
   "events": [
     {
       "id": 1,
-      "day": "Jumat",
-      "date": "2026-09-25",
-      "time": "02:45",
-      "end_time": "04:45",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "UEFA Nations League",
-      "match": "Belanda vs Jerman",
-      "channels": [
-        "Soccer Channel HD"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 2,
-      "day": "Jumat",
-      "date": "2026-09-25",
-      "time": "02:45",
-      "end_time": "04:45",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "UEFA Nations League",
-      "match": "Norwegia vs Denmark",
-      "channels": [
-        "Sportstars 2 HD"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 3,
-      "day": "Jumat",
-      "date": "2026-09-25",
-      "time": "02:45",
-      "end_time": "04:45",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "UEFA Nations League",
-      "match": "Portugal vs Wales",
-      "channels": [
-        "Sportstars HD"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 4,
-      "day": "Jumat",
-      "date": "2026-09-25",
-      "time": "20:00",
-      "end_time": "22:00",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "FIFA ASEAN Cup 2026",
-      "match": "Indonesia vs Singapura",
-      "channels": [
-        "Vidio"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 5,
-      "day": "Sabtu",
-      "date": "2026-09-26",
-      "time": "02:45",
-      "end_time": "04:45",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "UEFA Nations League",
-      "match": "Italia vs Belgia",
-      "channels": [
-        "Saluran Belum Terkonfirmasi"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 6,
-      "day": "Sabtu",
-      "date": "2026-09-26",
-      "time": "02:45",
-      "end_time": "04:45",
-      "category": "Sepak Bola",
-      "icon": "⚽",
-      "league": "UEFA Nations League",
-      "match": "Türkiye vs Prancis",
-      "channels": [
-        "Saluran Belum Terkonfirmasi"
-      ],
-      "status": "UPCOMING"
-    },
-    {
-      "id": 7,
       "day": "Minggu",
       "date": "2026-09-27",
-      "time": "02:45",
-      "end_time": "04:45",
+      "time": "01:45",
+      "end_time": "03:45",
       "category": "Sepak Bola",
       "icon": "⚽",
       "league": "UEFA Nations League",
