@@ -49,23 +49,42 @@
       }
     }
   },
-  "date": "25/09-27/09/2026",
+  "date": "28/09/2026",
   "title": "Jadwal Siaran & Olahraga",
   "events": [
     {
       "id": 1,
-      "day": "Minggu",
-      "date": "2026-09-27",
+      "day": "Senin",
+      "date": "2026-09-28",
       "time": "01:45",
       "end_time": "03:45",
       "category": "Sepak Bola",
       "icon": "⚽",
       "league": "UEFA Nations League",
-      "match": "Inggris vs Spanyol",
+      "match": "Portugal vs Norwegia",
       "channels": [
-        "Soccer Channel HD"
+        "Sportstars HD",
+        "RCTI"
+      ],
+      "status": "UPCOMING"
+    },
+    {
+      "id": 2,
+      "day": "Senin",
+      "date": "2026-09-28",
+      "time": "19:30",
+      "end_time": "21:30",
+      "category": "Sepak Bola",
+      "icon": "⚽",
+      "league": "FIFA ASEAN Cup 2026",
+      "match": "Indonesia vs Malaysia",
+      "channels": [
+        "M Live 5",
+        "T Sports",
+        "Indosiar",
+        "SCTV"
       ],
       "status": "UPCOMING"
     }
   ]
-}
+    }
