@@ -55,34 +55,36 @@
     {
       "id": 1,
       "day": "Senin",
-      "date": "2026-09-28",
-      "time": "01:45",
-      "end_time": "03:45",
+      "date": "2026-10-05",
+      "time": "16:00",
+      "end_time": "18:00",
       "category": "Sepak Bola",
       "icon": "⚽",
-      "league": "UEFA Nations League",
-      "match": "Portugal vs Norwegia",
+      "league": "Bronze Final FIFA ASEAN Cup 2026",
+      "match": "Malaysia vs Vietnam",
       "channels": [
-        "Sportstars HD",
-        "RCTI"
+        "M Live 5",
+        "Indosiar Digital",
+        "SCTV Digital",
+        "T Sports"
       ],
       "status": "UPCOMING"
     },
     {
       "id": 2,
       "day": "Senin",
-      "date": "2026-09-28",
-      "time": "19:30",
-      "end_time": "21:30",
+      "date": "2026-10-05",
+      "time": "20:00",
+      "end_time": "22:00",
       "category": "Sepak Bola",
       "icon": "⚽",
-      "league": "FIFA ASEAN Cup 2026",
-      "match": "Indonesia vs Malaysia",
+      "league": "Final FIFA ASEAN Cup 2026",
+      "match": "Indonesia vs Thailand",
       "channels": [
-        "M Live 5",
-        "T Sports",
-        "Indosiar",
-        "SCTV"
+        "M Live 6",
+        "Indosiar Digital",
+        "SCTV Digital",
+        "T Sports"
       ],
       "status": "UPCOMING"
     }
