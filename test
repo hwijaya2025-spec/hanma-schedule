@@ -1,3 +1,284 @@
 #EXTM3U
-#EXTINF:-1,Live Stream
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4349031412727061_AlSD.m3u8?txSecret=f2f0c7a86f1ce49225c374a4d48c3d2f&txTime=6AD838C0
+# Playlist generated from original source:
+# https://raw.githubusercontent.com/movietrailersxxi-pixel/duktek2/refs/heads/main/assets/tv-events.dat
+# Data is taken from that source. Re-generate when source updates.
+# Note: dash-clearkey streams need ClearKey DRM (Kodi + InputStream Adaptive recommended)
+
+#EXTINF:-1 tvg-id="239" tvg-name="Al Faisaly vs Al Nassr | Saudi Professional League [2026-10-23 21:30+08]" tvg-logo="https://img0.aiscore.com/football/team/4e9f55c1006ca24b2b535054a52187e8.png!w30" group-title="Saudi Professional League",Al Faisaly vs Al Nassr | Saudi Professional League [2026-10-23 21:30+08]
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=CVE7ellPXRAAAA5fCWdHWwFtfVoVX0FUXl8BWjNEDQBlfFFCC0JWXwtSDzIWCQE7KllPDEYAUwlWXjATAQBuLVE=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+
+#EXTINF:-1 tvg-id="5388" tvg-name="Al Ittihad vs Diraiyah | Saudi Professional League [2026-10-23 23:30+08]" tvg-logo="https://img0.aiscore.com/football/team/dea986d20115216c05d1a45ba9a6162e.png!w30" group-title="Saudi Professional League",Al Ittihad vs Diraiyah | Saudi Professional League [2026-10-23 23:30+08]
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/77693/77693_264_live.m3u8
+
+#EXTINF:-1 tvg-id="5388" tvg-name="Al Qadsiah vs Al Hilal | Saudi Professional League [2026-10-24 02:00+08]" tvg-logo="https://img0.aiscore.com/football/team/bc74439d19c8bbaa17c57406b120b86d.png!w30" group-title="Saudi Professional League",Al Qadsiah vs Al Hilal | Saudi Professional League [2026-10-24 02:00+08]
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/77693/77693_264_live.m3u8
+
+#EXTINF:-1 tvg-id="1100" tvg-name="Go Ahead Eagles vs SC Telstar | Netherlands Eredivisie [2026-10-24 02:00+08]" tvg-logo="https://img0.aiscore.com/football/team/acc42732b97d91016e37952666003417.png!w30" group-title="Netherlands Eredivisie",Go Ahead Eagles vs SC Telstar | Netherlands Eredivisie [2026-10-24 02:00+08]
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=XFY8L1BEX0RWBFEDWWURDFM5dw1PWEpcAFxUCDRCXFFle1wSWBUBUlBeD2gUCAg5eApOWkoHVVlVXDVDW1M5Kw0=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="1100" tvg-name="VfB Stuttgart vs Borussia Monchengladbach | Bundesliga [2026-10-24 02:30+08]" tvg-logo="https://img0.aiscore.com/football/team/bfdd500484330d63a723cbc396df762c.png!w30" group-title="Bundesliga",VfB Stuttgart vs Borussia Monchengladbach | Bundesliga [2026-10-24 02:30+08]
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=XFY8L1BEX0RWBFEDWWURDFM5dw1PWEpcAFxUCDRCXFFle1wSWBUBUlBeD2gUCAg5eApOWkoHVVlVXDVDW1M5Kw0=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="1100" tvg-name="Stade Brestois 29 vs OGC Nice | French Ligue 1 [2026-10-24 02:45+08]" tvg-logo="https://img0.aiscore.com/football/team/bb7e6346a3860008e4ff266ba3b655e8.png!w30" group-title="French Ligue 1",Stade Brestois 29 vs OGC Nice | French Ligue 1 [2026-10-24 02:45+08]
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=XFY8L1BEX0RWBFEDWWURDFM5dw1PWEpcAFxUCDRCXFFle1wSWBUBUlBeD2gUCAg5eApOWkoHVVlVXDVDW1M5Kw0=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="2939" tvg-name="Torino vs Monza | Italian Serie A [2026-10-24 02:45+08]" tvg-logo="https://img0.aiscore.com/football/team/f0856c1b16c32245a8d2c702ffe89ac5.png!w30" group-title="Italian Serie A",Torino vs Monza | Italian Serie A [2026-10-24 02:45+08]
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=CVJrfAsSX0VSUgxQD2lGCFRveg9ECEZUUg1XU2NDWgVlLwxFWUNdVllVWTNPWgdtLwpCWUNQAgtWX2NPDQc8LFE=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://otte.cache.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 tvg-id="3523" tvg-name="Deportivo Alavés vs Malaga | Spanish La Liga [2026-10-24 03:00+08]" tvg-logo="https://img0.aiscore.com/football/team/fffbebaa7a0c3c2db7e8d637a3de1811.png!w30" group-title="Spanish La Liga",Deportivo Alavés vs Malaga | Spanish La Liga [2026-10-24 03:00+08]
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=CAlmegtGCRVTAg4DWDRPWAg7eQtODxVXAApeWmFFAQVlfFsWXEdQUgpUDjBGAVVufVBGVEJSUF0FWTVBDAJnfVw=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+
+#EXTINF:-1 tvg-id="5188" tvg-name="Ipswich Town vs Nottingham Forest | English Premier League [2026-10-24 03:00+08]" tvg-logo="https://img0.aiscore.com/football/team/cec3eaaa5271c1f2f036469593ecbcd8.png!w30" group-title="English Premier League",Ipswich Town vs Nottingham Forest | English Premier League [2026-10-24 03:00+08]
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=DQI5eVsUXUFRAgxSWWFEAAJreggTDkJXBF8CWWATWFRlL14VCUpQVwlWUzdBXVRueg9EXUNQB15VWTBBWFRsL1g=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://otte.cache.aiv-cdn.net/sin-nitro/live/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd
+
+#EXTINF:-1 tvg-id="210" tvg-name="Australia vs Free Practice Nr. 2 | MotoGP [2026-10-24 05:40+08]" tvg-logo="https://raw.githubusercontent.com/movietrailersxxi-pixel/web/main/img/motogp.png" group-title="MotoGP",Australia vs Free Practice Nr. 2 | MotoGP [2026-10-24 05:40+08]
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=XwM7KF5PWUBUXlgGD2ZDClI5dl9CCRBRAAwBXGUUDwhle19ADktSVQoEW2MSWwdreVFPCBJTUlBfUjJHDQI6fws=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+
+#EXTINF:-1 tvg-id="210" tvg-name="Australia vs Qualifying Nr. 1 & 2 | MotoGP [2026-10-24 07:50+08]" tvg-logo="https://raw.githubusercontent.com/movietrailersxxi-pixel/web/main/img/motogp.png" group-title="MotoGP",Australia vs Qualifying Nr. 1 & 2 | MotoGP [2026-10-24 07:50+08]
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=XwM7KF5PWUBUXlgGD2ZDClI5dl9CCRBRAAwBXGUUDwhle19ADktSVQoEW2MSWwdreVFPCBJTUlBfUjJHDQI6fws=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+
+#EXTINF:-1 tvg-id="210" tvg-name="Australia vs Tissot Sprint | MotoGP [2026-10-24 12:00+08]" tvg-logo="https://raw.githubusercontent.com/movietrailersxxi-pixel/web/main/img/motogp.png" group-title="MotoGP",Australia vs Tissot Sprint | MotoGP [2026-10-24 12:00+08]
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=XwM7KF5PWUBUXlgGD2ZDClI5dl9CCRBRAAwBXGUUDwhle19ADktSVQoEW2MSWwdreVFPCBJTUlBfUjJHDQI6fws=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+
+#EXTINF:-1 tvg-id="3318" tvg-name="Isenmulang Kalteng vs PSIM Yogyakarta | Indonesian Super League [2026-10-24 16:30+08]" tvg-logo="https://img0.aiscore.com/football/team/f73c1ea9dfcd122654135c3c80d2d2be.png!w30" group-title="Indonesian Super League",Isenmulang Kalteng vs PSIM Yogyakarta | Indonesian Super League [2026-10-24 16:30+08]
+https://live2.brenvoxedgenetwork.com/live/channel16.m3u8
+
+#EXTINF:-1 tvg-id="1100" tvg-name="Aston Villa vs Manchester City | English Premier League [2026-10-24 19:30+08]" tvg-logo="https://img0.aiscore.com/football/team/a3c32d6a906083118cac2cb796edaab3.png!w30" group-title="English Premier League",Aston Villa vs Manchester City | English Premier League [2026-10-24 19:30+08]
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=XFY8L1BEX0RWBFEDWWURDFM5dw1PWEpcAFxUCDRCXFFle1wSWBUBUlBeD2gUCAg5eApOWkoHVVlVXDVDW1M5Kw0=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="3318" tvg-name="Persijap Jepara vs Java United F.C. | Indonesian Super League [2026-10-24 20:00+08]" tvg-logo="https://img0.aiscore.com/football/team/f4bd932b7d276a93696f4491f334c932.png!w30" group-title="Indonesian Super League",Persijap Jepara vs Java United F.C. | Indonesian Super League [2026-10-24 20:00+08]
+https://live2.brenvoxedgenetwork.com/live/channel16.m3u8
+
+#EXTINF:-1 tvg-id="1100" tvg-name="Rayo Vallecano vs Elche CF | Spanish La Liga [2026-10-24 20:00+08]" tvg-logo="https://img0.aiscore.com/football/team/5005d8feab109ce64e40beb98073cc1f.png!w30" group-title="Spanish La Liga",Rayo Vallecano vs Elche CF | Spanish La Liga [2026-10-24 20:00+08]
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=XFY8L1BEX0RWBFEDWWURDFM5dw1PWEpcAFxUCDRCXFFle1wSWBUBUlBeD2gUCAg5eApOWkoHVVlVXDVDW1M5Kw0=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="1100" tvg-name="Cagliari vs Bologna | Italian Serie A [2026-10-24 21:00+08]" tvg-logo="https://img0.aiscore.com/football/team/dba65c184e03c860ed919ce192b86c5e.png!w30" group-title="Italian Serie A",Cagliari vs Bologna | Italian Serie A [2026-10-24 21:00+08]
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=XFY8L1BEX0RWBFEDWWURDFM5dw1PWEpcAFxUCDRCXFFle1wSWBUBUlBeD2gUCAg5eApOWkoHVVlVXDVDW1M5Kw0=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="1100" tvg-name="Como vs Sassuolo | Italian Serie A [2026-10-24 21:00+08]" tvg-logo="https://img0.aiscore.com/football/team/5f7059f40965e5a2cc00987e6bac2f32.png!w30" group-title="Italian Serie A",Como vs Sassuolo | Italian Serie A [2026-10-24 21:00+08]
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=XFY8L1BEX0RWBFEDWWURDFM5dw1PWEpcAFxUCDRCXFFle1wSWBUBUlBeD2gUCAg5eApOWkoHVVlVXDVDW1M5Kw0=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="1100" tvg-name="1. FSV Mainz 05 vs SV Werder Bremen | Bundesliga [2026-10-24 21:30+08]" tvg-logo="https://img0.aiscore.com/football/team/25df2ab8d6c975b4218480a23ace9285.png!w30" group-title="Bundesliga",1. FSV Mainz 05 vs SV Werder Bremen | Bundesliga [2026-10-24 21:30+08]
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=XFY8L1BEX0RWBFEDWWURDFM5dw1PWEpcAFxUCDRCXFFle1wSWBUBUlBeD2gUCAg5eApOWkoHVVlVXDVDW1M5Kw0=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="1100" tvg-name="FC Augsburg vs 1. FC Union Berlin | Bundesliga [2026-10-24 21:30+08]" tvg-logo="https://img0.aiscore.com/football/team/db4411a3c4ce1d0f092f5b9d1df08664.png!w30" group-title="Bundesliga",FC Augsburg vs 1. FC Union Berlin | Bundesliga [2026-10-24 21:30+08]
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=XFY8L1BEX0RWBFEDWWURDFM5dw1PWEpcAFxUCDRCXFFle1wSWBUBUlBeD2gUCAg5eApOWkoHVVlVXDVDW1M5Kw0=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="1100" tvg-name="FC Köln vs Schalke 04 | Bundesliga [2026-10-24 21:30+08]" tvg-logo="https://img0.aiscore.com/football/team/887b7663a0d47031528921d9972ae3a6.png!w30" group-title="Bundesliga",FC Köln vs Schalke 04 | Bundesliga [2026-10-24 21:30+08]
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=XFY8L1BEX0RWBFEDWWURDFM5dw1PWEpcAFxUCDRCXFFle1wSWBUBUlBeD2gUCAg5eApOWkoHVVlVXDVDW1M5Kw0=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="1100" tvg-name="RB Leipzig vs SV 07 Elversberg | Bundesliga [2026-10-24 21:30+08]" tvg-logo="https://img0.aiscore.com/football/team/c166a220bf20977df2bd82fc067696f5.png!w30" group-title="Bundesliga",RB Leipzig vs SV 07 Elversberg | Bundesliga [2026-10-24 21:30+08]
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=XFY8L1BEX0RWBFEDWWURDFM5dw1PWEpcAFxUCDRCXFFle1wSWBUBUlBeD2gUCAg5eApOWkoHVVlVXDVDW1M5Kw0=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="1100" tvg-name="SC Paderborn 07 vs Hamburger SV | Bundesliga [2026-10-24 21:30+08]" tvg-logo="https://img0.aiscore.com/football/team/7c8c3c50966c793eba910e18659759a1.png!w30" group-title="Bundesliga",SC Paderborn 07 vs Hamburger SV | Bundesliga [2026-10-24 21:30+08]
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=XFY8L1BEX0RWBFEDWWURDFM5dw1PWEpcAFxUCDRCXFFle1wSWBUBUlBeD2gUCAg5eApOWkoHVVlVXDVDW1M5Kw0=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="1100" tvg-name="Arsenal vs Everton | English Premier League [2026-10-24 22:00+08]" tvg-logo="https://img0.aiscore.com/football/team/d6f5debc456da1119256ab66462ab510.png!w30" group-title="English Premier League",Arsenal vs Everton | English Premier League [2026-10-24 22:00+08]
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=XFY8L1BEX0RWBFEDWWURDFM5dw1PWEpcAFxUCDRCXFFle1wSWBUBUlBeD2gUCAg5eApOWkoHVVlVXDVDW1M5Kw0=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="1100" tvg-name="Coventry City vs Fulham | English Premier League [2026-10-24 22:00+08]" tvg-logo="https://img0.aiscore.com/football/team/759f19ccaecadd33a5c09b535e543410.png!w30" group-title="English Premier League",Coventry City vs Fulham | English Premier League [2026-10-24 22:00+08]
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=XFY8L1BEX0RWBFEDWWURDFM5dw1PWEpcAFxUCDRCXFFle1wSWBUBUlBeD2gUCAg5eApOWkoHVVlVXDVDW1M5Kw0=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="1100" tvg-name="Racing Santander vs RCD Espanyol | Spanish La Liga [2026-10-24 22:15+08]" tvg-logo="https://img0.aiscore.com/football/team/8db7260a18b1be68e8710cfdbf6be3df.png!w30" group-title="Spanish La Liga",Racing Santander vs RCD Espanyol | Spanish La Liga [2026-10-24 22:15+08]
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=XFY8L1BEX0RWBFEDWWURDFM5dw1PWEpcAFxUCDRCXFFle1wSWBUBUlBeD2gUCAg5eApOWkoHVVlVXDVDW1M5Kw0=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="1100" tvg-name="FC Utrecht vs PEC Zwolle | Netherlands Eredivisie [2026-10-24 22:30+08]" tvg-logo="https://img0.aiscore.com/football/team/181ee8709b75f543a1cf4c943ae3304b.png!w30" group-title="Netherlands Eredivisie",FC Utrecht vs PEC Zwolle | Netherlands Eredivisie [2026-10-24 22:30+08]
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=XFY8L1BEX0RWBFEDWWURDFM5dw1PWEpcAFxUCDRCXFFle1wSWBUBUlBeD2gUCAg5eApOWkoHVVlVXDVDW1M5Kw0=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="1100" tvg-name="Napoli vs AS Roma | Italian Serie A [2026-10-25 00:00+08]" tvg-logo="https://img0.aiscore.com/football/team/37ed13d27edccd30e053167962c02b3a.png!w30" group-title="Italian Serie A",Napoli vs AS Roma | Italian Serie A [2026-10-25 00:00+08]
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=XFY8L1BEX0RWBFEDWWURDFM5dw1PWEpcAFxUCDRCXFFle1wSWBUBUlBeD2gUCAg5eApOWkoHVVlVXDVDW1M5Kw0=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="1100" tvg-name="Borussia Dortmund vs Eintracht Frankfurt | Bundesliga [2026-10-25 00:30+08]" tvg-logo="https://img0.aiscore.com/football/team/bbfacbdbe67705172c6414d7e9c21b58.png!w30" group-title="Bundesliga",Borussia Dortmund vs Eintracht Frankfurt | Bundesliga [2026-10-25 00:30+08]
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=XFY8L1BEX0RWBFEDWWURDFM5dw1PWEpcAFxUCDRCXFFle1wSWBUBUlBeD2gUCAg5eApOWkoHVVlVXDVDW1M5Kw0=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="1100" tvg-name="Chelsea vs Tottenham Hotspur | English Premier League [2026-10-25 00:30+08]" tvg-logo="https://img0.aiscore.com/football/team/a0cf8f551e9440acb3f4ff533dcc58a4.png!w30" group-title="English Premier League",Chelsea vs Tottenham Hotspur | English Premier League [2026-10-25 00:30+08]
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=XFY8L1BEX0RWBFEDWWURDFM5dw1PWEpcAFxUCDRCXFFle1wSWBUBUlBeD2gUCAg5eApOWkoHVVlVXDVDW1M5Kw0=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="1100" tvg-name="Valencia CF vs Villarreal CF | Spanish La Liga [2026-10-25 00:30+08]" tvg-logo="https://img0.aiscore.com/football/team/3b54543c1a584e2e9948d655142996d3.png!w30" group-title="Spanish La Liga",Valencia CF vs Villarreal CF | Spanish La Liga [2026-10-25 00:30+08]
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=XFY8L1BEX0RWBFEDWWURDFM5dw1PWEpcAFxUCDRCXFFle1wSWBUBUlBeD2gUCAg5eApOWkoHVVlVXDVDW1M5Kw0=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="1100" tvg-name="Willem II vs SC Cambuur Leeuwarden | Netherlands Eredivisie [2026-10-25 00:45+08]" tvg-logo="https://img0.aiscore.com/football/team/7b10a020a3acd1ed95d783a1dfa3498e.png!w30" group-title="Netherlands Eredivisie",Willem II vs SC Cambuur Leeuwarden | Netherlands Eredivisie [2026-10-25 00:45+08]
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=XFY8L1BEX0RWBFEDWWURDFM5dw1PWEpcAFxUCDRCXFFle1wSWBUBUlBeD2gUCAg5eApOWkoHVVlVXDVDW1M5Kw0=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="1100" tvg-name="Lazio vs Parma | Italian Serie A [2026-10-25 02:45+08]" tvg-logo="https://img0.aiscore.com/football/team/5a2ff46efa33abc6b2908eb6279dfbf8.png!w30" group-title="Italian Serie A",Lazio vs Parma | Italian Serie A [2026-10-25 02:45+08]
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=XFY8L1BEX0RWBFEDWWURDFM5dw1PWEpcAFxUCDRCXFFle1wSWBUBUlBeD2gUCAg5eApOWkoHVVlVXDVDW1M5Kw0=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="1100" tvg-name="RC Lens vs Paris FC | French Ligue 1 [2026-10-25 02:45+08]" tvg-logo="https://img0.aiscore.com/football/team/b8c5038ebb0e21b09a72008b7cb6219f.png!w30" group-title="French Ligue 1",RC Lens vs Paris FC | French Ligue 1 [2026-10-25 02:45+08]
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=XFY8L1BEX0RWBFEDWWURDFM5dw1PWEpcAFxUCDRCXFFle1wSWBUBUlBeD2gUCAg5eApOWkoHVVlVXDVDW1M5Kw0=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="1100" tvg-name="ADO Den Haag vs SC Heerenveen | Netherlands Eredivisie [2026-10-25 03:00+08]" tvg-logo="https://img0.aiscore.com/football/team/3dbce6bb7b1adc861642a7a1fc9b3796.png!w30" group-title="Netherlands Eredivisie",ADO Den Haag vs SC Heerenveen | Netherlands Eredivisie [2026-10-25 03:00+08]
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=XFY8L1BEX0RWBFEDWWURDFM5dw1PWEpcAFxUCDRCXFFle1wSWBUBUlBeD2gUCAg5eApOWkoHVVlVXDVDW1M5Kw0=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="1100" tvg-name="Atletico Madrid vs RC Deportivo | Spanish La Liga [2026-10-25 03:00+08]" tvg-logo="https://img0.aiscore.com/football/team/390977b0421bce136c562057ea171ecf.png!w30" group-title="Spanish La Liga",Atletico Madrid vs RC Deportivo | Spanish La Liga [2026-10-25 03:00+08]
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=XFY8L1BEX0RWBFEDWWURDFM5dw1PWEpcAFxUCDRCXFFle1wSWBUBUlBeD2gUCAg5eApOWkoHVVlVXDVDW1M5Kw0=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="210" tvg-name="Australia vs Warm Up & Rider Parade | MotoGP [2026-10-25 06:40+08]" tvg-logo="https://raw.githubusercontent.com/movietrailersxxi-pixel/web/main/img/motogp.png" group-title="MotoGP",Australia vs Warm Up & Rider Parade | MotoGP [2026-10-25 06:40+08]
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=XwM7KF5PWUBUXlgGD2ZDClI5dl9CCRBRAAwBXGUUDwhle19ADktSVQoEW2MSWwdreVFPCBJTUlBfUjJHDQI6fws=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+
+#EXTINF:-1 tvg-id="210" tvg-name="Australia vs Race / Grand Prix | MotoGP [2026-10-25 08:00+08]" tvg-logo="https://raw.githubusercontent.com/movietrailersxxi-pixel/web/main/img/motogp.png" group-title="MotoGP",Australia vs Race / Grand Prix | MotoGP [2026-10-25 08:00+08]
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=XwM7KF5PWUBUXlgGD2ZDClI5dl9CCRBRAAwBXGUUDwhle19ADktSVQoEW2MSWwdreVFPCBJTUlBfUjJHDQI6fws=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+
+#EXTINF:-1 tvg-id="3318" tvg-name="Arema FC vs Dewa United FC | Indonesian Super League [2026-10-25 16:30+08]" tvg-logo="https://img0.aiscore.com/football/team/55cba4a142146e2cdc317d21eb4daf76.png!w30" group-title="Indonesian Super League",Arema FC vs Dewa United FC | Indonesian Super League [2026-10-25 16:30+08]
+https://live2.brenvoxedgenetwork.com/live/channel16.m3u8
+
+#EXTINF:-1 tvg-id="3318" tvg-name="Persita Tangerang vs Bali United | Indonesian Super League [2026-10-25 16:30+08]" tvg-logo="https://img0.aiscore.com/football/team/da85ffb03146e72ce9928729dcabda51.png!w30" group-title="Indonesian Super League",Persita Tangerang vs Bali United | Indonesian Super League [2026-10-25 16:30+08]
+https://live2.brenvoxedgenetwork.com/live/channel16.m3u8
+
+#EXTINF:-1 tvg-id="1100" tvg-name="Fortuna Sittard vs Excelsior SBV | Netherlands Eredivisie [2026-10-25 19:15+08]" tvg-logo="https://img0.aiscore.com/football/team/622951cb622289cb656f2a1a05edcb13.png!w30" group-title="Netherlands Eredivisie",Fortuna Sittard vs Excelsior SBV | Netherlands Eredivisie [2026-10-25 19:15+08]
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=XFY8L1BEX0RWBFEDWWURDFM5dw1PWEpcAFxUCDRCXFFle1wSWBUBUlBeD2gUCAg5eApOWkoHVVlVXDVDW1M5Kw0=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="1100" tvg-name="Inter Milan vs Fiorentina | Italian Serie A [2026-10-25 19:30+08]" tvg-logo="https://img0.aiscore.com/football/team/aa2245702c40f77799a5ad4b119581a8.png!w30" group-title="Italian Serie A",Inter Milan vs Fiorentina | Italian Serie A [2026-10-25 19:30+08]
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=XFY8L1BEX0RWBFEDWWURDFM5dw1PWEpcAFxUCDRCXFFle1wSWBUBUlBeD2gUCAg5eApOWkoHVVlVXDVDW1M5Kw0=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="3318" tvg-name="Garudayaksa FC vs Persib Bandung | Indonesian Super League [2026-10-25 20:00+08]" tvg-logo="https://img0.aiscore.com/football/team/015df51660b2918c97305936453e454c.png!w30" group-title="Indonesian Super League",Garudayaksa FC vs Persib Bandung | Indonesian Super League [2026-10-25 20:00+08]
+https://live2.brenvoxedgenetwork.com/live/channel16.m3u8
+
+#EXTINF:-1 tvg-id="1100" tvg-name="Athletic Club vs Getafe | Spanish La Liga [2026-10-25 21:00+08]" tvg-logo="https://img0.aiscore.com/football/team/abbb31d42c55612737713aac6567a226.png!w30" group-title="Spanish La Liga",Athletic Club vs Getafe | Spanish La Liga [2026-10-25 21:00+08]
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=XFY8L1BEX0RWBFEDWWURDFM5dw1PWEpcAFxUCDRCXFFle1wSWBUBUlBeD2gUCAg5eApOWkoHVVlVXDVDW1M5Kw0=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="1100" tvg-name="NEC Nijmegen vs Groningen | Netherlands Eredivisie [2026-10-25 21:30+08]" tvg-logo="https://img0.aiscore.com/football/team/d22de494a1ff648e90892c249c5aed12.png!w30" group-title="Netherlands Eredivisie",NEC Nijmegen vs Groningen | Netherlands Eredivisie [2026-10-25 21:30+08]
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=XFY8L1BEX0RWBFEDWWURDFM5dw1PWEpcAFxUCDRCXFFle1wSWBUBUlBeD2gUCAg5eApOWkoHVVlVXDVDW1M5Kw0=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="1100" tvg-name="PSV Eindhoven vs Feyenoord | Netherlands Eredivisie [2026-10-25 21:30+08]" tvg-logo="https://img0.aiscore.com/football/team/cad5af4d1ff0e6f3119af3d273d95d31.png!w30" group-title="Netherlands Eredivisie",PSV Eindhoven vs Feyenoord | Netherlands Eredivisie [2026-10-25 21:30+08]
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=XFY8L1BEX0RWBFEDWWURDFM5dw1PWEpcAFxUCDRCXFFle1wSWBUBUlBeD2gUCAg5eApOWkoHVVlVXDVDW1M5Kw0=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="1100" tvg-name="AS Monaco vs LOSC Lille | French Ligue 1 [2026-10-25 22:00+08]" tvg-logo="https://img0.aiscore.com/football/team/693af0d277fe3179594695614dce8666.png!w30" group-title="French Ligue 1",AS Monaco vs LOSC Lille | French Ligue 1 [2026-10-25 22:00+08]
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=XFY8L1BEX0RWBFEDWWURDFM5dw1PWEpcAFxUCDRCXFFle1wSWBUBUlBeD2gUCAg5eApOWkoHVVlVXDVDW1M5Kw0=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="1100" tvg-name="Atalanta vs Frosinone | Italian Serie A [2026-10-25 22:00+08]" tvg-logo="https://img0.aiscore.com/football/team/43a877bf7a6f4c109f0affbf45d5f19c.png!w30" group-title="Italian Serie A",Atalanta vs Frosinone | Italian Serie A [2026-10-25 22:00+08]
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=XFY8L1BEX0RWBFEDWWURDFM5dw1PWEpcAFxUCDRCXFFle1wSWBUBUlBeD2gUCAg5eApOWkoHVVlVXDVDW1M5Kw0=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="1100" tvg-name="Crystal Palace vs Newcastle United | English Premier League [2026-10-25 22:00+08]" tvg-logo="https://img0.aiscore.com/football/team/42396d18444156e640c37476c2b41b93.png!w30" group-title="English Premier League",Crystal Palace vs Newcastle United | English Premier League [2026-10-25 22:00+08]
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=XFY8L1BEX0RWBFEDWWURDFM5dw1PWEpcAFxUCDRCXFFle1wSWBUBUlBeD2gUCAg5eApOWkoHVVlVXDVDW1M5Kw0=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="1100" tvg-name="Genoa vs Venezia | Italian Serie A [2026-10-25 22:00+08]" tvg-logo="https://img0.aiscore.com/football/team/51474fb68c7da46b9c20ebddccec7766.png!w30" group-title="Italian Serie A",Genoa vs Venezia | Italian Serie A [2026-10-25 22:00+08]
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=XFY8L1BEX0RWBFEDWWURDFM5dw1PWEpcAFxUCDRCXFFle1wSWBUBUlBeD2gUCAg5eApOWkoHVVlVXDVDW1M5Kw0=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
